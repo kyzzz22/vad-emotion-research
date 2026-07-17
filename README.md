@@ -71,7 +71,7 @@ NRC-VAD 原词典也需要由使用者根据官方许可自行下载。仓库不
 首次在另一台电脑使用：
 
 ```bash
-git clone <private-repository-url>
+git clone https://github.com/kyzzz22/vad-emotion-research.git
 cd vad-emotion-research
 ```
 
@@ -89,4 +89,3 @@ git push
 ## 研究边界
 
 当前结果属于跨样本、跨任务、九类情绪的探索性比较。它支持讨论情绪词与诱发体验的群体结构对应，但不能证明同一个人的词义判断能够预测其实际诱发体验，也不能据此断言 Dominance 是纯认知维度。
-
