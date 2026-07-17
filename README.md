@@ -37,6 +37,7 @@
 | `public_data/` | 数据获取说明及允许同步的派生汇总结果 |
 | `visualization/` | DREAMER × NRC 的交互式 VAD 3D 模型 |
 | `docs/` | 项目进展日志和数据管理政策 |
+| `archive/` | 已停止维护但仍有方法和历史价值的旧研究分支 |
 
 ## 快速查看
 
@@ -85,6 +86,14 @@ git push
 ```
 
 原始数据需要在每台电脑单独获取和放置，不通过 GitHub 同步。具体边界见 [数据政策](docs/DATA_POLICY.md)。
+
+## 历史研究分支
+
+早期的“情绪词典坐标能否解释面部×声音融合标签”项目已停止独立维护，其分析代码、派生结果、图表、报告和实验预测保存在：
+
+- [Multimodal Emotion Fusion 历史归档](archive/multimodal-emotion-fusion-2026/README.md)
+
+该分支提供了语义 VAD 不能直接替代多模态感知空间的早期证据，但样本点少、部分共识率来自定性估算，因此不作为当前 DREAMER × NRC 论文的确认性结果。
 
 ## 研究边界
 

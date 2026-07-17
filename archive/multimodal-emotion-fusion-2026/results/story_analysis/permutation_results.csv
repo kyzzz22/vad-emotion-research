@@ -1,0 +1,10 @@
+metric,value
+real_holdout_mse,0.3591953834464061
+permuted_mean,1.05600960625294
+permuted_std,0.2896532093429335
+permuted_min,0.6114415779788597
+permuted_max,2.293715718321278
+n_better_or_equal,0
+n_permutations,500
+p_value,0.0
+cohens_d,-2.405684454134752
