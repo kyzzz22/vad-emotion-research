@@ -1,0 +1,30 @@
+.venv/
+/.git/
+/.repo/
+/git-metadata/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Human-subject raw data must not be committed by default.
+/data/raw/
+/data/interim/
+/data/processed/
+
+# Simulated and generated results are reproducible from scripts.
+/data/simulated/
+/results/
+
+# Licensed/restricted public datasets: keep acquisition notes, not source files.
+/DREAMER.mat
+/public_data/case_pilot/case_dataset/
+/public_data/case_pilot/nrc_vad/
+/public_data/licensed/dreamer/*
+!/public_data/licensed/dreamer/README.md
+
+# Generated document previews and portable archives can be rebuilt locally.
+/paper/report_verification/
+/visualization/*.zip

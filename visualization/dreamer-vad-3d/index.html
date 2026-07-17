@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DREAMER × NRC VAD 三维对照</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "./vendor/three.module.js",
+        "three/addons/": "./vendor/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <main id="app">
+    <header class="topbar">
+      <div>
+        <h1>词义坐标与诱发体验</h1>
+        <p>NRC × DREAMER · VAD 三维偏移</p>
+      </div>
+      <div class="top-actions">
+        <button id="reset-camera" class="icon-button" type="button" title="重置视角" aria-label="重置视角">↺</button>
+        <button id="toggle-panel" class="icon-button panel-toggle" type="button" title="显示或隐藏数据面板" aria-label="显示或隐藏数据面板">☰</button>
+      </div>
+    </header>
+
+    <section id="scene-wrap" aria-label="VAD 三维坐标场景">
+      <canvas id="scene"></canvas>
+      <div id="labels" aria-hidden="true"></div>
+      <div id="tooltip" role="status"></div>
+      <div class="scene-legend">
+        <span><i class="legend-cube"></i>NRC 词义</span>
+        <span><i class="legend-sphere"></i>DREAMER 体验</span>
+        <span><i class="legend-line"></i>偏移方向</span>
+      </div>
+      <div class="axis-key" aria-hidden="true">
+        <span class="axis-v">V 愉悦度</span>
+        <span class="axis-a">A 唤醒度</span>
+        <span class="axis-d">D 控制感</span>
+      </div>
+    </section>
+
+    <aside id="panel" class="data-panel">
+      <div class="panel-section selector-section">
+        <label for="emotion-select">查看情绪</label>
+        <select id="emotion-select"></select>
+      </div>
+
+      <div class="panel-section mode-controls" aria-label="显示设置">
+        <label><input id="show-nrc" type="checkbox" checked><span class="swatch swatch-nrc"></span>NRC</label>
+        <label><input id="show-dreamer" type="checkbox" checked><span class="swatch swatch-dreamer"></span>DREAMER</label>
+        <label><input id="show-vectors" type="checkbox" checked>偏移箭头</label>
+        <label><input id="show-labels" type="checkbox" checked>情绪标签</label>
+        <label><input id="auto-rotate" type="checkbox">自动旋转</label>
+      </div>
+
+      <div class="panel-section emotion-heading">
+        <div>
+          <span id="emotion-rank" class="rank">01</span>
+          <h2 id="emotion-name">幸福</h2>
+          <p id="emotion-en">happiness</p>
+        </div>
+        <span id="distance-badge" class="distance-badge">0.49</span>
+      </div>
+
+      <div class="panel-section coordinate-table">
+        <div class="table-head"><span>来源</span><span>V</span><span>A</span><span>D</span></div>
+        <div><span><i class="legend-cube"></i>NRC</span><strong id="nrc-v">0.920</strong><strong id="nrc-a">0.464</strong><strong id="nrc-d">0.700</strong></div>
+        <div><span><i class="legend-sphere"></i>体验</span><strong id="dreamer-v">0.728</strong><strong id="dreamer-a">0.217</strong><strong id="dreamer-d">0.326</strong></div>
+      </div>
+
+      <div class="panel-section delta-section">
+        <h3>体验 − 词义</h3>
+        <div class="delta-row"><span>ΔV</span><div><i id="bar-v"></i></div><strong id="delta-v">−0.192</strong></div>
+        <div class="delta-row"><span>ΔA</span><div><i id="bar-a"></i></div><strong id="delta-a">−0.247</strong></div>
+        <div class="delta-row"><span>ΔD</span><div><i id="bar-d"></i></div><strong id="delta-d">−0.374</strong></div>
+      </div>
+
+      <div class="panel-section metrics">
+        <div><span>原始三维距离</span><strong id="raw-distance">0.487</strong></div>
+        <div><span>尺度校准残差</span><strong id="calibrated-distance">0.492</strong></div>
+      </div>
+
+      <div class="panel-note">
+        拖动旋转 · 滚轮缩放 · 点击点或箭头聚焦<br>
+        D 按 DREAMER 文件报告方向显示。
+      </div>
+    </aside>
+  </main>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

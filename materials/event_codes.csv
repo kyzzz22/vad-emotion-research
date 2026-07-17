@@ -1,0 +1,17 @@
+event_code,event_name,phase,required,description
+100,SESSION_START,session,yes,实验场次开始
+101,SENSOR_CONNECTED,session,physiology_only,设备连接并通过现场信号检查
+105,INSTRUCTION_CHECK,instruction,yes,条件开始前首次作答的评分对象理解核对
+110,TRIAL_READY,trial,yes,试次元数据已写入日志
+120,BASELINE_START,baseline,induced_only,紧邻刺激前基线开始
+121,BASELINE_END,baseline,induced_only,紧邻刺激前基线结束
+130,STIMULUS_START,stimulus,induced_only,视频首帧计划呈现
+131,STIMULUS_END,stimulus,induced_only,视频末帧结束
+140,RATING_START,rating,yes,评分界面开始
+141,RATING_END,rating,yes,本试次最后一项评分提交
+150,RECOVERY_START,recovery,induced_only,恢复期开始
+151,RECOVERY_END,recovery,induced_only,恢复期结束
+190,PAUSE,exception,no,参与者或研究者暂停
+191,TRIAL_TECHNICAL_FAILURE,exception,no,播放或同步技术失败
+192,PARTICIPANT_STOP,exception,no,参与者停止当前试次或退出
+199,SESSION_END,session,yes,场次结束

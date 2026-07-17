@@ -1,0 +1,3 @@
+subject,custom_peak_count,heartpy_peak_count,custom_median_hr_bpm,heartpy_mean_hr_bpm,heartpy_polarity,matched_reference_count,reference_match_fraction,comparison_match_fraction,matched_median_abs_difference_ms,matched_p99_abs_difference_ms,validation_pass
+1,3083,3086,75.28230865746549,75.5450226872631,-1,3083,1.0,0.9990278677900194,0.0,0.0,True
+2,2659,2660,64.58557588805166,65.04856517025466,1,2659,1.0,0.999624060150376,0.0,0.0,True

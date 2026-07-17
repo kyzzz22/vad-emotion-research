@@ -1,0 +1,19 @@
+{
+  "case_root": "E:\\dolylab\\研究方向相关\\public_data\\case_pilot\\case_dataset",
+  "subjects": [
+    1,
+    2
+  ],
+  "all_trial_count": 240,
+  "pilot_trial_count": 16,
+  "pilot_recovery_bin_count": 192,
+  "blue_zero_valence_fraction_mean": 0.9669751980631991,
+  "blue_zero_arousal_fraction_mean": 0.8873321648838782,
+  "main_categories": [
+    "amusing",
+    "scary"
+  ],
+  "recovery_bin_seconds": 10,
+  "recovery_duration_seconds": 120,
+  "ecg_detector_status": "engineering_check_only"
+}

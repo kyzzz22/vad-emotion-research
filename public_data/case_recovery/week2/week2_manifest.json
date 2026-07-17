@@ -1,0 +1,26 @@
+{
+  "created_at_local": "2026-07-15 22:30:17",
+  "case_root": "E:\\dolylab\\研究方向相关\\public_data\\case_pilot\\case_dataset",
+  "participant_count": 30,
+  "participant_exclusion_count": 0,
+  "trial_count": 240,
+  "main_trial_count": 120,
+  "recovery_bin_count": 2880,
+  "main_recovery_bin_count": 1440,
+  "heartpy_validation_all_pass": true,
+  "models_all_converged": true,
+  "consistency_metric_count": 6,
+  "bootstrap_repetitions": 2000,
+  "scl_window_estimator": "mean of 1-second medians",
+  "seed": 20260715,
+  "elapsed_seconds": 45.7,
+  "versions": {
+    "python": "3.12.13",
+    "numpy": "2.5.1",
+    "pandas": "2.3.3",
+    "scipy": "1.18.0",
+    "statsmodels": "0.14.6",
+    "heartpy": "Version 1.2.6"
+  },
+  "neurokit2_note": "0.2.13 installed but unusable because Windows application control blocked a downloaded scikit-learn DLL; HeartPy used instead."
+}

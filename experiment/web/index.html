@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A2 情绪评价实验</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <strong>A2 情绪评价实验</strong>
+      <span id="version" class="version"></span>
+    </div>
+    <div class="status-line">
+      <span id="modeBadge" class="badge hidden">测试模式</span>
+      <span id="markerStatus" class="marker-status">事件接口未配置</span>
+    </div>
+  </header>
+
+  <main id="app" class="app-shell" aria-live="polite">
+    <section id="setupView" class="setup-view">
+      <h1>场次登记</h1>
+      <form id="setupForm" class="setup-form">
+        <label>参与者编号
+          <input id="participantId" name="participant_id" required pattern="P[0-9]{3}" placeholder="P001" autocomplete="off">
+        </label>
+        <label>场次
+          <select id="sessionId" name="session_id" required>
+            <option value="S1">S1</option>
+            <option value="S2">S2</option>
+          </select>
+        </label>
+        <button class="primary" type="submit">核对并开始</button>
+      </form>
+      <p id="setupError" class="error" role="alert"></p>
+    </section>
+
+    <section id="taskView" class="task-view hidden"></section>
+  </main>
+
+  <template id="scaleTemplate">
+    <fieldset class="scale-field">
+      <legend></legend>
+      <div class="scale-labels"><span class="min-label"></span><span class="max-label"></span></div>
+      <div class="scale-options"></div>
+    </fieldset>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

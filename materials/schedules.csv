@@ -1,0 +1,2305 @@
+participant_id,sequence_id,session_id,session_order,session_type,block_order,condition,item_order,concept_id,concept_zh,stimulus_id,title,break_after
+P001,1,S1,1,semantic,1,lexical,1,SADNESS,悲伤,,,0
+P001,1,S1,1,semantic,1,lexical,2,FILL_RELIEF,安心,,,0
+P001,1,S1,1,semantic,1,lexical,3,FILL_SHAME,羞耻,,,0
+P001,1,S1,1,semantic,1,lexical,4,FILL_HOPE,希望,,,0
+P001,1,S1,1,semantic,1,lexical,5,AMUSEMENT,被逗乐,,,0
+P001,1,S1,1,semantic,1,lexical,6,FILL_SURPRISE,惊讶,,,0
+P001,1,S1,1,semantic,1,lexical,7,JOY,喜悦,,,0
+P001,1,S1,1,semantic,1,lexical,8,FILL_LONELINESS,孤独,,,0
+P001,1,S1,1,semantic,1,lexical,9,FILL_ENVY,嫉妒,,,0
+P001,1,S1,1,semantic,1,lexical,10,FEAR,恐惧,,,0
+P001,1,S1,1,semantic,1,lexical,11,FILL_BOREDOM,无聊,,,0
+P001,1,S1,1,semantic,1,lexical,12,FILL_GRATITUDE,感激,,,0
+P001,1,S1,1,semantic,1,lexical,13,FILL_DISGUST,厌恶,,,0
+P001,1,S1,1,semantic,1,lexical,14,FILL_GUILT,内疚,,,0
+P001,1,S1,1,semantic,1,lexical,15,FILL_PRIDE,自豪,,,0
+P001,1,S1,1,semantic,1,lexical,16,TENDERNESS,温情,,,0
+P001,1,S1,1,semantic,1,lexical,17,FILL_AWE,敬畏,,,0
+P001,1,S1,1,semantic,1,lexical,18,ANGER,愤怒,,,0
+P001,1,S1,1,semantic,2,prototype,1,FILL_BOREDOM,无聊,,,0
+P001,1,S1,1,semantic,2,prototype,2,FILL_GUILT,内疚,,,0
+P001,1,S1,1,semantic,2,prototype,3,FILL_SHAME,羞耻,,,0
+P001,1,S1,1,semantic,2,prototype,4,FILL_GRATITUDE,感激,,,0
+P001,1,S1,1,semantic,2,prototype,5,TENDERNESS,温情,,,0
+P001,1,S1,1,semantic,2,prototype,6,AMUSEMENT,被逗乐,,,0
+P001,1,S1,1,semantic,2,prototype,7,FILL_ENVY,嫉妒,,,0
+P001,1,S1,1,semantic,2,prototype,8,JOY,喜悦,,,0
+P001,1,S1,1,semantic,2,prototype,9,FILL_LONELINESS,孤独,,,0
+P001,1,S1,1,semantic,2,prototype,10,FILL_PRIDE,自豪,,,0
+P001,1,S1,1,semantic,2,prototype,11,FILL_SURPRISE,惊讶,,,0
+P001,1,S1,1,semantic,2,prototype,12,FEAR,恐惧,,,0
+P001,1,S1,1,semantic,2,prototype,13,FILL_HOPE,希望,,,0
+P001,1,S1,1,semantic,2,prototype,14,FILL_DISGUST,厌恶,,,0
+P001,1,S1,1,semantic,2,prototype,15,SADNESS,悲伤,,,0
+P001,1,S1,1,semantic,2,prototype,16,FILL_AWE,敬畏,,,0
+P001,1,S1,1,semantic,2,prototype,17,ANGER,愤怒,,,0
+P001,1,S1,1,semantic,2,prototype,18,FILL_RELIEF,安心,,,0
+P001,1,S2,1,induced,1,induced,1,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P001,1,S2,1,induced,1,induced,2,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P001,1,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P001,1,S2,1,induced,1,induced,4,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P001,1,S2,1,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P001,1,S2,1,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P001,1,S2,1,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P001,1,S2,1,induced,1,induced,8,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P001,1,S2,1,induced,1,induced,9,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P001,1,S2,1,induced,1,induced,10,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P001,1,S2,1,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P001,1,S2,1,induced,1,induced,12,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P002,2,S2,2,semantic,1,lexical,1,FILL_ENVY,嫉妒,,,0
+P002,2,S2,2,semantic,1,lexical,2,AMUSEMENT,被逗乐,,,0
+P002,2,S2,2,semantic,1,lexical,3,FILL_HOPE,希望,,,0
+P002,2,S2,2,semantic,1,lexical,4,JOY,喜悦,,,0
+P002,2,S2,2,semantic,1,lexical,5,FILL_AWE,敬畏,,,0
+P002,2,S2,2,semantic,1,lexical,6,FILL_GRATITUDE,感激,,,0
+P002,2,S2,2,semantic,1,lexical,7,FILL_DISGUST,厌恶,,,0
+P002,2,S2,2,semantic,1,lexical,8,FILL_SHAME,羞耻,,,0
+P002,2,S2,2,semantic,1,lexical,9,FEAR,恐惧,,,0
+P002,2,S2,2,semantic,1,lexical,10,FILL_BOREDOM,无聊,,,0
+P002,2,S2,2,semantic,1,lexical,11,FILL_SURPRISE,惊讶,,,0
+P002,2,S2,2,semantic,1,lexical,12,FILL_RELIEF,安心,,,0
+P002,2,S2,2,semantic,1,lexical,13,TENDERNESS,温情,,,0
+P002,2,S2,2,semantic,1,lexical,14,FILL_PRIDE,自豪,,,0
+P002,2,S2,2,semantic,1,lexical,15,FILL_LONELINESS,孤独,,,0
+P002,2,S2,2,semantic,1,lexical,16,ANGER,愤怒,,,0
+P002,2,S2,2,semantic,1,lexical,17,SADNESS,悲伤,,,0
+P002,2,S2,2,semantic,1,lexical,18,FILL_GUILT,内疚,,,0
+P002,2,S2,2,semantic,2,prototype,1,AMUSEMENT,被逗乐,,,0
+P002,2,S2,2,semantic,2,prototype,2,FILL_DISGUST,厌恶,,,0
+P002,2,S2,2,semantic,2,prototype,3,JOY,喜悦,,,0
+P002,2,S2,2,semantic,2,prototype,4,FILL_GRATITUDE,感激,,,0
+P002,2,S2,2,semantic,2,prototype,5,FEAR,恐惧,,,0
+P002,2,S2,2,semantic,2,prototype,6,FILL_HOPE,希望,,,0
+P002,2,S2,2,semantic,2,prototype,7,TENDERNESS,温情,,,0
+P002,2,S2,2,semantic,2,prototype,8,FILL_LONELINESS,孤独,,,0
+P002,2,S2,2,semantic,2,prototype,9,FILL_SURPRISE,惊讶,,,0
+P002,2,S2,2,semantic,2,prototype,10,FILL_AWE,敬畏,,,0
+P002,2,S2,2,semantic,2,prototype,11,FILL_PRIDE,自豪,,,0
+P002,2,S2,2,semantic,2,prototype,12,SADNESS,悲伤,,,0
+P002,2,S2,2,semantic,2,prototype,13,FILL_ENVY,嫉妒,,,0
+P002,2,S2,2,semantic,2,prototype,14,ANGER,愤怒,,,0
+P002,2,S2,2,semantic,2,prototype,15,FILL_RELIEF,安心,,,0
+P002,2,S2,2,semantic,2,prototype,16,FILL_GUILT,内疚,,,0
+P002,2,S2,2,semantic,2,prototype,17,FILL_SHAME,羞耻,,,0
+P002,2,S2,2,semantic,2,prototype,18,FILL_BOREDOM,无聊,,,0
+P002,2,S1,2,induced,1,induced,1,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P002,2,S1,2,induced,1,induced,2,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P002,2,S1,2,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P002,2,S1,2,induced,1,induced,4,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P002,2,S1,2,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P002,2,S1,2,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P002,2,S1,2,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P002,2,S1,2,induced,1,induced,8,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P002,2,S1,2,induced,1,induced,9,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P002,2,S1,2,induced,1,induced,10,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P002,2,S1,2,induced,1,induced,11,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P002,2,S1,2,induced,1,induced,12,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P003,3,S1,1,semantic,1,prototype,1,FILL_GRATITUDE,感激,,,0
+P003,3,S1,1,semantic,1,prototype,2,FILL_PRIDE,自豪,,,0
+P003,3,S1,1,semantic,1,prototype,3,FILL_AWE,敬畏,,,0
+P003,3,S1,1,semantic,1,prototype,4,SADNESS,悲伤,,,0
+P003,3,S1,1,semantic,1,prototype,5,TENDERNESS,温情,,,0
+P003,3,S1,1,semantic,1,prototype,6,FILL_BOREDOM,无聊,,,0
+P003,3,S1,1,semantic,1,prototype,7,JOY,喜悦,,,0
+P003,3,S1,1,semantic,1,prototype,8,FILL_DISGUST,厌恶,,,0
+P003,3,S1,1,semantic,1,prototype,9,FILL_ENVY,嫉妒,,,0
+P003,3,S1,1,semantic,1,prototype,10,FILL_RELIEF,安心,,,0
+P003,3,S1,1,semantic,1,prototype,11,FILL_LONELINESS,孤独,,,0
+P003,3,S1,1,semantic,1,prototype,12,AMUSEMENT,被逗乐,,,0
+P003,3,S1,1,semantic,1,prototype,13,FILL_SURPRISE,惊讶,,,0
+P003,3,S1,1,semantic,1,prototype,14,ANGER,愤怒,,,0
+P003,3,S1,1,semantic,1,prototype,15,FILL_SHAME,羞耻,,,0
+P003,3,S1,1,semantic,1,prototype,16,FEAR,恐惧,,,0
+P003,3,S1,1,semantic,1,prototype,17,FILL_GUILT,内疚,,,0
+P003,3,S1,1,semantic,1,prototype,18,FILL_HOPE,希望,,,0
+P003,3,S1,1,semantic,2,lexical,1,JOY,喜悦,,,0
+P003,3,S1,1,semantic,2,lexical,2,SADNESS,悲伤,,,0
+P003,3,S1,1,semantic,2,lexical,3,FILL_GUILT,内疚,,,0
+P003,3,S1,1,semantic,2,lexical,4,FILL_SURPRISE,惊讶,,,0
+P003,3,S1,1,semantic,2,lexical,5,FILL_RELIEF,安心,,,0
+P003,3,S1,1,semantic,2,lexical,6,FILL_ENVY,嫉妒,,,0
+P003,3,S1,1,semantic,2,lexical,7,FILL_DISGUST,厌恶,,,0
+P003,3,S1,1,semantic,2,lexical,8,FILL_GRATITUDE,感激,,,0
+P003,3,S1,1,semantic,2,lexical,9,AMUSEMENT,被逗乐,,,0
+P003,3,S1,1,semantic,2,lexical,10,FILL_BOREDOM,无聊,,,0
+P003,3,S1,1,semantic,2,lexical,11,FILL_HOPE,希望,,,0
+P003,3,S1,1,semantic,2,lexical,12,ANGER,愤怒,,,0
+P003,3,S1,1,semantic,2,lexical,13,FILL_SHAME,羞耻,,,0
+P003,3,S1,1,semantic,2,lexical,14,FEAR,恐惧,,,0
+P003,3,S1,1,semantic,2,lexical,15,FILL_LONELINESS,孤独,,,0
+P003,3,S1,1,semantic,2,lexical,16,TENDERNESS,温情,,,0
+P003,3,S1,1,semantic,2,lexical,17,FILL_AWE,敬畏,,,0
+P003,3,S1,1,semantic,2,lexical,18,FILL_PRIDE,自豪,,,0
+P003,3,S2,1,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P003,3,S2,1,induced,1,induced,2,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P003,3,S2,1,induced,1,induced,3,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P003,3,S2,1,induced,1,induced,4,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P003,3,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P003,3,S2,1,induced,1,induced,6,ANGER,愤怒,VID_ANGER_01,YiP Man,1
+P003,3,S2,1,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P003,3,S2,1,induced,1,induced,8,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P003,3,S2,1,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P003,3,S2,1,induced,1,induced,10,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P003,3,S2,1,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P003,3,S2,1,induced,1,induced,12,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P004,4,S2,2,semantic,1,prototype,1,FILL_RELIEF,安心,,,0
+P004,4,S2,2,semantic,1,prototype,2,FILL_HOPE,希望,,,0
+P004,4,S2,2,semantic,1,prototype,3,FILL_AWE,敬畏,,,0
+P004,4,S2,2,semantic,1,prototype,4,FILL_SHAME,羞耻,,,0
+P004,4,S2,2,semantic,1,prototype,5,FILL_PRIDE,自豪,,,0
+P004,4,S2,2,semantic,1,prototype,6,FILL_DISGUST,厌恶,,,0
+P004,4,S2,2,semantic,1,prototype,7,ANGER,愤怒,,,0
+P004,4,S2,2,semantic,1,prototype,8,TENDERNESS,温情,,,0
+P004,4,S2,2,semantic,1,prototype,9,JOY,喜悦,,,0
+P004,4,S2,2,semantic,1,prototype,10,FILL_SURPRISE,惊讶,,,0
+P004,4,S2,2,semantic,1,prototype,11,FILL_LONELINESS,孤独,,,0
+P004,4,S2,2,semantic,1,prototype,12,FILL_GUILT,内疚,,,0
+P004,4,S2,2,semantic,1,prototype,13,FILL_GRATITUDE,感激,,,0
+P004,4,S2,2,semantic,1,prototype,14,FEAR,恐惧,,,0
+P004,4,S2,2,semantic,1,prototype,15,SADNESS,悲伤,,,0
+P004,4,S2,2,semantic,1,prototype,16,FILL_BOREDOM,无聊,,,0
+P004,4,S2,2,semantic,1,prototype,17,AMUSEMENT,被逗乐,,,0
+P004,4,S2,2,semantic,1,prototype,18,FILL_ENVY,嫉妒,,,0
+P004,4,S2,2,semantic,2,lexical,1,SADNESS,悲伤,,,0
+P004,4,S2,2,semantic,2,lexical,2,FILL_GUILT,内疚,,,0
+P004,4,S2,2,semantic,2,lexical,3,TENDERNESS,温情,,,0
+P004,4,S2,2,semantic,2,lexical,4,FEAR,恐惧,,,0
+P004,4,S2,2,semantic,2,lexical,5,JOY,喜悦,,,0
+P004,4,S2,2,semantic,2,lexical,6,FILL_PRIDE,自豪,,,0
+P004,4,S2,2,semantic,2,lexical,7,AMUSEMENT,被逗乐,,,0
+P004,4,S2,2,semantic,2,lexical,8,FILL_SHAME,羞耻,,,0
+P004,4,S2,2,semantic,2,lexical,9,FILL_GRATITUDE,感激,,,0
+P004,4,S2,2,semantic,2,lexical,10,FILL_HOPE,希望,,,0
+P004,4,S2,2,semantic,2,lexical,11,FILL_RELIEF,安心,,,0
+P004,4,S2,2,semantic,2,lexical,12,FILL_AWE,敬畏,,,0
+P004,4,S2,2,semantic,2,lexical,13,FILL_LONELINESS,孤独,,,0
+P004,4,S2,2,semantic,2,lexical,14,FILL_ENVY,嫉妒,,,0
+P004,4,S2,2,semantic,2,lexical,15,FILL_SURPRISE,惊讶,,,0
+P004,4,S2,2,semantic,2,lexical,16,FILL_DISGUST,厌恶,,,0
+P004,4,S2,2,semantic,2,lexical,17,FILL_BOREDOM,无聊,,,0
+P004,4,S2,2,semantic,2,lexical,18,ANGER,愤怒,,,0
+P004,4,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P004,4,S1,2,induced,1,induced,2,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P004,4,S1,2,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P004,4,S1,2,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P004,4,S1,2,induced,1,induced,5,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P004,4,S1,2,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P004,4,S1,2,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P004,4,S1,2,induced,1,induced,8,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P004,4,S1,2,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P004,4,S1,2,induced,1,induced,10,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P004,4,S1,2,induced,1,induced,11,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P004,4,S1,2,induced,1,induced,12,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P005,5,S1,1,semantic,1,lexical,1,FILL_SHAME,羞耻,,,0
+P005,5,S1,1,semantic,1,lexical,2,FILL_DISGUST,厌恶,,,0
+P005,5,S1,1,semantic,1,lexical,3,JOY,喜悦,,,0
+P005,5,S1,1,semantic,1,lexical,4,ANGER,愤怒,,,0
+P005,5,S1,1,semantic,1,lexical,5,FILL_LONELINESS,孤独,,,0
+P005,5,S1,1,semantic,1,lexical,6,SADNESS,悲伤,,,0
+P005,5,S1,1,semantic,1,lexical,7,AMUSEMENT,被逗乐,,,0
+P005,5,S1,1,semantic,1,lexical,8,FILL_SURPRISE,惊讶,,,0
+P005,5,S1,1,semantic,1,lexical,9,FILL_AWE,敬畏,,,0
+P005,5,S1,1,semantic,1,lexical,10,FILL_BOREDOM,无聊,,,0
+P005,5,S1,1,semantic,1,lexical,11,TENDERNESS,温情,,,0
+P005,5,S1,1,semantic,1,lexical,12,FILL_GRATITUDE,感激,,,0
+P005,5,S1,1,semantic,1,lexical,13,FILL_RELIEF,安心,,,0
+P005,5,S1,1,semantic,1,lexical,14,FILL_HOPE,希望,,,0
+P005,5,S1,1,semantic,1,lexical,15,FILL_PRIDE,自豪,,,0
+P005,5,S1,1,semantic,1,lexical,16,FEAR,恐惧,,,0
+P005,5,S1,1,semantic,1,lexical,17,FILL_ENVY,嫉妒,,,0
+P005,5,S1,1,semantic,1,lexical,18,FILL_GUILT,内疚,,,0
+P005,5,S1,1,semantic,2,prototype,1,TENDERNESS,温情,,,0
+P005,5,S1,1,semantic,2,prototype,2,FILL_BOREDOM,无聊,,,0
+P005,5,S1,1,semantic,2,prototype,3,FILL_GUILT,内疚,,,0
+P005,5,S1,1,semantic,2,prototype,4,FILL_SHAME,羞耻,,,0
+P005,5,S1,1,semantic,2,prototype,5,ANGER,愤怒,,,0
+P005,5,S1,1,semantic,2,prototype,6,FILL_AWE,敬畏,,,0
+P005,5,S1,1,semantic,2,prototype,7,FILL_DISGUST,厌恶,,,0
+P005,5,S1,1,semantic,2,prototype,8,FILL_LONELINESS,孤独,,,0
+P005,5,S1,1,semantic,2,prototype,9,AMUSEMENT,被逗乐,,,0
+P005,5,S1,1,semantic,2,prototype,10,FILL_HOPE,希望,,,0
+P005,5,S1,1,semantic,2,prototype,11,FILL_GRATITUDE,感激,,,0
+P005,5,S1,1,semantic,2,prototype,12,SADNESS,悲伤,,,0
+P005,5,S1,1,semantic,2,prototype,13,FILL_SURPRISE,惊讶,,,0
+P005,5,S1,1,semantic,2,prototype,14,JOY,喜悦,,,0
+P005,5,S1,1,semantic,2,prototype,15,FILL_ENVY,嫉妒,,,0
+P005,5,S1,1,semantic,2,prototype,16,FEAR,恐惧,,,0
+P005,5,S1,1,semantic,2,prototype,17,FILL_PRIDE,自豪,,,0
+P005,5,S1,1,semantic,2,prototype,18,FILL_RELIEF,安心,,,0
+P005,5,S2,1,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P005,5,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P005,5,S2,1,induced,1,induced,3,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P005,5,S2,1,induced,1,induced,4,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P005,5,S2,1,induced,1,induced,5,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P005,5,S2,1,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,1
+P005,5,S2,1,induced,1,induced,7,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P005,5,S2,1,induced,1,induced,8,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P005,5,S2,1,induced,1,induced,9,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P005,5,S2,1,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P005,5,S2,1,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P005,5,S2,1,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P006,6,S2,2,semantic,1,lexical,1,TENDERNESS,温情,,,0
+P006,6,S2,2,semantic,1,lexical,2,FILL_ENVY,嫉妒,,,0
+P006,6,S2,2,semantic,1,lexical,3,FILL_SURPRISE,惊讶,,,0
+P006,6,S2,2,semantic,1,lexical,4,FILL_SHAME,羞耻,,,0
+P006,6,S2,2,semantic,1,lexical,5,JOY,喜悦,,,0
+P006,6,S2,2,semantic,1,lexical,6,FILL_AWE,敬畏,,,0
+P006,6,S2,2,semantic,1,lexical,7,ANGER,愤怒,,,0
+P006,6,S2,2,semantic,1,lexical,8,AMUSEMENT,被逗乐,,,0
+P006,6,S2,2,semantic,1,lexical,9,FEAR,恐惧,,,0
+P006,6,S2,2,semantic,1,lexical,10,FILL_GUILT,内疚,,,0
+P006,6,S2,2,semantic,1,lexical,11,FILL_RELIEF,安心,,,0
+P006,6,S2,2,semantic,1,lexical,12,FILL_GRATITUDE,感激,,,0
+P006,6,S2,2,semantic,1,lexical,13,FILL_PRIDE,自豪,,,0
+P006,6,S2,2,semantic,1,lexical,14,FILL_BOREDOM,无聊,,,0
+P006,6,S2,2,semantic,1,lexical,15,FILL_DISGUST,厌恶,,,0
+P006,6,S2,2,semantic,1,lexical,16,FILL_LONELINESS,孤独,,,0
+P006,6,S2,2,semantic,1,lexical,17,FILL_HOPE,希望,,,0
+P006,6,S2,2,semantic,1,lexical,18,SADNESS,悲伤,,,0
+P006,6,S2,2,semantic,2,prototype,1,ANGER,愤怒,,,0
+P006,6,S2,2,semantic,2,prototype,2,FILL_GRATITUDE,感激,,,0
+P006,6,S2,2,semantic,2,prototype,3,AMUSEMENT,被逗乐,,,0
+P006,6,S2,2,semantic,2,prototype,4,FILL_DISGUST,厌恶,,,0
+P006,6,S2,2,semantic,2,prototype,5,FILL_PRIDE,自豪,,,0
+P006,6,S2,2,semantic,2,prototype,6,FILL_SURPRISE,惊讶,,,0
+P006,6,S2,2,semantic,2,prototype,7,FILL_AWE,敬畏,,,0
+P006,6,S2,2,semantic,2,prototype,8,FILL_LONELINESS,孤独,,,0
+P006,6,S2,2,semantic,2,prototype,9,FEAR,恐惧,,,0
+P006,6,S2,2,semantic,2,prototype,10,FILL_RELIEF,安心,,,0
+P006,6,S2,2,semantic,2,prototype,11,FILL_BOREDOM,无聊,,,0
+P006,6,S2,2,semantic,2,prototype,12,TENDERNESS,温情,,,0
+P006,6,S2,2,semantic,2,prototype,13,SADNESS,悲伤,,,0
+P006,6,S2,2,semantic,2,prototype,14,FILL_SHAME,羞耻,,,0
+P006,6,S2,2,semantic,2,prototype,15,FILL_ENVY,嫉妒,,,0
+P006,6,S2,2,semantic,2,prototype,16,FILL_HOPE,希望,,,0
+P006,6,S2,2,semantic,2,prototype,17,JOY,喜悦,,,0
+P006,6,S2,2,semantic,2,prototype,18,FILL_GUILT,内疚,,,0
+P006,6,S1,2,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P006,6,S1,2,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P006,6,S1,2,induced,1,induced,3,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P006,6,S1,2,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P006,6,S1,2,induced,1,induced,5,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P006,6,S1,2,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P006,6,S1,2,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P006,6,S1,2,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P006,6,S1,2,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P006,6,S1,2,induced,1,induced,10,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P006,6,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P006,6,S1,2,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P007,7,S1,1,semantic,1,prototype,1,FILL_SURPRISE,惊讶,,,0
+P007,7,S1,1,semantic,1,prototype,2,FILL_DISGUST,厌恶,,,0
+P007,7,S1,1,semantic,1,prototype,3,FILL_GUILT,内疚,,,0
+P007,7,S1,1,semantic,1,prototype,4,FILL_HOPE,希望,,,0
+P007,7,S1,1,semantic,1,prototype,5,FILL_ENVY,嫉妒,,,0
+P007,7,S1,1,semantic,1,prototype,6,AMUSEMENT,被逗乐,,,0
+P007,7,S1,1,semantic,1,prototype,7,FILL_PRIDE,自豪,,,0
+P007,7,S1,1,semantic,1,prototype,8,FILL_SHAME,羞耻,,,0
+P007,7,S1,1,semantic,1,prototype,9,TENDERNESS,温情,,,0
+P007,7,S1,1,semantic,1,prototype,10,FILL_GRATITUDE,感激,,,0
+P007,7,S1,1,semantic,1,prototype,11,ANGER,愤怒,,,0
+P007,7,S1,1,semantic,1,prototype,12,JOY,喜悦,,,0
+P007,7,S1,1,semantic,1,prototype,13,FILL_AWE,敬畏,,,0
+P007,7,S1,1,semantic,1,prototype,14,SADNESS,悲伤,,,0
+P007,7,S1,1,semantic,1,prototype,15,FILL_RELIEF,安心,,,0
+P007,7,S1,1,semantic,1,prototype,16,FILL_LONELINESS,孤独,,,0
+P007,7,S1,1,semantic,1,prototype,17,FILL_BOREDOM,无聊,,,0
+P007,7,S1,1,semantic,1,prototype,18,FEAR,恐惧,,,0
+P007,7,S1,1,semantic,2,lexical,1,FILL_ENVY,嫉妒,,,0
+P007,7,S1,1,semantic,2,lexical,2,FEAR,恐惧,,,0
+P007,7,S1,1,semantic,2,lexical,3,FILL_AWE,敬畏,,,0
+P007,7,S1,1,semantic,2,lexical,4,FILL_PRIDE,自豪,,,0
+P007,7,S1,1,semantic,2,lexical,5,FILL_LONELINESS,孤独,,,0
+P007,7,S1,1,semantic,2,lexical,6,FILL_RELIEF,安心,,,0
+P007,7,S1,1,semantic,2,lexical,7,ANGER,愤怒,,,0
+P007,7,S1,1,semantic,2,lexical,8,FILL_SURPRISE,惊讶,,,0
+P007,7,S1,1,semantic,2,lexical,9,AMUSEMENT,被逗乐,,,0
+P007,7,S1,1,semantic,2,lexical,10,FILL_BOREDOM,无聊,,,0
+P007,7,S1,1,semantic,2,lexical,11,SADNESS,悲伤,,,0
+P007,7,S1,1,semantic,2,lexical,12,FILL_DISGUST,厌恶,,,0
+P007,7,S1,1,semantic,2,lexical,13,TENDERNESS,温情,,,0
+P007,7,S1,1,semantic,2,lexical,14,FILL_HOPE,希望,,,0
+P007,7,S1,1,semantic,2,lexical,15,FILL_SHAME,羞耻,,,0
+P007,7,S1,1,semantic,2,lexical,16,JOY,喜悦,,,0
+P007,7,S1,1,semantic,2,lexical,17,FILL_GRATITUDE,感激,,,0
+P007,7,S1,1,semantic,2,lexical,18,FILL_GUILT,内疚,,,0
+P007,7,S2,1,induced,1,induced,1,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P007,7,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P007,7,S2,1,induced,1,induced,3,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P007,7,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P007,7,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P007,7,S2,1,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,1
+P007,7,S2,1,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P007,7,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P007,7,S2,1,induced,1,induced,9,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P007,7,S2,1,induced,1,induced,10,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P007,7,S2,1,induced,1,induced,11,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P007,7,S2,1,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P008,8,S2,2,semantic,1,prototype,1,FILL_LONELINESS,孤独,,,0
+P008,8,S2,2,semantic,1,prototype,2,SADNESS,悲伤,,,0
+P008,8,S2,2,semantic,1,prototype,3,FILL_SHAME,羞耻,,,0
+P008,8,S2,2,semantic,1,prototype,4,FILL_SURPRISE,惊讶,,,0
+P008,8,S2,2,semantic,1,prototype,5,FILL_GRATITUDE,感激,,,0
+P008,8,S2,2,semantic,1,prototype,6,FEAR,恐惧,,,0
+P008,8,S2,2,semantic,1,prototype,7,FILL_AWE,敬畏,,,0
+P008,8,S2,2,semantic,1,prototype,8,FILL_HOPE,希望,,,0
+P008,8,S2,2,semantic,1,prototype,9,FILL_PRIDE,自豪,,,0
+P008,8,S2,2,semantic,1,prototype,10,FILL_ENVY,嫉妒,,,0
+P008,8,S2,2,semantic,1,prototype,11,AMUSEMENT,被逗乐,,,0
+P008,8,S2,2,semantic,1,prototype,12,ANGER,愤怒,,,0
+P008,8,S2,2,semantic,1,prototype,13,JOY,喜悦,,,0
+P008,8,S2,2,semantic,1,prototype,14,FILL_GUILT,内疚,,,0
+P008,8,S2,2,semantic,1,prototype,15,FILL_RELIEF,安心,,,0
+P008,8,S2,2,semantic,1,prototype,16,TENDERNESS,温情,,,0
+P008,8,S2,2,semantic,1,prototype,17,FILL_BOREDOM,无聊,,,0
+P008,8,S2,2,semantic,1,prototype,18,FILL_DISGUST,厌恶,,,0
+P008,8,S2,2,semantic,2,lexical,1,FILL_DISGUST,厌恶,,,0
+P008,8,S2,2,semantic,2,lexical,2,FILL_PRIDE,自豪,,,0
+P008,8,S2,2,semantic,2,lexical,3,FILL_SURPRISE,惊讶,,,0
+P008,8,S2,2,semantic,2,lexical,4,JOY,喜悦,,,0
+P008,8,S2,2,semantic,2,lexical,5,FILL_GRATITUDE,感激,,,0
+P008,8,S2,2,semantic,2,lexical,6,FILL_SHAME,羞耻,,,0
+P008,8,S2,2,semantic,2,lexical,7,ANGER,愤怒,,,0
+P008,8,S2,2,semantic,2,lexical,8,FILL_GUILT,内疚,,,0
+P008,8,S2,2,semantic,2,lexical,9,FILL_ENVY,嫉妒,,,0
+P008,8,S2,2,semantic,2,lexical,10,FILL_AWE,敬畏,,,0
+P008,8,S2,2,semantic,2,lexical,11,FILL_RELIEF,安心,,,0
+P008,8,S2,2,semantic,2,lexical,12,FILL_LONELINESS,孤独,,,0
+P008,8,S2,2,semantic,2,lexical,13,TENDERNESS,温情,,,0
+P008,8,S2,2,semantic,2,lexical,14,FILL_BOREDOM,无聊,,,0
+P008,8,S2,2,semantic,2,lexical,15,SADNESS,悲伤,,,0
+P008,8,S2,2,semantic,2,lexical,16,AMUSEMENT,被逗乐,,,0
+P008,8,S2,2,semantic,2,lexical,17,FEAR,恐惧,,,0
+P008,8,S2,2,semantic,2,lexical,18,FILL_HOPE,希望,,,0
+P008,8,S1,2,induced,1,induced,1,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P008,8,S1,2,induced,1,induced,2,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P008,8,S1,2,induced,1,induced,3,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P008,8,S1,2,induced,1,induced,4,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P008,8,S1,2,induced,1,induced,5,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P008,8,S1,2,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_01,Hear Me,1
+P008,8,S1,2,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P008,8,S1,2,induced,1,induced,8,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P008,8,S1,2,induced,1,induced,9,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P008,8,S1,2,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P008,8,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P008,8,S1,2,induced,1,induced,12,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P009,1,S1,1,semantic,1,lexical,1,FILL_DISGUST,厌恶,,,0
+P009,1,S1,1,semantic,1,lexical,2,FILL_LONELINESS,孤独,,,0
+P009,1,S1,1,semantic,1,lexical,3,SADNESS,悲伤,,,0
+P009,1,S1,1,semantic,1,lexical,4,FEAR,恐惧,,,0
+P009,1,S1,1,semantic,1,lexical,5,FILL_ENVY,嫉妒,,,0
+P009,1,S1,1,semantic,1,lexical,6,ANGER,愤怒,,,0
+P009,1,S1,1,semantic,1,lexical,7,FILL_AWE,敬畏,,,0
+P009,1,S1,1,semantic,1,lexical,8,FILL_SURPRISE,惊讶,,,0
+P009,1,S1,1,semantic,1,lexical,9,FILL_PRIDE,自豪,,,0
+P009,1,S1,1,semantic,1,lexical,10,FILL_BOREDOM,无聊,,,0
+P009,1,S1,1,semantic,1,lexical,11,FILL_GRATITUDE,感激,,,0
+P009,1,S1,1,semantic,1,lexical,12,AMUSEMENT,被逗乐,,,0
+P009,1,S1,1,semantic,1,lexical,13,FILL_RELIEF,安心,,,0
+P009,1,S1,1,semantic,1,lexical,14,JOY,喜悦,,,0
+P009,1,S1,1,semantic,1,lexical,15,FILL_SHAME,羞耻,,,0
+P009,1,S1,1,semantic,1,lexical,16,TENDERNESS,温情,,,0
+P009,1,S1,1,semantic,1,lexical,17,FILL_HOPE,希望,,,0
+P009,1,S1,1,semantic,1,lexical,18,FILL_GUILT,内疚,,,0
+P009,1,S1,1,semantic,2,prototype,1,JOY,喜悦,,,0
+P009,1,S1,1,semantic,2,prototype,2,FILL_PRIDE,自豪,,,0
+P009,1,S1,1,semantic,2,prototype,3,FILL_SURPRISE,惊讶,,,0
+P009,1,S1,1,semantic,2,prototype,4,FILL_RELIEF,安心,,,0
+P009,1,S1,1,semantic,2,prototype,5,FILL_AWE,敬畏,,,0
+P009,1,S1,1,semantic,2,prototype,6,FILL_ENVY,嫉妒,,,0
+P009,1,S1,1,semantic,2,prototype,7,FILL_DISGUST,厌恶,,,0
+P009,1,S1,1,semantic,2,prototype,8,AMUSEMENT,被逗乐,,,0
+P009,1,S1,1,semantic,2,prototype,9,FILL_LONELINESS,孤独,,,0
+P009,1,S1,1,semantic,2,prototype,10,FILL_BOREDOM,无聊,,,0
+P009,1,S1,1,semantic,2,prototype,11,TENDERNESS,温情,,,0
+P009,1,S1,1,semantic,2,prototype,12,FILL_GUILT,内疚,,,0
+P009,1,S1,1,semantic,2,prototype,13,FILL_GRATITUDE,感激,,,0
+P009,1,S1,1,semantic,2,prototype,14,ANGER,愤怒,,,0
+P009,1,S1,1,semantic,2,prototype,15,SADNESS,悲伤,,,0
+P009,1,S1,1,semantic,2,prototype,16,FILL_SHAME,羞耻,,,0
+P009,1,S1,1,semantic,2,prototype,17,FEAR,恐惧,,,0
+P009,1,S1,1,semantic,2,prototype,18,FILL_HOPE,希望,,,0
+P009,1,S2,1,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P009,1,S2,1,induced,1,induced,2,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P009,1,S2,1,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P009,1,S2,1,induced,1,induced,4,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P009,1,S2,1,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P009,1,S2,1,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P009,1,S2,1,induced,1,induced,7,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P009,1,S2,1,induced,1,induced,8,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P009,1,S2,1,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P009,1,S2,1,induced,1,induced,10,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P009,1,S2,1,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P009,1,S2,1,induced,1,induced,12,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P010,2,S2,2,semantic,1,lexical,1,FILL_ENVY,嫉妒,,,0
+P010,2,S2,2,semantic,1,lexical,2,FILL_GRATITUDE,感激,,,0
+P010,2,S2,2,semantic,1,lexical,3,FILL_DISGUST,厌恶,,,0
+P010,2,S2,2,semantic,1,lexical,4,FILL_SURPRISE,惊讶,,,0
+P010,2,S2,2,semantic,1,lexical,5,FEAR,恐惧,,,0
+P010,2,S2,2,semantic,1,lexical,6,FILL_GUILT,内疚,,,0
+P010,2,S2,2,semantic,1,lexical,7,AMUSEMENT,被逗乐,,,0
+P010,2,S2,2,semantic,1,lexical,8,FILL_LONELINESS,孤独,,,0
+P010,2,S2,2,semantic,1,lexical,9,SADNESS,悲伤,,,0
+P010,2,S2,2,semantic,1,lexical,10,FILL_SHAME,羞耻,,,0
+P010,2,S2,2,semantic,1,lexical,11,ANGER,愤怒,,,0
+P010,2,S2,2,semantic,1,lexical,12,FILL_AWE,敬畏,,,0
+P010,2,S2,2,semantic,1,lexical,13,FILL_HOPE,希望,,,0
+P010,2,S2,2,semantic,1,lexical,14,TENDERNESS,温情,,,0
+P010,2,S2,2,semantic,1,lexical,15,FILL_RELIEF,安心,,,0
+P010,2,S2,2,semantic,1,lexical,16,FILL_BOREDOM,无聊,,,0
+P010,2,S2,2,semantic,1,lexical,17,JOY,喜悦,,,0
+P010,2,S2,2,semantic,1,lexical,18,FILL_PRIDE,自豪,,,0
+P010,2,S2,2,semantic,2,prototype,1,FILL_ENVY,嫉妒,,,0
+P010,2,S2,2,semantic,2,prototype,2,FILL_GRATITUDE,感激,,,0
+P010,2,S2,2,semantic,2,prototype,3,FILL_BOREDOM,无聊,,,0
+P010,2,S2,2,semantic,2,prototype,4,ANGER,愤怒,,,0
+P010,2,S2,2,semantic,2,prototype,5,FILL_LONELINESS,孤独,,,0
+P010,2,S2,2,semantic,2,prototype,6,FILL_GUILT,内疚,,,0
+P010,2,S2,2,semantic,2,prototype,7,FILL_PRIDE,自豪,,,0
+P010,2,S2,2,semantic,2,prototype,8,JOY,喜悦,,,0
+P010,2,S2,2,semantic,2,prototype,9,AMUSEMENT,被逗乐,,,0
+P010,2,S2,2,semantic,2,prototype,10,FILL_DISGUST,厌恶,,,0
+P010,2,S2,2,semantic,2,prototype,11,FILL_SURPRISE,惊讶,,,0
+P010,2,S2,2,semantic,2,prototype,12,TENDERNESS,温情,,,0
+P010,2,S2,2,semantic,2,prototype,13,FILL_SHAME,羞耻,,,0
+P010,2,S2,2,semantic,2,prototype,14,SADNESS,悲伤,,,0
+P010,2,S2,2,semantic,2,prototype,15,FILL_RELIEF,安心,,,0
+P010,2,S2,2,semantic,2,prototype,16,FILL_AWE,敬畏,,,0
+P010,2,S2,2,semantic,2,prototype,17,FEAR,恐惧,,,0
+P010,2,S2,2,semantic,2,prototype,18,FILL_HOPE,希望,,,0
+P010,2,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P010,2,S1,2,induced,1,induced,2,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P010,2,S1,2,induced,1,induced,3,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P010,2,S1,2,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P010,2,S1,2,induced,1,induced,5,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P010,2,S1,2,induced,1,induced,6,ANGER,愤怒,VID_ANGER_02,City of Life and Death,1
+P010,2,S1,2,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P010,2,S1,2,induced,1,induced,8,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P010,2,S1,2,induced,1,induced,9,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P010,2,S1,2,induced,1,induced,10,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P010,2,S1,2,induced,1,induced,11,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P010,2,S1,2,induced,1,induced,12,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P011,3,S1,1,semantic,1,prototype,1,FILL_RELIEF,安心,,,0
+P011,3,S1,1,semantic,1,prototype,2,ANGER,愤怒,,,0
+P011,3,S1,1,semantic,1,prototype,3,FILL_GUILT,内疚,,,0
+P011,3,S1,1,semantic,1,prototype,4,AMUSEMENT,被逗乐,,,0
+P011,3,S1,1,semantic,1,prototype,5,FILL_BOREDOM,无聊,,,0
+P011,3,S1,1,semantic,1,prototype,6,FEAR,恐惧,,,0
+P011,3,S1,1,semantic,1,prototype,7,FILL_PRIDE,自豪,,,0
+P011,3,S1,1,semantic,1,prototype,8,FILL_HOPE,希望,,,0
+P011,3,S1,1,semantic,1,prototype,9,FILL_GRATITUDE,感激,,,0
+P011,3,S1,1,semantic,1,prototype,10,FILL_ENVY,嫉妒,,,0
+P011,3,S1,1,semantic,1,prototype,11,TENDERNESS,温情,,,0
+P011,3,S1,1,semantic,1,prototype,12,FILL_SURPRISE,惊讶,,,0
+P011,3,S1,1,semantic,1,prototype,13,FILL_AWE,敬畏,,,0
+P011,3,S1,1,semantic,1,prototype,14,FILL_LONELINESS,孤独,,,0
+P011,3,S1,1,semantic,1,prototype,15,FILL_DISGUST,厌恶,,,0
+P011,3,S1,1,semantic,1,prototype,16,JOY,喜悦,,,0
+P011,3,S1,1,semantic,1,prototype,17,SADNESS,悲伤,,,0
+P011,3,S1,1,semantic,1,prototype,18,FILL_SHAME,羞耻,,,0
+P011,3,S1,1,semantic,2,lexical,1,FILL_GRATITUDE,感激,,,0
+P011,3,S1,1,semantic,2,lexical,2,FILL_DISGUST,厌恶,,,0
+P011,3,S1,1,semantic,2,lexical,3,FILL_LONELINESS,孤独,,,0
+P011,3,S1,1,semantic,2,lexical,4,AMUSEMENT,被逗乐,,,0
+P011,3,S1,1,semantic,2,lexical,5,ANGER,愤怒,,,0
+P011,3,S1,1,semantic,2,lexical,6,JOY,喜悦,,,0
+P011,3,S1,1,semantic,2,lexical,7,FILL_SHAME,羞耻,,,0
+P011,3,S1,1,semantic,2,lexical,8,FEAR,恐惧,,,0
+P011,3,S1,1,semantic,2,lexical,9,FILL_RELIEF,安心,,,0
+P011,3,S1,1,semantic,2,lexical,10,FILL_SURPRISE,惊讶,,,0
+P011,3,S1,1,semantic,2,lexical,11,FILL_PRIDE,自豪,,,0
+P011,3,S1,1,semantic,2,lexical,12,FILL_ENVY,嫉妒,,,0
+P011,3,S1,1,semantic,2,lexical,13,FILL_GUILT,内疚,,,0
+P011,3,S1,1,semantic,2,lexical,14,SADNESS,悲伤,,,0
+P011,3,S1,1,semantic,2,lexical,15,FILL_HOPE,希望,,,0
+P011,3,S1,1,semantic,2,lexical,16,TENDERNESS,温情,,,0
+P011,3,S1,1,semantic,2,lexical,17,FILL_BOREDOM,无聊,,,0
+P011,3,S1,1,semantic,2,lexical,18,FILL_AWE,敬畏,,,0
+P011,3,S2,1,induced,1,induced,1,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P011,3,S2,1,induced,1,induced,2,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P011,3,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P011,3,S2,1,induced,1,induced,4,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P011,3,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P011,3,S2,1,induced,1,induced,6,ANGER,愤怒,VID_ANGER_01,YiP Man,1
+P011,3,S2,1,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P011,3,S2,1,induced,1,induced,8,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P011,3,S2,1,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P011,3,S2,1,induced,1,induced,10,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P011,3,S2,1,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P011,3,S2,1,induced,1,induced,12,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P012,4,S2,2,semantic,1,prototype,1,FILL_RELIEF,安心,,,0
+P012,4,S2,2,semantic,1,prototype,2,FEAR,恐惧,,,0
+P012,4,S2,2,semantic,1,prototype,3,FILL_LONELINESS,孤独,,,0
+P012,4,S2,2,semantic,1,prototype,4,FILL_SHAME,羞耻,,,0
+P012,4,S2,2,semantic,1,prototype,5,FILL_GUILT,内疚,,,0
+P012,4,S2,2,semantic,1,prototype,6,JOY,喜悦,,,0
+P012,4,S2,2,semantic,1,prototype,7,FILL_BOREDOM,无聊,,,0
+P012,4,S2,2,semantic,1,prototype,8,FILL_AWE,敬畏,,,0
+P012,4,S2,2,semantic,1,prototype,9,AMUSEMENT,被逗乐,,,0
+P012,4,S2,2,semantic,1,prototype,10,SADNESS,悲伤,,,0
+P012,4,S2,2,semantic,1,prototype,11,TENDERNESS,温情,,,0
+P012,4,S2,2,semantic,1,prototype,12,FILL_GRATITUDE,感激,,,0
+P012,4,S2,2,semantic,1,prototype,13,FILL_PRIDE,自豪,,,0
+P012,4,S2,2,semantic,1,prototype,14,FILL_DISGUST,厌恶,,,0
+P012,4,S2,2,semantic,1,prototype,15,FILL_ENVY,嫉妒,,,0
+P012,4,S2,2,semantic,1,prototype,16,FILL_HOPE,希望,,,0
+P012,4,S2,2,semantic,1,prototype,17,FILL_SURPRISE,惊讶,,,0
+P012,4,S2,2,semantic,1,prototype,18,ANGER,愤怒,,,0
+P012,4,S2,2,semantic,2,lexical,1,FEAR,恐惧,,,0
+P012,4,S2,2,semantic,2,lexical,2,FILL_SURPRISE,惊讶,,,0
+P012,4,S2,2,semantic,2,lexical,3,FILL_ENVY,嫉妒,,,0
+P012,4,S2,2,semantic,2,lexical,4,FILL_GRATITUDE,感激,,,0
+P012,4,S2,2,semantic,2,lexical,5,FILL_SHAME,羞耻,,,0
+P012,4,S2,2,semantic,2,lexical,6,FILL_HOPE,希望,,,0
+P012,4,S2,2,semantic,2,lexical,7,FILL_AWE,敬畏,,,0
+P012,4,S2,2,semantic,2,lexical,8,FILL_GUILT,内疚,,,0
+P012,4,S2,2,semantic,2,lexical,9,FILL_RELIEF,安心,,,0
+P012,4,S2,2,semantic,2,lexical,10,AMUSEMENT,被逗乐,,,0
+P012,4,S2,2,semantic,2,lexical,11,ANGER,愤怒,,,0
+P012,4,S2,2,semantic,2,lexical,12,FILL_BOREDOM,无聊,,,0
+P012,4,S2,2,semantic,2,lexical,13,FILL_PRIDE,自豪,,,0
+P012,4,S2,2,semantic,2,lexical,14,JOY,喜悦,,,0
+P012,4,S2,2,semantic,2,lexical,15,FILL_DISGUST,厌恶,,,0
+P012,4,S2,2,semantic,2,lexical,16,SADNESS,悲伤,,,0
+P012,4,S2,2,semantic,2,lexical,17,TENDERNESS,温情,,,0
+P012,4,S2,2,semantic,2,lexical,18,FILL_LONELINESS,孤独,,,0
+P012,4,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P012,4,S1,2,induced,1,induced,2,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P012,4,S1,2,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P012,4,S1,2,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P012,4,S1,2,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P012,4,S1,2,induced,1,induced,6,ANGER,愤怒,VID_ANGER_02,City of Life and Death,1
+P012,4,S1,2,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P012,4,S1,2,induced,1,induced,8,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P012,4,S1,2,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P012,4,S1,2,induced,1,induced,10,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P012,4,S1,2,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P012,4,S1,2,induced,1,induced,12,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P013,5,S1,1,semantic,1,lexical,1,TENDERNESS,温情,,,0
+P013,5,S1,1,semantic,1,lexical,2,FILL_LONELINESS,孤独,,,0
+P013,5,S1,1,semantic,1,lexical,3,FILL_BOREDOM,无聊,,,0
+P013,5,S1,1,semantic,1,lexical,4,FILL_HOPE,希望,,,0
+P013,5,S1,1,semantic,1,lexical,5,FILL_SURPRISE,惊讶,,,0
+P013,5,S1,1,semantic,1,lexical,6,FILL_AWE,敬畏,,,0
+P013,5,S1,1,semantic,1,lexical,7,FILL_PRIDE,自豪,,,0
+P013,5,S1,1,semantic,1,lexical,8,FILL_GRATITUDE,感激,,,0
+P013,5,S1,1,semantic,1,lexical,9,FEAR,恐惧,,,0
+P013,5,S1,1,semantic,1,lexical,10,AMUSEMENT,被逗乐,,,0
+P013,5,S1,1,semantic,1,lexical,11,FILL_SHAME,羞耻,,,0
+P013,5,S1,1,semantic,1,lexical,12,FILL_DISGUST,厌恶,,,0
+P013,5,S1,1,semantic,1,lexical,13,SADNESS,悲伤,,,0
+P013,5,S1,1,semantic,1,lexical,14,FILL_GUILT,内疚,,,0
+P013,5,S1,1,semantic,1,lexical,15,FILL_RELIEF,安心,,,0
+P013,5,S1,1,semantic,1,lexical,16,JOY,喜悦,,,0
+P013,5,S1,1,semantic,1,lexical,17,ANGER,愤怒,,,0
+P013,5,S1,1,semantic,1,lexical,18,FILL_ENVY,嫉妒,,,0
+P013,5,S1,1,semantic,2,prototype,1,FILL_SURPRISE,惊讶,,,0
+P013,5,S1,1,semantic,2,prototype,2,FILL_HOPE,希望,,,0
+P013,5,S1,1,semantic,2,prototype,3,FILL_ENVY,嫉妒,,,0
+P013,5,S1,1,semantic,2,prototype,4,FILL_GRATITUDE,感激,,,0
+P013,5,S1,1,semantic,2,prototype,5,FILL_LONELINESS,孤独,,,0
+P013,5,S1,1,semantic,2,prototype,6,FILL_BOREDOM,无聊,,,0
+P013,5,S1,1,semantic,2,prototype,7,FILL_PRIDE,自豪,,,0
+P013,5,S1,1,semantic,2,prototype,8,FILL_SHAME,羞耻,,,0
+P013,5,S1,1,semantic,2,prototype,9,ANGER,愤怒,,,0
+P013,5,S1,1,semantic,2,prototype,10,AMUSEMENT,被逗乐,,,0
+P013,5,S1,1,semantic,2,prototype,11,FILL_GUILT,内疚,,,0
+P013,5,S1,1,semantic,2,prototype,12,FILL_DISGUST,厌恶,,,0
+P013,5,S1,1,semantic,2,prototype,13,SADNESS,悲伤,,,0
+P013,5,S1,1,semantic,2,prototype,14,FILL_AWE,敬畏,,,0
+P013,5,S1,1,semantic,2,prototype,15,JOY,喜悦,,,0
+P013,5,S1,1,semantic,2,prototype,16,FEAR,恐惧,,,0
+P013,5,S1,1,semantic,2,prototype,17,FILL_RELIEF,安心,,,0
+P013,5,S1,1,semantic,2,prototype,18,TENDERNESS,温情,,,0
+P013,5,S2,1,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P013,5,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P013,5,S2,1,induced,1,induced,3,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P013,5,S2,1,induced,1,induced,4,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P013,5,S2,1,induced,1,induced,5,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P013,5,S2,1,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_01,Hear Me,1
+P013,5,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P013,5,S2,1,induced,1,induced,8,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P013,5,S2,1,induced,1,induced,9,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P013,5,S2,1,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P013,5,S2,1,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P013,5,S2,1,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P014,6,S2,2,semantic,1,lexical,1,FILL_HOPE,希望,,,0
+P014,6,S2,2,semantic,1,lexical,2,FILL_LONELINESS,孤独,,,0
+P014,6,S2,2,semantic,1,lexical,3,FILL_DISGUST,厌恶,,,0
+P014,6,S2,2,semantic,1,lexical,4,FILL_SHAME,羞耻,,,0
+P014,6,S2,2,semantic,1,lexical,5,ANGER,愤怒,,,0
+P014,6,S2,2,semantic,1,lexical,6,JOY,喜悦,,,0
+P014,6,S2,2,semantic,1,lexical,7,FILL_RELIEF,安心,,,0
+P014,6,S2,2,semantic,1,lexical,8,FEAR,恐惧,,,0
+P014,6,S2,2,semantic,1,lexical,9,FILL_BOREDOM,无聊,,,0
+P014,6,S2,2,semantic,1,lexical,10,FILL_AWE,敬畏,,,0
+P014,6,S2,2,semantic,1,lexical,11,FILL_GUILT,内疚,,,0
+P014,6,S2,2,semantic,1,lexical,12,TENDERNESS,温情,,,0
+P014,6,S2,2,semantic,1,lexical,13,FILL_ENVY,嫉妒,,,0
+P014,6,S2,2,semantic,1,lexical,14,FILL_SURPRISE,惊讶,,,0
+P014,6,S2,2,semantic,1,lexical,15,AMUSEMENT,被逗乐,,,0
+P014,6,S2,2,semantic,1,lexical,16,FILL_PRIDE,自豪,,,0
+P014,6,S2,2,semantic,1,lexical,17,FILL_GRATITUDE,感激,,,0
+P014,6,S2,2,semantic,1,lexical,18,SADNESS,悲伤,,,0
+P014,6,S2,2,semantic,2,prototype,1,TENDERNESS,温情,,,0
+P014,6,S2,2,semantic,2,prototype,2,FILL_SURPRISE,惊讶,,,0
+P014,6,S2,2,semantic,2,prototype,3,FILL_RELIEF,安心,,,0
+P014,6,S2,2,semantic,2,prototype,4,FILL_HOPE,希望,,,0
+P014,6,S2,2,semantic,2,prototype,5,FILL_DISGUST,厌恶,,,0
+P014,6,S2,2,semantic,2,prototype,6,FILL_BOREDOM,无聊,,,0
+P014,6,S2,2,semantic,2,prototype,7,FILL_ENVY,嫉妒,,,0
+P014,6,S2,2,semantic,2,prototype,8,FEAR,恐惧,,,0
+P014,6,S2,2,semantic,2,prototype,9,FILL_LONELINESS,孤独,,,0
+P014,6,S2,2,semantic,2,prototype,10,SADNESS,悲伤,,,0
+P014,6,S2,2,semantic,2,prototype,11,AMUSEMENT,被逗乐,,,0
+P014,6,S2,2,semantic,2,prototype,12,FILL_SHAME,羞耻,,,0
+P014,6,S2,2,semantic,2,prototype,13,JOY,喜悦,,,0
+P014,6,S2,2,semantic,2,prototype,14,FILL_PRIDE,自豪,,,0
+P014,6,S2,2,semantic,2,prototype,15,FILL_GRATITUDE,感激,,,0
+P014,6,S2,2,semantic,2,prototype,16,ANGER,愤怒,,,0
+P014,6,S2,2,semantic,2,prototype,17,FILL_GUILT,内疚,,,0
+P014,6,S2,2,semantic,2,prototype,18,FILL_AWE,敬畏,,,0
+P014,6,S1,2,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P014,6,S1,2,induced,1,induced,2,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P014,6,S1,2,induced,1,induced,3,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P014,6,S1,2,induced,1,induced,4,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P014,6,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P014,6,S1,2,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P014,6,S1,2,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P014,6,S1,2,induced,1,induced,8,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P014,6,S1,2,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P014,6,S1,2,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P014,6,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P014,6,S1,2,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P015,7,S1,1,semantic,1,prototype,1,JOY,喜悦,,,0
+P015,7,S1,1,semantic,1,prototype,2,FILL_RELIEF,安心,,,0
+P015,7,S1,1,semantic,1,prototype,3,FEAR,恐惧,,,0
+P015,7,S1,1,semantic,1,prototype,4,FILL_AWE,敬畏,,,0
+P015,7,S1,1,semantic,1,prototype,5,AMUSEMENT,被逗乐,,,0
+P015,7,S1,1,semantic,1,prototype,6,FILL_PRIDE,自豪,,,0
+P015,7,S1,1,semantic,1,prototype,7,FILL_SHAME,羞耻,,,0
+P015,7,S1,1,semantic,1,prototype,8,FILL_ENVY,嫉妒,,,0
+P015,7,S1,1,semantic,1,prototype,9,FILL_GUILT,内疚,,,0
+P015,7,S1,1,semantic,1,prototype,10,TENDERNESS,温情,,,0
+P015,7,S1,1,semantic,1,prototype,11,FILL_LONELINESS,孤独,,,0
+P015,7,S1,1,semantic,1,prototype,12,SADNESS,悲伤,,,0
+P015,7,S1,1,semantic,1,prototype,13,ANGER,愤怒,,,0
+P015,7,S1,1,semantic,1,prototype,14,FILL_DISGUST,厌恶,,,0
+P015,7,S1,1,semantic,1,prototype,15,FILL_HOPE,希望,,,0
+P015,7,S1,1,semantic,1,prototype,16,FILL_BOREDOM,无聊,,,0
+P015,7,S1,1,semantic,1,prototype,17,FILL_GRATITUDE,感激,,,0
+P015,7,S1,1,semantic,1,prototype,18,FILL_SURPRISE,惊讶,,,0
+P015,7,S1,1,semantic,2,lexical,1,ANGER,愤怒,,,0
+P015,7,S1,1,semantic,2,lexical,2,FILL_GRATITUDE,感激,,,0
+P015,7,S1,1,semantic,2,lexical,3,FILL_PRIDE,自豪,,,0
+P015,7,S1,1,semantic,2,lexical,4,FILL_GUILT,内疚,,,0
+P015,7,S1,1,semantic,2,lexical,5,SADNESS,悲伤,,,0
+P015,7,S1,1,semantic,2,lexical,6,FEAR,恐惧,,,0
+P015,7,S1,1,semantic,2,lexical,7,TENDERNESS,温情,,,0
+P015,7,S1,1,semantic,2,lexical,8,FILL_AWE,敬畏,,,0
+P015,7,S1,1,semantic,2,lexical,9,FILL_SURPRISE,惊讶,,,0
+P015,7,S1,1,semantic,2,lexical,10,FILL_LONELINESS,孤独,,,0
+P015,7,S1,1,semantic,2,lexical,11,AMUSEMENT,被逗乐,,,0
+P015,7,S1,1,semantic,2,lexical,12,FILL_DISGUST,厌恶,,,0
+P015,7,S1,1,semantic,2,lexical,13,FILL_BOREDOM,无聊,,,0
+P015,7,S1,1,semantic,2,lexical,14,JOY,喜悦,,,0
+P015,7,S1,1,semantic,2,lexical,15,FILL_ENVY,嫉妒,,,0
+P015,7,S1,1,semantic,2,lexical,16,FILL_SHAME,羞耻,,,0
+P015,7,S1,1,semantic,2,lexical,17,FILL_RELIEF,安心,,,0
+P015,7,S1,1,semantic,2,lexical,18,FILL_HOPE,希望,,,0
+P015,7,S2,1,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P015,7,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P015,7,S2,1,induced,1,induced,3,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P015,7,S2,1,induced,1,induced,4,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P015,7,S2,1,induced,1,induced,5,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P015,7,S2,1,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,1
+P015,7,S2,1,induced,1,induced,7,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P015,7,S2,1,induced,1,induced,8,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P015,7,S2,1,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P015,7,S2,1,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P015,7,S2,1,induced,1,induced,11,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P015,7,S2,1,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P016,8,S2,2,semantic,1,prototype,1,FILL_GRATITUDE,感激,,,0
+P016,8,S2,2,semantic,1,prototype,2,FILL_ENVY,嫉妒,,,0
+P016,8,S2,2,semantic,1,prototype,3,AMUSEMENT,被逗乐,,,0
+P016,8,S2,2,semantic,1,prototype,4,ANGER,愤怒,,,0
+P016,8,S2,2,semantic,1,prototype,5,FILL_SURPRISE,惊讶,,,0
+P016,8,S2,2,semantic,1,prototype,6,FILL_AWE,敬畏,,,0
+P016,8,S2,2,semantic,1,prototype,7,SADNESS,悲伤,,,0
+P016,8,S2,2,semantic,1,prototype,8,TENDERNESS,温情,,,0
+P016,8,S2,2,semantic,1,prototype,9,FILL_PRIDE,自豪,,,0
+P016,8,S2,2,semantic,1,prototype,10,FILL_BOREDOM,无聊,,,0
+P016,8,S2,2,semantic,1,prototype,11,FILL_LONELINESS,孤独,,,0
+P016,8,S2,2,semantic,1,prototype,12,FILL_RELIEF,安心,,,0
+P016,8,S2,2,semantic,1,prototype,13,FILL_GUILT,内疚,,,0
+P016,8,S2,2,semantic,1,prototype,14,FILL_HOPE,希望,,,0
+P016,8,S2,2,semantic,1,prototype,15,JOY,喜悦,,,0
+P016,8,S2,2,semantic,1,prototype,16,FILL_DISGUST,厌恶,,,0
+P016,8,S2,2,semantic,1,prototype,17,FILL_SHAME,羞耻,,,0
+P016,8,S2,2,semantic,1,prototype,18,FEAR,恐惧,,,0
+P016,8,S2,2,semantic,2,lexical,1,JOY,喜悦,,,0
+P016,8,S2,2,semantic,2,lexical,2,TENDERNESS,温情,,,0
+P016,8,S2,2,semantic,2,lexical,3,FILL_ENVY,嫉妒,,,0
+P016,8,S2,2,semantic,2,lexical,4,FILL_DISGUST,厌恶,,,0
+P016,8,S2,2,semantic,2,lexical,5,FILL_PRIDE,自豪,,,0
+P016,8,S2,2,semantic,2,lexical,6,FILL_HOPE,希望,,,0
+P016,8,S2,2,semantic,2,lexical,7,FILL_GRATITUDE,感激,,,0
+P016,8,S2,2,semantic,2,lexical,8,FILL_SHAME,羞耻,,,0
+P016,8,S2,2,semantic,2,lexical,9,AMUSEMENT,被逗乐,,,0
+P016,8,S2,2,semantic,2,lexical,10,FILL_BOREDOM,无聊,,,0
+P016,8,S2,2,semantic,2,lexical,11,SADNESS,悲伤,,,0
+P016,8,S2,2,semantic,2,lexical,12,FILL_RELIEF,安心,,,0
+P016,8,S2,2,semantic,2,lexical,13,FILL_SURPRISE,惊讶,,,0
+P016,8,S2,2,semantic,2,lexical,14,ANGER,愤怒,,,0
+P016,8,S2,2,semantic,2,lexical,15,FEAR,恐惧,,,0
+P016,8,S2,2,semantic,2,lexical,16,FILL_GUILT,内疚,,,0
+P016,8,S2,2,semantic,2,lexical,17,FILL_AWE,敬畏,,,0
+P016,8,S2,2,semantic,2,lexical,18,FILL_LONELINESS,孤独,,,0
+P016,8,S1,2,induced,1,induced,1,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P016,8,S1,2,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P016,8,S1,2,induced,1,induced,3,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P016,8,S1,2,induced,1,induced,4,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P016,8,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P016,8,S1,2,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P016,8,S1,2,induced,1,induced,7,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P016,8,S1,2,induced,1,induced,8,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P016,8,S1,2,induced,1,induced,9,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P016,8,S1,2,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P016,8,S1,2,induced,1,induced,11,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P016,8,S1,2,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P017,1,S1,1,semantic,1,lexical,1,FILL_RELIEF,安心,,,0
+P017,1,S1,1,semantic,1,lexical,2,FILL_HOPE,希望,,,0
+P017,1,S1,1,semantic,1,lexical,3,FILL_ENVY,嫉妒,,,0
+P017,1,S1,1,semantic,1,lexical,4,FILL_BOREDOM,无聊,,,0
+P017,1,S1,1,semantic,1,lexical,5,SADNESS,悲伤,,,0
+P017,1,S1,1,semantic,1,lexical,6,FILL_SURPRISE,惊讶,,,0
+P017,1,S1,1,semantic,1,lexical,7,FILL_PRIDE,自豪,,,0
+P017,1,S1,1,semantic,1,lexical,8,FILL_DISGUST,厌恶,,,0
+P017,1,S1,1,semantic,1,lexical,9,FILL_LONELINESS,孤独,,,0
+P017,1,S1,1,semantic,1,lexical,10,FEAR,恐惧,,,0
+P017,1,S1,1,semantic,1,lexical,11,TENDERNESS,温情,,,0
+P017,1,S1,1,semantic,1,lexical,12,FILL_GRATITUDE,感激,,,0
+P017,1,S1,1,semantic,1,lexical,13,AMUSEMENT,被逗乐,,,0
+P017,1,S1,1,semantic,1,lexical,14,ANGER,愤怒,,,0
+P017,1,S1,1,semantic,1,lexical,15,FILL_GUILT,内疚,,,0
+P017,1,S1,1,semantic,1,lexical,16,FILL_AWE,敬畏,,,0
+P017,1,S1,1,semantic,1,lexical,17,FILL_SHAME,羞耻,,,0
+P017,1,S1,1,semantic,1,lexical,18,JOY,喜悦,,,0
+P017,1,S1,1,semantic,2,prototype,1,FILL_BOREDOM,无聊,,,0
+P017,1,S1,1,semantic,2,prototype,2,FILL_GRATITUDE,感激,,,0
+P017,1,S1,1,semantic,2,prototype,3,ANGER,愤怒,,,0
+P017,1,S1,1,semantic,2,prototype,4,FILL_HOPE,希望,,,0
+P017,1,S1,1,semantic,2,prototype,5,FILL_PRIDE,自豪,,,0
+P017,1,S1,1,semantic,2,prototype,6,FEAR,恐惧,,,0
+P017,1,S1,1,semantic,2,prototype,7,AMUSEMENT,被逗乐,,,0
+P017,1,S1,1,semantic,2,prototype,8,FILL_LONELINESS,孤独,,,0
+P017,1,S1,1,semantic,2,prototype,9,FILL_SURPRISE,惊讶,,,0
+P017,1,S1,1,semantic,2,prototype,10,FILL_RELIEF,安心,,,0
+P017,1,S1,1,semantic,2,prototype,11,SADNESS,悲伤,,,0
+P017,1,S1,1,semantic,2,prototype,12,FILL_DISGUST,厌恶,,,0
+P017,1,S1,1,semantic,2,prototype,13,FILL_GUILT,内疚,,,0
+P017,1,S1,1,semantic,2,prototype,14,JOY,喜悦,,,0
+P017,1,S1,1,semantic,2,prototype,15,FILL_AWE,敬畏,,,0
+P017,1,S1,1,semantic,2,prototype,16,FILL_SHAME,羞耻,,,0
+P017,1,S1,1,semantic,2,prototype,17,FILL_ENVY,嫉妒,,,0
+P017,1,S1,1,semantic,2,prototype,18,TENDERNESS,温情,,,0
+P017,1,S2,1,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P017,1,S2,1,induced,1,induced,2,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P017,1,S2,1,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P017,1,S2,1,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P017,1,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P017,1,S2,1,induced,1,induced,6,ANGER,愤怒,VID_ANGER_01,YiP Man,1
+P017,1,S2,1,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P017,1,S2,1,induced,1,induced,8,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P017,1,S2,1,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P017,1,S2,1,induced,1,induced,10,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P017,1,S2,1,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P017,1,S2,1,induced,1,induced,12,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P018,2,S2,2,semantic,1,lexical,1,SADNESS,悲伤,,,0
+P018,2,S2,2,semantic,1,lexical,2,FILL_GUILT,内疚,,,0
+P018,2,S2,2,semantic,1,lexical,3,FILL_RELIEF,安心,,,0
+P018,2,S2,2,semantic,1,lexical,4,FILL_SHAME,羞耻,,,0
+P018,2,S2,2,semantic,1,lexical,5,ANGER,愤怒,,,0
+P018,2,S2,2,semantic,1,lexical,6,TENDERNESS,温情,,,0
+P018,2,S2,2,semantic,1,lexical,7,FILL_HOPE,希望,,,0
+P018,2,S2,2,semantic,1,lexical,8,FEAR,恐惧,,,0
+P018,2,S2,2,semantic,1,lexical,9,JOY,喜悦,,,0
+P018,2,S2,2,semantic,1,lexical,10,AMUSEMENT,被逗乐,,,0
+P018,2,S2,2,semantic,1,lexical,11,FILL_BOREDOM,无聊,,,0
+P018,2,S2,2,semantic,1,lexical,12,FILL_DISGUST,厌恶,,,0
+P018,2,S2,2,semantic,1,lexical,13,FILL_SURPRISE,惊讶,,,0
+P018,2,S2,2,semantic,1,lexical,14,FILL_ENVY,嫉妒,,,0
+P018,2,S2,2,semantic,1,lexical,15,FILL_AWE,敬畏,,,0
+P018,2,S2,2,semantic,1,lexical,16,FILL_LONELINESS,孤独,,,0
+P018,2,S2,2,semantic,1,lexical,17,FILL_GRATITUDE,感激,,,0
+P018,2,S2,2,semantic,1,lexical,18,FILL_PRIDE,自豪,,,0
+P018,2,S2,2,semantic,2,prototype,1,FILL_AWE,敬畏,,,0
+P018,2,S2,2,semantic,2,prototype,2,FILL_PRIDE,自豪,,,0
+P018,2,S2,2,semantic,2,prototype,3,FILL_RELIEF,安心,,,0
+P018,2,S2,2,semantic,2,prototype,4,JOY,喜悦,,,0
+P018,2,S2,2,semantic,2,prototype,5,FILL_HOPE,希望,,,0
+P018,2,S2,2,semantic,2,prototype,6,ANGER,愤怒,,,0
+P018,2,S2,2,semantic,2,prototype,7,TENDERNESS,温情,,,0
+P018,2,S2,2,semantic,2,prototype,8,FILL_LONELINESS,孤独,,,0
+P018,2,S2,2,semantic,2,prototype,9,FEAR,恐惧,,,0
+P018,2,S2,2,semantic,2,prototype,10,FILL_SURPRISE,惊讶,,,0
+P018,2,S2,2,semantic,2,prototype,11,FILL_ENVY,嫉妒,,,0
+P018,2,S2,2,semantic,2,prototype,12,FILL_DISGUST,厌恶,,,0
+P018,2,S2,2,semantic,2,prototype,13,FILL_BOREDOM,无聊,,,0
+P018,2,S2,2,semantic,2,prototype,14,AMUSEMENT,被逗乐,,,0
+P018,2,S2,2,semantic,2,prototype,15,SADNESS,悲伤,,,0
+P018,2,S2,2,semantic,2,prototype,16,FILL_GUILT,内疚,,,0
+P018,2,S2,2,semantic,2,prototype,17,FILL_SHAME,羞耻,,,0
+P018,2,S2,2,semantic,2,prototype,18,FILL_GRATITUDE,感激,,,0
+P018,2,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P018,2,S1,2,induced,1,induced,2,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P018,2,S1,2,induced,1,induced,3,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P018,2,S1,2,induced,1,induced,4,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P018,2,S1,2,induced,1,induced,5,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P018,2,S1,2,induced,1,induced,6,ANGER,愤怒,VID_ANGER_02,City of Life and Death,1
+P018,2,S1,2,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P018,2,S1,2,induced,1,induced,8,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P018,2,S1,2,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P018,2,S1,2,induced,1,induced,10,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P018,2,S1,2,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P018,2,S1,2,induced,1,induced,12,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P019,3,S1,1,semantic,1,prototype,1,TENDERNESS,温情,,,0
+P019,3,S1,1,semantic,1,prototype,2,FILL_BOREDOM,无聊,,,0
+P019,3,S1,1,semantic,1,prototype,3,FILL_HOPE,希望,,,0
+P019,3,S1,1,semantic,1,prototype,4,FILL_ENVY,嫉妒,,,0
+P019,3,S1,1,semantic,1,prototype,5,FILL_GUILT,内疚,,,0
+P019,3,S1,1,semantic,1,prototype,6,FILL_GRATITUDE,感激,,,0
+P019,3,S1,1,semantic,1,prototype,7,FILL_PRIDE,自豪,,,0
+P019,3,S1,1,semantic,1,prototype,8,FEAR,恐惧,,,0
+P019,3,S1,1,semantic,1,prototype,9,AMUSEMENT,被逗乐,,,0
+P019,3,S1,1,semantic,1,prototype,10,FILL_SURPRISE,惊讶,,,0
+P019,3,S1,1,semantic,1,prototype,11,ANGER,愤怒,,,0
+P019,3,S1,1,semantic,1,prototype,12,FILL_RELIEF,安心,,,0
+P019,3,S1,1,semantic,1,prototype,13,FILL_LONELINESS,孤独,,,0
+P019,3,S1,1,semantic,1,prototype,14,FILL_AWE,敬畏,,,0
+P019,3,S1,1,semantic,1,prototype,15,JOY,喜悦,,,0
+P019,3,S1,1,semantic,1,prototype,16,FILL_DISGUST,厌恶,,,0
+P019,3,S1,1,semantic,1,prototype,17,SADNESS,悲伤,,,0
+P019,3,S1,1,semantic,1,prototype,18,FILL_SHAME,羞耻,,,0
+P019,3,S1,1,semantic,2,lexical,1,ANGER,愤怒,,,0
+P019,3,S1,1,semantic,2,lexical,2,FILL_GUILT,内疚,,,0
+P019,3,S1,1,semantic,2,lexical,3,TENDERNESS,温情,,,0
+P019,3,S1,1,semantic,2,lexical,4,FILL_ENVY,嫉妒,,,0
+P019,3,S1,1,semantic,2,lexical,5,SADNESS,悲伤,,,0
+P019,3,S1,1,semantic,2,lexical,6,FILL_DISGUST,厌恶,,,0
+P019,3,S1,1,semantic,2,lexical,7,JOY,喜悦,,,0
+P019,3,S1,1,semantic,2,lexical,8,FEAR,恐惧,,,0
+P019,3,S1,1,semantic,2,lexical,9,FILL_SHAME,羞耻,,,0
+P019,3,S1,1,semantic,2,lexical,10,FILL_AWE,敬畏,,,0
+P019,3,S1,1,semantic,2,lexical,11,FILL_BOREDOM,无聊,,,0
+P019,3,S1,1,semantic,2,lexical,12,FILL_SURPRISE,惊讶,,,0
+P019,3,S1,1,semantic,2,lexical,13,FILL_RELIEF,安心,,,0
+P019,3,S1,1,semantic,2,lexical,14,FILL_HOPE,希望,,,0
+P019,3,S1,1,semantic,2,lexical,15,AMUSEMENT,被逗乐,,,0
+P019,3,S1,1,semantic,2,lexical,16,FILL_LONELINESS,孤独,,,0
+P019,3,S1,1,semantic,2,lexical,17,FILL_PRIDE,自豪,,,0
+P019,3,S1,1,semantic,2,lexical,18,FILL_GRATITUDE,感激,,,0
+P019,3,S2,1,induced,1,induced,1,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P019,3,S2,1,induced,1,induced,2,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P019,3,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P019,3,S2,1,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P019,3,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P019,3,S2,1,induced,1,induced,6,ANGER,愤怒,VID_ANGER_01,YiP Man,1
+P019,3,S2,1,induced,1,induced,7,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P019,3,S2,1,induced,1,induced,8,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P019,3,S2,1,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P019,3,S2,1,induced,1,induced,10,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P019,3,S2,1,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P019,3,S2,1,induced,1,induced,12,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P020,4,S2,2,semantic,1,prototype,1,FILL_SHAME,羞耻,,,0
+P020,4,S2,2,semantic,1,prototype,2,FEAR,恐惧,,,0
+P020,4,S2,2,semantic,1,prototype,3,FILL_RELIEF,安心,,,0
+P020,4,S2,2,semantic,1,prototype,4,FILL_AWE,敬畏,,,0
+P020,4,S2,2,semantic,1,prototype,5,FILL_BOREDOM,无聊,,,0
+P020,4,S2,2,semantic,1,prototype,6,FILL_LONELINESS,孤独,,,0
+P020,4,S2,2,semantic,1,prototype,7,FILL_SURPRISE,惊讶,,,0
+P020,4,S2,2,semantic,1,prototype,8,JOY,喜悦,,,0
+P020,4,S2,2,semantic,1,prototype,9,TENDERNESS,温情,,,0
+P020,4,S2,2,semantic,1,prototype,10,FILL_PRIDE,自豪,,,0
+P020,4,S2,2,semantic,1,prototype,11,FILL_ENVY,嫉妒,,,0
+P020,4,S2,2,semantic,1,prototype,12,FILL_GRATITUDE,感激,,,0
+P020,4,S2,2,semantic,1,prototype,13,SADNESS,悲伤,,,0
+P020,4,S2,2,semantic,1,prototype,14,FILL_HOPE,希望,,,0
+P020,4,S2,2,semantic,1,prototype,15,FILL_DISGUST,厌恶,,,0
+P020,4,S2,2,semantic,1,prototype,16,ANGER,愤怒,,,0
+P020,4,S2,2,semantic,1,prototype,17,AMUSEMENT,被逗乐,,,0
+P020,4,S2,2,semantic,1,prototype,18,FILL_GUILT,内疚,,,0
+P020,4,S2,2,semantic,2,lexical,1,FILL_PRIDE,自豪,,,0
+P020,4,S2,2,semantic,2,lexical,2,FILL_GRATITUDE,感激,,,0
+P020,4,S2,2,semantic,2,lexical,3,FILL_SURPRISE,惊讶,,,0
+P020,4,S2,2,semantic,2,lexical,4,AMUSEMENT,被逗乐,,,0
+P020,4,S2,2,semantic,2,lexical,5,TENDERNESS,温情,,,0
+P020,4,S2,2,semantic,2,lexical,6,SADNESS,悲伤,,,0
+P020,4,S2,2,semantic,2,lexical,7,FILL_AWE,敬畏,,,0
+P020,4,S2,2,semantic,2,lexical,8,FILL_SHAME,羞耻,,,0
+P020,4,S2,2,semantic,2,lexical,9,FILL_GUILT,内疚,,,0
+P020,4,S2,2,semantic,2,lexical,10,ANGER,愤怒,,,0
+P020,4,S2,2,semantic,2,lexical,11,FILL_LONELINESS,孤独,,,0
+P020,4,S2,2,semantic,2,lexical,12,FILL_ENVY,嫉妒,,,0
+P020,4,S2,2,semantic,2,lexical,13,FEAR,恐惧,,,0
+P020,4,S2,2,semantic,2,lexical,14,FILL_BOREDOM,无聊,,,0
+P020,4,S2,2,semantic,2,lexical,15,FILL_HOPE,希望,,,0
+P020,4,S2,2,semantic,2,lexical,16,FILL_DISGUST,厌恶,,,0
+P020,4,S2,2,semantic,2,lexical,17,JOY,喜悦,,,0
+P020,4,S2,2,semantic,2,lexical,18,FILL_RELIEF,安心,,,0
+P020,4,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P020,4,S1,2,induced,1,induced,2,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P020,4,S1,2,induced,1,induced,3,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P020,4,S1,2,induced,1,induced,4,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P020,4,S1,2,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P020,4,S1,2,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P020,4,S1,2,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P020,4,S1,2,induced,1,induced,8,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P020,4,S1,2,induced,1,induced,9,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P020,4,S1,2,induced,1,induced,10,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P020,4,S1,2,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P020,4,S1,2,induced,1,induced,12,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P021,5,S1,1,semantic,1,lexical,1,AMUSEMENT,被逗乐,,,0
+P021,5,S1,1,semantic,1,lexical,2,FILL_PRIDE,自豪,,,0
+P021,5,S1,1,semantic,1,lexical,3,FILL_ENVY,嫉妒,,,0
+P021,5,S1,1,semantic,1,lexical,4,FILL_AWE,敬畏,,,0
+P021,5,S1,1,semantic,1,lexical,5,FILL_HOPE,希望,,,0
+P021,5,S1,1,semantic,1,lexical,6,TENDERNESS,温情,,,0
+P021,5,S1,1,semantic,1,lexical,7,FEAR,恐惧,,,0
+P021,5,S1,1,semantic,1,lexical,8,FILL_RELIEF,安心,,,0
+P021,5,S1,1,semantic,1,lexical,9,FILL_SHAME,羞耻,,,0
+P021,5,S1,1,semantic,1,lexical,10,FILL_LONELINESS,孤独,,,0
+P021,5,S1,1,semantic,1,lexical,11,FILL_GUILT,内疚,,,0
+P021,5,S1,1,semantic,1,lexical,12,SADNESS,悲伤,,,0
+P021,5,S1,1,semantic,1,lexical,13,JOY,喜悦,,,0
+P021,5,S1,1,semantic,1,lexical,14,FILL_GRATITUDE,感激,,,0
+P021,5,S1,1,semantic,1,lexical,15,ANGER,愤怒,,,0
+P021,5,S1,1,semantic,1,lexical,16,FILL_BOREDOM,无聊,,,0
+P021,5,S1,1,semantic,1,lexical,17,FILL_DISGUST,厌恶,,,0
+P021,5,S1,1,semantic,1,lexical,18,FILL_SURPRISE,惊讶,,,0
+P021,5,S1,1,semantic,2,prototype,1,FILL_SURPRISE,惊讶,,,0
+P021,5,S1,1,semantic,2,prototype,2,FILL_RELIEF,安心,,,0
+P021,5,S1,1,semantic,2,prototype,3,ANGER,愤怒,,,0
+P021,5,S1,1,semantic,2,prototype,4,FILL_GRATITUDE,感激,,,0
+P021,5,S1,1,semantic,2,prototype,5,FILL_SHAME,羞耻,,,0
+P021,5,S1,1,semantic,2,prototype,6,FILL_DISGUST,厌恶,,,0
+P021,5,S1,1,semantic,2,prototype,7,AMUSEMENT,被逗乐,,,0
+P021,5,S1,1,semantic,2,prototype,8,SADNESS,悲伤,,,0
+P021,5,S1,1,semantic,2,prototype,9,FILL_BOREDOM,无聊,,,0
+P021,5,S1,1,semantic,2,prototype,10,FILL_GUILT,内疚,,,0
+P021,5,S1,1,semantic,2,prototype,11,FEAR,恐惧,,,0
+P021,5,S1,1,semantic,2,prototype,12,FILL_HOPE,希望,,,0
+P021,5,S1,1,semantic,2,prototype,13,FILL_LONELINESS,孤独,,,0
+P021,5,S1,1,semantic,2,prototype,14,FILL_AWE,敬畏,,,0
+P021,5,S1,1,semantic,2,prototype,15,JOY,喜悦,,,0
+P021,5,S1,1,semantic,2,prototype,16,FILL_ENVY,嫉妒,,,0
+P021,5,S1,1,semantic,2,prototype,17,TENDERNESS,温情,,,0
+P021,5,S1,1,semantic,2,prototype,18,FILL_PRIDE,自豪,,,0
+P021,5,S2,1,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P021,5,S2,1,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P021,5,S2,1,induced,1,induced,3,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P021,5,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P021,5,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P021,5,S2,1,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_01,Hear Me,1
+P021,5,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P021,5,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P021,5,S2,1,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P021,5,S2,1,induced,1,induced,10,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P021,5,S2,1,induced,1,induced,11,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P021,5,S2,1,induced,1,induced,12,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P022,6,S2,2,semantic,1,lexical,1,FILL_HOPE,希望,,,0
+P022,6,S2,2,semantic,1,lexical,2,AMUSEMENT,被逗乐,,,0
+P022,6,S2,2,semantic,1,lexical,3,FILL_SURPRISE,惊讶,,,0
+P022,6,S2,2,semantic,1,lexical,4,FILL_DISGUST,厌恶,,,0
+P022,6,S2,2,semantic,1,lexical,5,FILL_ENVY,嫉妒,,,0
+P022,6,S2,2,semantic,1,lexical,6,FEAR,恐惧,,,0
+P022,6,S2,2,semantic,1,lexical,7,FILL_GUILT,内疚,,,0
+P022,6,S2,2,semantic,1,lexical,8,FILL_LONELINESS,孤独,,,0
+P022,6,S2,2,semantic,1,lexical,9,ANGER,愤怒,,,0
+P022,6,S2,2,semantic,1,lexical,10,FILL_RELIEF,安心,,,0
+P022,6,S2,2,semantic,1,lexical,11,JOY,喜悦,,,0
+P022,6,S2,2,semantic,1,lexical,12,FILL_BOREDOM,无聊,,,0
+P022,6,S2,2,semantic,1,lexical,13,SADNESS,悲伤,,,0
+P022,6,S2,2,semantic,1,lexical,14,FILL_AWE,敬畏,,,0
+P022,6,S2,2,semantic,1,lexical,15,FILL_GRATITUDE,感激,,,0
+P022,6,S2,2,semantic,1,lexical,16,FILL_PRIDE,自豪,,,0
+P022,6,S2,2,semantic,1,lexical,17,TENDERNESS,温情,,,0
+P022,6,S2,2,semantic,1,lexical,18,FILL_SHAME,羞耻,,,0
+P022,6,S2,2,semantic,2,prototype,1,JOY,喜悦,,,0
+P022,6,S2,2,semantic,2,prototype,2,FILL_GUILT,内疚,,,0
+P022,6,S2,2,semantic,2,prototype,3,FILL_AWE,敬畏,,,0
+P022,6,S2,2,semantic,2,prototype,4,FILL_LONELINESS,孤独,,,0
+P022,6,S2,2,semantic,2,prototype,5,TENDERNESS,温情,,,0
+P022,6,S2,2,semantic,2,prototype,6,FILL_ENVY,嫉妒,,,0
+P022,6,S2,2,semantic,2,prototype,7,FILL_DISGUST,厌恶,,,0
+P022,6,S2,2,semantic,2,prototype,8,FILL_BOREDOM,无聊,,,0
+P022,6,S2,2,semantic,2,prototype,9,FILL_SURPRISE,惊讶,,,0
+P022,6,S2,2,semantic,2,prototype,10,ANGER,愤怒,,,0
+P022,6,S2,2,semantic,2,prototype,11,FEAR,恐惧,,,0
+P022,6,S2,2,semantic,2,prototype,12,FILL_RELIEF,安心,,,0
+P022,6,S2,2,semantic,2,prototype,13,FILL_PRIDE,自豪,,,0
+P022,6,S2,2,semantic,2,prototype,14,AMUSEMENT,被逗乐,,,0
+P022,6,S2,2,semantic,2,prototype,15,FILL_GRATITUDE,感激,,,0
+P022,6,S2,2,semantic,2,prototype,16,FILL_HOPE,希望,,,0
+P022,6,S2,2,semantic,2,prototype,17,SADNESS,悲伤,,,0
+P022,6,S2,2,semantic,2,prototype,18,FILL_SHAME,羞耻,,,0
+P022,6,S1,2,induced,1,induced,1,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P022,6,S1,2,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P022,6,S1,2,induced,1,induced,3,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P022,6,S1,2,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P022,6,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P022,6,S1,2,induced,1,induced,6,JOY,喜悦,VID_JOY_02,Better And Better Part I,1
+P022,6,S1,2,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P022,6,S1,2,induced,1,induced,8,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P022,6,S1,2,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P022,6,S1,2,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P022,6,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P022,6,S1,2,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P023,7,S1,1,semantic,1,prototype,1,FILL_SURPRISE,惊讶,,,0
+P023,7,S1,1,semantic,1,prototype,2,JOY,喜悦,,,0
+P023,7,S1,1,semantic,1,prototype,3,SADNESS,悲伤,,,0
+P023,7,S1,1,semantic,1,prototype,4,FILL_BOREDOM,无聊,,,0
+P023,7,S1,1,semantic,1,prototype,5,FILL_PRIDE,自豪,,,0
+P023,7,S1,1,semantic,1,prototype,6,FILL_AWE,敬畏,,,0
+P023,7,S1,1,semantic,1,prototype,7,FILL_LONELINESS,孤独,,,0
+P023,7,S1,1,semantic,1,prototype,8,FILL_GRATITUDE,感激,,,0
+P023,7,S1,1,semantic,1,prototype,9,TENDERNESS,温情,,,0
+P023,7,S1,1,semantic,1,prototype,10,FILL_ENVY,嫉妒,,,0
+P023,7,S1,1,semantic,1,prototype,11,FILL_DISGUST,厌恶,,,0
+P023,7,S1,1,semantic,1,prototype,12,AMUSEMENT,被逗乐,,,0
+P023,7,S1,1,semantic,1,prototype,13,FILL_SHAME,羞耻,,,0
+P023,7,S1,1,semantic,1,prototype,14,ANGER,愤怒,,,0
+P023,7,S1,1,semantic,1,prototype,15,FILL_GUILT,内疚,,,0
+P023,7,S1,1,semantic,1,prototype,16,FEAR,恐惧,,,0
+P023,7,S1,1,semantic,1,prototype,17,FILL_HOPE,希望,,,0
+P023,7,S1,1,semantic,1,prototype,18,FILL_RELIEF,安心,,,0
+P023,7,S1,1,semantic,2,lexical,1,FILL_AWE,敬畏,,,0
+P023,7,S1,1,semantic,2,lexical,2,FILL_LONELINESS,孤独,,,0
+P023,7,S1,1,semantic,2,lexical,3,FILL_ENVY,嫉妒,,,0
+P023,7,S1,1,semantic,2,lexical,4,FILL_PRIDE,自豪,,,0
+P023,7,S1,1,semantic,2,lexical,5,FILL_RELIEF,安心,,,0
+P023,7,S1,1,semantic,2,lexical,6,AMUSEMENT,被逗乐,,,0
+P023,7,S1,1,semantic,2,lexical,7,FILL_HOPE,希望,,,0
+P023,7,S1,1,semantic,2,lexical,8,FILL_SHAME,羞耻,,,0
+P023,7,S1,1,semantic,2,lexical,9,FILL_GUILT,内疚,,,0
+P023,7,S1,1,semantic,2,lexical,10,TENDERNESS,温情,,,0
+P023,7,S1,1,semantic,2,lexical,11,FILL_DISGUST,厌恶,,,0
+P023,7,S1,1,semantic,2,lexical,12,FILL_GRATITUDE,感激,,,0
+P023,7,S1,1,semantic,2,lexical,13,FILL_SURPRISE,惊讶,,,0
+P023,7,S1,1,semantic,2,lexical,14,ANGER,愤怒,,,0
+P023,7,S1,1,semantic,2,lexical,15,SADNESS,悲伤,,,0
+P023,7,S1,1,semantic,2,lexical,16,FILL_BOREDOM,无聊,,,0
+P023,7,S1,1,semantic,2,lexical,17,FEAR,恐惧,,,0
+P023,7,S1,1,semantic,2,lexical,18,JOY,喜悦,,,0
+P023,7,S2,1,induced,1,induced,1,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P023,7,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P023,7,S2,1,induced,1,induced,3,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P023,7,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P023,7,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P023,7,S2,1,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P023,7,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P023,7,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P023,7,S2,1,induced,1,induced,9,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P023,7,S2,1,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P023,7,S2,1,induced,1,induced,11,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P023,7,S2,1,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P024,8,S2,2,semantic,1,prototype,1,FILL_LONELINESS,孤独,,,0
+P024,8,S2,2,semantic,1,prototype,2,FILL_DISGUST,厌恶,,,0
+P024,8,S2,2,semantic,1,prototype,3,FILL_RELIEF,安心,,,0
+P024,8,S2,2,semantic,1,prototype,4,ANGER,愤怒,,,0
+P024,8,S2,2,semantic,1,prototype,5,FILL_ENVY,嫉妒,,,0
+P024,8,S2,2,semantic,1,prototype,6,FILL_BOREDOM,无聊,,,0
+P024,8,S2,2,semantic,1,prototype,7,AMUSEMENT,被逗乐,,,0
+P024,8,S2,2,semantic,1,prototype,8,TENDERNESS,温情,,,0
+P024,8,S2,2,semantic,1,prototype,9,FILL_SHAME,羞耻,,,0
+P024,8,S2,2,semantic,1,prototype,10,FILL_GRATITUDE,感激,,,0
+P024,8,S2,2,semantic,1,prototype,11,FEAR,恐惧,,,0
+P024,8,S2,2,semantic,1,prototype,12,FILL_PRIDE,自豪,,,0
+P024,8,S2,2,semantic,1,prototype,13,FILL_GUILT,内疚,,,0
+P024,8,S2,2,semantic,1,prototype,14,SADNESS,悲伤,,,0
+P024,8,S2,2,semantic,1,prototype,15,JOY,喜悦,,,0
+P024,8,S2,2,semantic,1,prototype,16,FILL_SURPRISE,惊讶,,,0
+P024,8,S2,2,semantic,1,prototype,17,FILL_HOPE,希望,,,0
+P024,8,S2,2,semantic,1,prototype,18,FILL_AWE,敬畏,,,0
+P024,8,S2,2,semantic,2,lexical,1,FILL_PRIDE,自豪,,,0
+P024,8,S2,2,semantic,2,lexical,2,FILL_RELIEF,安心,,,0
+P024,8,S2,2,semantic,2,lexical,3,FILL_GUILT,内疚,,,0
+P024,8,S2,2,semantic,2,lexical,4,FILL_DISGUST,厌恶,,,0
+P024,8,S2,2,semantic,2,lexical,5,FILL_LONELINESS,孤独,,,0
+P024,8,S2,2,semantic,2,lexical,6,AMUSEMENT,被逗乐,,,0
+P024,8,S2,2,semantic,2,lexical,7,JOY,喜悦,,,0
+P024,8,S2,2,semantic,2,lexical,8,FILL_SHAME,羞耻,,,0
+P024,8,S2,2,semantic,2,lexical,9,FILL_SURPRISE,惊讶,,,0
+P024,8,S2,2,semantic,2,lexical,10,FEAR,恐惧,,,0
+P024,8,S2,2,semantic,2,lexical,11,FILL_AWE,敬畏,,,0
+P024,8,S2,2,semantic,2,lexical,12,ANGER,愤怒,,,0
+P024,8,S2,2,semantic,2,lexical,13,FILL_ENVY,嫉妒,,,0
+P024,8,S2,2,semantic,2,lexical,14,FILL_BOREDOM,无聊,,,0
+P024,8,S2,2,semantic,2,lexical,15,FILL_GRATITUDE,感激,,,0
+P024,8,S2,2,semantic,2,lexical,16,TENDERNESS,温情,,,0
+P024,8,S2,2,semantic,2,lexical,17,FILL_HOPE,希望,,,0
+P024,8,S2,2,semantic,2,lexical,18,SADNESS,悲伤,,,0
+P024,8,S1,2,induced,1,induced,1,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P024,8,S1,2,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P024,8,S1,2,induced,1,induced,3,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P024,8,S1,2,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P024,8,S1,2,induced,1,induced,5,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P024,8,S1,2,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,1
+P024,8,S1,2,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P024,8,S1,2,induced,1,induced,8,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P024,8,S1,2,induced,1,induced,9,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P024,8,S1,2,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P024,8,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P024,8,S1,2,induced,1,induced,12,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P025,1,S1,1,semantic,1,lexical,1,FILL_LONELINESS,孤独,,,0
+P025,1,S1,1,semantic,1,lexical,2,AMUSEMENT,被逗乐,,,0
+P025,1,S1,1,semantic,1,lexical,3,FILL_GUILT,内疚,,,0
+P025,1,S1,1,semantic,1,lexical,4,JOY,喜悦,,,0
+P025,1,S1,1,semantic,1,lexical,5,FILL_ENVY,嫉妒,,,0
+P025,1,S1,1,semantic,1,lexical,6,FILL_GRATITUDE,感激,,,0
+P025,1,S1,1,semantic,1,lexical,7,FILL_HOPE,希望,,,0
+P025,1,S1,1,semantic,1,lexical,8,FILL_BOREDOM,无聊,,,0
+P025,1,S1,1,semantic,1,lexical,9,FILL_SHAME,羞耻,,,0
+P025,1,S1,1,semantic,1,lexical,10,TENDERNESS,温情,,,0
+P025,1,S1,1,semantic,1,lexical,11,FILL_PRIDE,自豪,,,0
+P025,1,S1,1,semantic,1,lexical,12,FILL_SURPRISE,惊讶,,,0
+P025,1,S1,1,semantic,1,lexical,13,ANGER,愤怒,,,0
+P025,1,S1,1,semantic,1,lexical,14,FILL_AWE,敬畏,,,0
+P025,1,S1,1,semantic,1,lexical,15,FILL_DISGUST,厌恶,,,0
+P025,1,S1,1,semantic,1,lexical,16,FEAR,恐惧,,,0
+P025,1,S1,1,semantic,1,lexical,17,SADNESS,悲伤,,,0
+P025,1,S1,1,semantic,1,lexical,18,FILL_RELIEF,安心,,,0
+P025,1,S1,1,semantic,2,prototype,1,FILL_HOPE,希望,,,0
+P025,1,S1,1,semantic,2,prototype,2,TENDERNESS,温情,,,0
+P025,1,S1,1,semantic,2,prototype,3,FEAR,恐惧,,,0
+P025,1,S1,1,semantic,2,prototype,4,FILL_AWE,敬畏,,,0
+P025,1,S1,1,semantic,2,prototype,5,AMUSEMENT,被逗乐,,,0
+P025,1,S1,1,semantic,2,prototype,6,ANGER,愤怒,,,0
+P025,1,S1,1,semantic,2,prototype,7,FILL_ENVY,嫉妒,,,0
+P025,1,S1,1,semantic,2,prototype,8,FILL_RELIEF,安心,,,0
+P025,1,S1,1,semantic,2,prototype,9,FILL_LONELINESS,孤独,,,0
+P025,1,S1,1,semantic,2,prototype,10,SADNESS,悲伤,,,0
+P025,1,S1,1,semantic,2,prototype,11,FILL_GRATITUDE,感激,,,0
+P025,1,S1,1,semantic,2,prototype,12,FILL_PRIDE,自豪,,,0
+P025,1,S1,1,semantic,2,prototype,13,FILL_BOREDOM,无聊,,,0
+P025,1,S1,1,semantic,2,prototype,14,FILL_SURPRISE,惊讶,,,0
+P025,1,S1,1,semantic,2,prototype,15,JOY,喜悦,,,0
+P025,1,S1,1,semantic,2,prototype,16,FILL_SHAME,羞耻,,,0
+P025,1,S1,1,semantic,2,prototype,17,FILL_DISGUST,厌恶,,,0
+P025,1,S1,1,semantic,2,prototype,18,FILL_GUILT,内疚,,,0
+P025,1,S2,1,induced,1,induced,1,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P025,1,S2,1,induced,1,induced,2,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P025,1,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P025,1,S2,1,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P025,1,S2,1,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P025,1,S2,1,induced,1,induced,6,SADNESS,悲伤,VID_SAD_02,I Want to Be You,1
+P025,1,S2,1,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P025,1,S2,1,induced,1,induced,8,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P025,1,S2,1,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P025,1,S2,1,induced,1,induced,10,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P025,1,S2,1,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P025,1,S2,1,induced,1,induced,12,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P026,2,S2,2,semantic,1,lexical,1,JOY,喜悦,,,0
+P026,2,S2,2,semantic,1,lexical,2,FILL_ENVY,嫉妒,,,0
+P026,2,S2,2,semantic,1,lexical,3,FILL_GUILT,内疚,,,0
+P026,2,S2,2,semantic,1,lexical,4,FILL_HOPE,希望,,,0
+P026,2,S2,2,semantic,1,lexical,5,FILL_GRATITUDE,感激,,,0
+P026,2,S2,2,semantic,1,lexical,6,FILL_DISGUST,厌恶,,,0
+P026,2,S2,2,semantic,1,lexical,7,SADNESS,悲伤,,,0
+P026,2,S2,2,semantic,1,lexical,8,FILL_PRIDE,自豪,,,0
+P026,2,S2,2,semantic,1,lexical,9,FILL_AWE,敬畏,,,0
+P026,2,S2,2,semantic,1,lexical,10,FILL_LONELINESS,孤独,,,0
+P026,2,S2,2,semantic,1,lexical,11,FILL_SHAME,羞耻,,,0
+P026,2,S2,2,semantic,1,lexical,12,ANGER,愤怒,,,0
+P026,2,S2,2,semantic,1,lexical,13,AMUSEMENT,被逗乐,,,0
+P026,2,S2,2,semantic,1,lexical,14,FILL_BOREDOM,无聊,,,0
+P026,2,S2,2,semantic,1,lexical,15,TENDERNESS,温情,,,0
+P026,2,S2,2,semantic,1,lexical,16,FILL_SURPRISE,惊讶,,,0
+P026,2,S2,2,semantic,1,lexical,17,FEAR,恐惧,,,0
+P026,2,S2,2,semantic,1,lexical,18,FILL_RELIEF,安心,,,0
+P026,2,S2,2,semantic,2,prototype,1,FILL_GRATITUDE,感激,,,0
+P026,2,S2,2,semantic,2,prototype,2,ANGER,愤怒,,,0
+P026,2,S2,2,semantic,2,prototype,3,FILL_LONELINESS,孤独,,,0
+P026,2,S2,2,semantic,2,prototype,4,FEAR,恐惧,,,0
+P026,2,S2,2,semantic,2,prototype,5,AMUSEMENT,被逗乐,,,0
+P026,2,S2,2,semantic,2,prototype,6,SADNESS,悲伤,,,0
+P026,2,S2,2,semantic,2,prototype,7,FILL_BOREDOM,无聊,,,0
+P026,2,S2,2,semantic,2,prototype,8,FILL_SURPRISE,惊讶,,,0
+P026,2,S2,2,semantic,2,prototype,9,FILL_DISGUST,厌恶,,,0
+P026,2,S2,2,semantic,2,prototype,10,TENDERNESS,温情,,,0
+P026,2,S2,2,semantic,2,prototype,11,FILL_HOPE,希望,,,0
+P026,2,S2,2,semantic,2,prototype,12,FILL_RELIEF,安心,,,0
+P026,2,S2,2,semantic,2,prototype,13,FILL_AWE,敬畏,,,0
+P026,2,S2,2,semantic,2,prototype,14,FILL_GUILT,内疚,,,0
+P026,2,S2,2,semantic,2,prototype,15,FILL_PRIDE,自豪,,,0
+P026,2,S2,2,semantic,2,prototype,16,FILL_SHAME,羞耻,,,0
+P026,2,S2,2,semantic,2,prototype,17,FILL_ENVY,嫉妒,,,0
+P026,2,S2,2,semantic,2,prototype,18,JOY,喜悦,,,0
+P026,2,S1,2,induced,1,induced,1,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P026,2,S1,2,induced,1,induced,2,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P026,2,S1,2,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P026,2,S1,2,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P026,2,S1,2,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P026,2,S1,2,induced,1,induced,6,FEAR,恐惧,VID_FEAR_01,Chrysalis,1
+P026,2,S1,2,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P026,2,S1,2,induced,1,induced,8,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P026,2,S1,2,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P026,2,S1,2,induced,1,induced,10,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P026,2,S1,2,induced,1,induced,11,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P026,2,S1,2,induced,1,induced,12,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P027,3,S1,1,semantic,1,prototype,1,FILL_HOPE,希望,,,0
+P027,3,S1,1,semantic,1,prototype,2,FILL_ENVY,嫉妒,,,0
+P027,3,S1,1,semantic,1,prototype,3,ANGER,愤怒,,,0
+P027,3,S1,1,semantic,1,prototype,4,FILL_AWE,敬畏,,,0
+P027,3,S1,1,semantic,1,prototype,5,AMUSEMENT,被逗乐,,,0
+P027,3,S1,1,semantic,1,prototype,6,FILL_GUILT,内疚,,,0
+P027,3,S1,1,semantic,1,prototype,7,FILL_DISGUST,厌恶,,,0
+P027,3,S1,1,semantic,1,prototype,8,FILL_GRATITUDE,感激,,,0
+P027,3,S1,1,semantic,1,prototype,9,FILL_LONELINESS,孤独,,,0
+P027,3,S1,1,semantic,1,prototype,10,FILL_SURPRISE,惊讶,,,0
+P027,3,S1,1,semantic,1,prototype,11,FILL_RELIEF,安心,,,0
+P027,3,S1,1,semantic,1,prototype,12,FILL_PRIDE,自豪,,,0
+P027,3,S1,1,semantic,1,prototype,13,FILL_SHAME,羞耻,,,0
+P027,3,S1,1,semantic,1,prototype,14,FEAR,恐惧,,,0
+P027,3,S1,1,semantic,1,prototype,15,JOY,喜悦,,,0
+P027,3,S1,1,semantic,1,prototype,16,SADNESS,悲伤,,,0
+P027,3,S1,1,semantic,1,prototype,17,FILL_BOREDOM,无聊,,,0
+P027,3,S1,1,semantic,1,prototype,18,TENDERNESS,温情,,,0
+P027,3,S1,1,semantic,2,lexical,1,FILL_GUILT,内疚,,,0
+P027,3,S1,1,semantic,2,lexical,2,FILL_SURPRISE,惊讶,,,0
+P027,3,S1,1,semantic,2,lexical,3,FILL_GRATITUDE,感激,,,0
+P027,3,S1,1,semantic,2,lexical,4,FILL_DISGUST,厌恶,,,0
+P027,3,S1,1,semantic,2,lexical,5,FILL_PRIDE,自豪,,,0
+P027,3,S1,1,semantic,2,lexical,6,FEAR,恐惧,,,0
+P027,3,S1,1,semantic,2,lexical,7,TENDERNESS,温情,,,0
+P027,3,S1,1,semantic,2,lexical,8,AMUSEMENT,被逗乐,,,0
+P027,3,S1,1,semantic,2,lexical,9,FILL_SHAME,羞耻,,,0
+P027,3,S1,1,semantic,2,lexical,10,FILL_RELIEF,安心,,,0
+P027,3,S1,1,semantic,2,lexical,11,FILL_ENVY,嫉妒,,,0
+P027,3,S1,1,semantic,2,lexical,12,SADNESS,悲伤,,,0
+P027,3,S1,1,semantic,2,lexical,13,FILL_AWE,敬畏,,,0
+P027,3,S1,1,semantic,2,lexical,14,ANGER,愤怒,,,0
+P027,3,S1,1,semantic,2,lexical,15,FILL_LONELINESS,孤独,,,0
+P027,3,S1,1,semantic,2,lexical,16,FILL_BOREDOM,无聊,,,0
+P027,3,S1,1,semantic,2,lexical,17,FILL_HOPE,希望,,,0
+P027,3,S1,1,semantic,2,lexical,18,JOY,喜悦,,,0
+P027,3,S2,1,induced,1,induced,1,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P027,3,S2,1,induced,1,induced,2,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P027,3,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P027,3,S2,1,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P027,3,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P027,3,S2,1,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P027,3,S2,1,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P027,3,S2,1,induced,1,induced,8,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P027,3,S2,1,induced,1,induced,9,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P027,3,S2,1,induced,1,induced,10,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P027,3,S2,1,induced,1,induced,11,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P027,3,S2,1,induced,1,induced,12,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P028,4,S2,2,semantic,1,prototype,1,FILL_LONELINESS,孤独,,,0
+P028,4,S2,2,semantic,1,prototype,2,FILL_GRATITUDE,感激,,,0
+P028,4,S2,2,semantic,1,prototype,3,FILL_SURPRISE,惊讶,,,0
+P028,4,S2,2,semantic,1,prototype,4,JOY,喜悦,,,0
+P028,4,S2,2,semantic,1,prototype,5,FILL_ENVY,嫉妒,,,0
+P028,4,S2,2,semantic,1,prototype,6,SADNESS,悲伤,,,0
+P028,4,S2,2,semantic,1,prototype,7,FILL_HOPE,希望,,,0
+P028,4,S2,2,semantic,1,prototype,8,FILL_RELIEF,安心,,,0
+P028,4,S2,2,semantic,1,prototype,9,TENDERNESS,温情,,,0
+P028,4,S2,2,semantic,1,prototype,10,AMUSEMENT,被逗乐,,,0
+P028,4,S2,2,semantic,1,prototype,11,FILL_SHAME,羞耻,,,0
+P028,4,S2,2,semantic,1,prototype,12,FEAR,恐惧,,,0
+P028,4,S2,2,semantic,1,prototype,13,FILL_AWE,敬畏,,,0
+P028,4,S2,2,semantic,1,prototype,14,FILL_PRIDE,自豪,,,0
+P028,4,S2,2,semantic,1,prototype,15,ANGER,愤怒,,,0
+P028,4,S2,2,semantic,1,prototype,16,FILL_DISGUST,厌恶,,,0
+P028,4,S2,2,semantic,1,prototype,17,FILL_GUILT,内疚,,,0
+P028,4,S2,2,semantic,1,prototype,18,FILL_BOREDOM,无聊,,,0
+P028,4,S2,2,semantic,2,lexical,1,FILL_SHAME,羞耻,,,0
+P028,4,S2,2,semantic,2,lexical,2,SADNESS,悲伤,,,0
+P028,4,S2,2,semantic,2,lexical,3,FILL_GUILT,内疚,,,0
+P028,4,S2,2,semantic,2,lexical,4,FEAR,恐惧,,,0
+P028,4,S2,2,semantic,2,lexical,5,JOY,喜悦,,,0
+P028,4,S2,2,semantic,2,lexical,6,FILL_AWE,敬畏,,,0
+P028,4,S2,2,semantic,2,lexical,7,AMUSEMENT,被逗乐,,,0
+P028,4,S2,2,semantic,2,lexical,8,FILL_BOREDOM,无聊,,,0
+P028,4,S2,2,semantic,2,lexical,9,FILL_PRIDE,自豪,,,0
+P028,4,S2,2,semantic,2,lexical,10,FILL_ENVY,嫉妒,,,0
+P028,4,S2,2,semantic,2,lexical,11,TENDERNESS,温情,,,0
+P028,4,S2,2,semantic,2,lexical,12,ANGER,愤怒,,,0
+P028,4,S2,2,semantic,2,lexical,13,FILL_GRATITUDE,感激,,,0
+P028,4,S2,2,semantic,2,lexical,14,FILL_DISGUST,厌恶,,,0
+P028,4,S2,2,semantic,2,lexical,15,FILL_RELIEF,安心,,,0
+P028,4,S2,2,semantic,2,lexical,16,FILL_LONELINESS,孤独,,,0
+P028,4,S2,2,semantic,2,lexical,17,FILL_SURPRISE,惊讶,,,0
+P028,4,S2,2,semantic,2,lexical,18,FILL_HOPE,希望,,,0
+P028,4,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P028,4,S1,2,induced,1,induced,2,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P028,4,S1,2,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P028,4,S1,2,induced,1,induced,4,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P028,4,S1,2,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P028,4,S1,2,induced,1,induced,6,ANGER,愤怒,VID_ANGER_02,City of Life and Death,1
+P028,4,S1,2,induced,1,induced,7,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P028,4,S1,2,induced,1,induced,8,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P028,4,S1,2,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P028,4,S1,2,induced,1,induced,10,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P028,4,S1,2,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P028,4,S1,2,induced,1,induced,12,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P029,5,S1,1,semantic,1,lexical,1,FILL_AWE,敬畏,,,0
+P029,5,S1,1,semantic,1,lexical,2,FILL_GRATITUDE,感激,,,0
+P029,5,S1,1,semantic,1,lexical,3,FILL_SURPRISE,惊讶,,,0
+P029,5,S1,1,semantic,1,lexical,4,FILL_HOPE,希望,,,0
+P029,5,S1,1,semantic,1,lexical,5,AMUSEMENT,被逗乐,,,0
+P029,5,S1,1,semantic,1,lexical,6,SADNESS,悲伤,,,0
+P029,5,S1,1,semantic,1,lexical,7,FILL_DISGUST,厌恶,,,0
+P029,5,S1,1,semantic,1,lexical,8,FILL_PRIDE,自豪,,,0
+P029,5,S1,1,semantic,1,lexical,9,FILL_ENVY,嫉妒,,,0
+P029,5,S1,1,semantic,1,lexical,10,FEAR,恐惧,,,0
+P029,5,S1,1,semantic,1,lexical,11,TENDERNESS,温情,,,0
+P029,5,S1,1,semantic,1,lexical,12,FILL_RELIEF,安心,,,0
+P029,5,S1,1,semantic,1,lexical,13,FILL_SHAME,羞耻,,,0
+P029,5,S1,1,semantic,1,lexical,14,FILL_LONELINESS,孤独,,,0
+P029,5,S1,1,semantic,1,lexical,15,ANGER,愤怒,,,0
+P029,5,S1,1,semantic,1,lexical,16,JOY,喜悦,,,0
+P029,5,S1,1,semantic,1,lexical,17,FILL_BOREDOM,无聊,,,0
+P029,5,S1,1,semantic,1,lexical,18,FILL_GUILT,内疚,,,0
+P029,5,S1,1,semantic,2,prototype,1,FILL_PRIDE,自豪,,,0
+P029,5,S1,1,semantic,2,prototype,2,FILL_SHAME,羞耻,,,0
+P029,5,S1,1,semantic,2,prototype,3,FILL_BOREDOM,无聊,,,0
+P029,5,S1,1,semantic,2,prototype,4,FILL_RELIEF,安心,,,0
+P029,5,S1,1,semantic,2,prototype,5,FILL_ENVY,嫉妒,,,0
+P029,5,S1,1,semantic,2,prototype,6,JOY,喜悦,,,0
+P029,5,S1,1,semantic,2,prototype,7,FILL_GRATITUDE,感激,,,0
+P029,5,S1,1,semantic,2,prototype,8,FILL_LONELINESS,孤独,,,0
+P029,5,S1,1,semantic,2,prototype,9,AMUSEMENT,被逗乐,,,0
+P029,5,S1,1,semantic,2,prototype,10,FEAR,恐惧,,,0
+P029,5,S1,1,semantic,2,prototype,11,TENDERNESS,温情,,,0
+P029,5,S1,1,semantic,2,prototype,12,FILL_SURPRISE,惊讶,,,0
+P029,5,S1,1,semantic,2,prototype,13,FILL_DISGUST,厌恶,,,0
+P029,5,S1,1,semantic,2,prototype,14,FILL_AWE,敬畏,,,0
+P029,5,S1,1,semantic,2,prototype,15,FILL_HOPE,希望,,,0
+P029,5,S1,1,semantic,2,prototype,16,ANGER,愤怒,,,0
+P029,5,S1,1,semantic,2,prototype,17,SADNESS,悲伤,,,0
+P029,5,S1,1,semantic,2,prototype,18,FILL_GUILT,内疚,,,0
+P029,5,S2,1,induced,1,induced,1,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P029,5,S2,1,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P029,5,S2,1,induced,1,induced,3,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P029,5,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P029,5,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P029,5,S2,1,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_01,Hear Me,1
+P029,5,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P029,5,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P029,5,S2,1,induced,1,induced,9,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P029,5,S2,1,induced,1,induced,10,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P029,5,S2,1,induced,1,induced,11,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P029,5,S2,1,induced,1,induced,12,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P030,6,S2,2,semantic,1,lexical,1,FILL_GUILT,内疚,,,0
+P030,6,S2,2,semantic,1,lexical,2,JOY,喜悦,,,0
+P030,6,S2,2,semantic,1,lexical,3,FILL_AWE,敬畏,,,0
+P030,6,S2,2,semantic,1,lexical,4,SADNESS,悲伤,,,0
+P030,6,S2,2,semantic,1,lexical,5,FILL_LONELINESS,孤独,,,0
+P030,6,S2,2,semantic,1,lexical,6,FILL_RELIEF,安心,,,0
+P030,6,S2,2,semantic,1,lexical,7,TENDERNESS,温情,,,0
+P030,6,S2,2,semantic,1,lexical,8,FILL_BOREDOM,无聊,,,0
+P030,6,S2,2,semantic,1,lexical,9,FILL_SURPRISE,惊讶,,,0
+P030,6,S2,2,semantic,1,lexical,10,FEAR,恐惧,,,0
+P030,6,S2,2,semantic,1,lexical,11,FILL_SHAME,羞耻,,,0
+P030,6,S2,2,semantic,1,lexical,12,FILL_HOPE,希望,,,0
+P030,6,S2,2,semantic,1,lexical,13,AMUSEMENT,被逗乐,,,0
+P030,6,S2,2,semantic,1,lexical,14,FILL_ENVY,嫉妒,,,0
+P030,6,S2,2,semantic,1,lexical,15,FILL_PRIDE,自豪,,,0
+P030,6,S2,2,semantic,1,lexical,16,FILL_GRATITUDE,感激,,,0
+P030,6,S2,2,semantic,1,lexical,17,ANGER,愤怒,,,0
+P030,6,S2,2,semantic,1,lexical,18,FILL_DISGUST,厌恶,,,0
+P030,6,S2,2,semantic,2,prototype,1,FILL_SURPRISE,惊讶,,,0
+P030,6,S2,2,semantic,2,prototype,2,FILL_GRATITUDE,感激,,,0
+P030,6,S2,2,semantic,2,prototype,3,FILL_RELIEF,安心,,,0
+P030,6,S2,2,semantic,2,prototype,4,FILL_ENVY,嫉妒,,,0
+P030,6,S2,2,semantic,2,prototype,5,TENDERNESS,温情,,,0
+P030,6,S2,2,semantic,2,prototype,6,ANGER,愤怒,,,0
+P030,6,S2,2,semantic,2,prototype,7,JOY,喜悦,,,0
+P030,6,S2,2,semantic,2,prototype,8,FILL_BOREDOM,无聊,,,0
+P030,6,S2,2,semantic,2,prototype,9,FILL_LONELINESS,孤独,,,0
+P030,6,S2,2,semantic,2,prototype,10,FILL_GUILT,内疚,,,0
+P030,6,S2,2,semantic,2,prototype,11,FILL_HOPE,希望,,,0
+P030,6,S2,2,semantic,2,prototype,12,FILL_SHAME,羞耻,,,0
+P030,6,S2,2,semantic,2,prototype,13,FEAR,恐惧,,,0
+P030,6,S2,2,semantic,2,prototype,14,FILL_DISGUST,厌恶,,,0
+P030,6,S2,2,semantic,2,prototype,15,FILL_AWE,敬畏,,,0
+P030,6,S2,2,semantic,2,prototype,16,FILL_PRIDE,自豪,,,0
+P030,6,S2,2,semantic,2,prototype,17,AMUSEMENT,被逗乐,,,0
+P030,6,S2,2,semantic,2,prototype,18,SADNESS,悲伤,,,0
+P030,6,S1,2,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P030,6,S1,2,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P030,6,S1,2,induced,1,induced,3,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P030,6,S1,2,induced,1,induced,4,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P030,6,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P030,6,S1,2,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P030,6,S1,2,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P030,6,S1,2,induced,1,induced,8,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P030,6,S1,2,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P030,6,S1,2,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P030,6,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P030,6,S1,2,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P031,7,S1,1,semantic,1,prototype,1,FILL_LONELINESS,孤独,,,0
+P031,7,S1,1,semantic,1,prototype,2,FILL_GUILT,内疚,,,0
+P031,7,S1,1,semantic,1,prototype,3,FILL_PRIDE,自豪,,,0
+P031,7,S1,1,semantic,1,prototype,4,FILL_AWE,敬畏,,,0
+P031,7,S1,1,semantic,1,prototype,5,AMUSEMENT,被逗乐,,,0
+P031,7,S1,1,semantic,1,prototype,6,TENDERNESS,温情,,,0
+P031,7,S1,1,semantic,1,prototype,7,FEAR,恐惧,,,0
+P031,7,S1,1,semantic,1,prototype,8,FILL_DISGUST,厌恶,,,0
+P031,7,S1,1,semantic,1,prototype,9,FILL_SHAME,羞耻,,,0
+P031,7,S1,1,semantic,1,prototype,10,ANGER,愤怒,,,0
+P031,7,S1,1,semantic,1,prototype,11,FILL_GRATITUDE,感激,,,0
+P031,7,S1,1,semantic,1,prototype,12,FILL_ENVY,嫉妒,,,0
+P031,7,S1,1,semantic,1,prototype,13,FILL_RELIEF,安心,,,0
+P031,7,S1,1,semantic,1,prototype,14,FILL_HOPE,希望,,,0
+P031,7,S1,1,semantic,1,prototype,15,FILL_BOREDOM,无聊,,,0
+P031,7,S1,1,semantic,1,prototype,16,SADNESS,悲伤,,,0
+P031,7,S1,1,semantic,1,prototype,17,JOY,喜悦,,,0
+P031,7,S1,1,semantic,1,prototype,18,FILL_SURPRISE,惊讶,,,0
+P031,7,S1,1,semantic,2,lexical,1,ANGER,愤怒,,,0
+P031,7,S1,1,semantic,2,lexical,2,FILL_GUILT,内疚,,,0
+P031,7,S1,1,semantic,2,lexical,3,FILL_HOPE,希望,,,0
+P031,7,S1,1,semantic,2,lexical,4,FILL_GRATITUDE,感激,,,0
+P031,7,S1,1,semantic,2,lexical,5,TENDERNESS,温情,,,0
+P031,7,S1,1,semantic,2,lexical,6,FILL_AWE,敬畏,,,0
+P031,7,S1,1,semantic,2,lexical,7,FILL_DISGUST,厌恶,,,0
+P031,7,S1,1,semantic,2,lexical,8,FILL_RELIEF,安心,,,0
+P031,7,S1,1,semantic,2,lexical,9,FILL_SURPRISE,惊讶,,,0
+P031,7,S1,1,semantic,2,lexical,10,FEAR,恐惧,,,0
+P031,7,S1,1,semantic,2,lexical,11,JOY,喜悦,,,0
+P031,7,S1,1,semantic,2,lexical,12,AMUSEMENT,被逗乐,,,0
+P031,7,S1,1,semantic,2,lexical,13,FILL_LONELINESS,孤独,,,0
+P031,7,S1,1,semantic,2,lexical,14,FILL_SHAME,羞耻,,,0
+P031,7,S1,1,semantic,2,lexical,15,FILL_ENVY,嫉妒,,,0
+P031,7,S1,1,semantic,2,lexical,16,FILL_PRIDE,自豪,,,0
+P031,7,S1,1,semantic,2,lexical,17,SADNESS,悲伤,,,0
+P031,7,S1,1,semantic,2,lexical,18,FILL_BOREDOM,无聊,,,0
+P031,7,S2,1,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P031,7,S2,1,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P031,7,S2,1,induced,1,induced,3,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P031,7,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P031,7,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P031,7,S2,1,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P031,7,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P031,7,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P031,7,S2,1,induced,1,induced,9,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P031,7,S2,1,induced,1,induced,10,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P031,7,S2,1,induced,1,induced,11,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P031,7,S2,1,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P032,8,S2,2,semantic,1,prototype,1,FILL_AWE,敬畏,,,0
+P032,8,S2,2,semantic,1,prototype,2,FEAR,恐惧,,,0
+P032,8,S2,2,semantic,1,prototype,3,FILL_ENVY,嫉妒,,,0
+P032,8,S2,2,semantic,1,prototype,4,SADNESS,悲伤,,,0
+P032,8,S2,2,semantic,1,prototype,5,FILL_HOPE,希望,,,0
+P032,8,S2,2,semantic,1,prototype,6,FILL_RELIEF,安心,,,0
+P032,8,S2,2,semantic,1,prototype,7,ANGER,愤怒,,,0
+P032,8,S2,2,semantic,1,prototype,8,FILL_PRIDE,自豪,,,0
+P032,8,S2,2,semantic,1,prototype,9,FILL_BOREDOM,无聊,,,0
+P032,8,S2,2,semantic,1,prototype,10,FILL_GRATITUDE,感激,,,0
+P032,8,S2,2,semantic,1,prototype,11,FILL_SHAME,羞耻,,,0
+P032,8,S2,2,semantic,1,prototype,12,FILL_GUILT,内疚,,,0
+P032,8,S2,2,semantic,1,prototype,13,FILL_DISGUST,厌恶,,,0
+P032,8,S2,2,semantic,1,prototype,14,FILL_LONELINESS,孤独,,,0
+P032,8,S2,2,semantic,1,prototype,15,AMUSEMENT,被逗乐,,,0
+P032,8,S2,2,semantic,1,prototype,16,JOY,喜悦,,,0
+P032,8,S2,2,semantic,1,prototype,17,TENDERNESS,温情,,,0
+P032,8,S2,2,semantic,1,prototype,18,FILL_SURPRISE,惊讶,,,0
+P032,8,S2,2,semantic,2,lexical,1,FILL_BOREDOM,无聊,,,0
+P032,8,S2,2,semantic,2,lexical,2,FILL_SHAME,羞耻,,,0
+P032,8,S2,2,semantic,2,lexical,3,FILL_SURPRISE,惊讶,,,0
+P032,8,S2,2,semantic,2,lexical,4,FILL_GRATITUDE,感激,,,0
+P032,8,S2,2,semantic,2,lexical,5,FILL_ENVY,嫉妒,,,0
+P032,8,S2,2,semantic,2,lexical,6,FILL_GUILT,内疚,,,0
+P032,8,S2,2,semantic,2,lexical,7,FEAR,恐惧,,,0
+P032,8,S2,2,semantic,2,lexical,8,AMUSEMENT,被逗乐,,,0
+P032,8,S2,2,semantic,2,lexical,9,ANGER,愤怒,,,0
+P032,8,S2,2,semantic,2,lexical,10,FILL_DISGUST,厌恶,,,0
+P032,8,S2,2,semantic,2,lexical,11,FILL_PRIDE,自豪,,,0
+P032,8,S2,2,semantic,2,lexical,12,TENDERNESS,温情,,,0
+P032,8,S2,2,semantic,2,lexical,13,FILL_HOPE,希望,,,0
+P032,8,S2,2,semantic,2,lexical,14,JOY,喜悦,,,0
+P032,8,S2,2,semantic,2,lexical,15,FILL_AWE,敬畏,,,0
+P032,8,S2,2,semantic,2,lexical,16,SADNESS,悲伤,,,0
+P032,8,S2,2,semantic,2,lexical,17,FILL_LONELINESS,孤独,,,0
+P032,8,S2,2,semantic,2,lexical,18,FILL_RELIEF,安心,,,0
+P032,8,S1,2,induced,1,induced,1,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P032,8,S1,2,induced,1,induced,2,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P032,8,S1,2,induced,1,induced,3,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P032,8,S1,2,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P032,8,S1,2,induced,1,induced,5,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P032,8,S1,2,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_01,Hear Me,1
+P032,8,S1,2,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P032,8,S1,2,induced,1,induced,8,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P032,8,S1,2,induced,1,induced,9,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P032,8,S1,2,induced,1,induced,10,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P032,8,S1,2,induced,1,induced,11,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P032,8,S1,2,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P033,1,S1,1,semantic,1,lexical,1,SADNESS,悲伤,,,0
+P033,1,S1,1,semantic,1,lexical,2,TENDERNESS,温情,,,0
+P033,1,S1,1,semantic,1,lexical,3,FEAR,恐惧,,,0
+P033,1,S1,1,semantic,1,lexical,4,FILL_HOPE,希望,,,0
+P033,1,S1,1,semantic,1,lexical,5,FILL_SURPRISE,惊讶,,,0
+P033,1,S1,1,semantic,1,lexical,6,FILL_GUILT,内疚,,,0
+P033,1,S1,1,semantic,1,lexical,7,FILL_ENVY,嫉妒,,,0
+P033,1,S1,1,semantic,1,lexical,8,AMUSEMENT,被逗乐,,,0
+P033,1,S1,1,semantic,1,lexical,9,ANGER,愤怒,,,0
+P033,1,S1,1,semantic,1,lexical,10,FILL_LONELINESS,孤独,,,0
+P033,1,S1,1,semantic,1,lexical,11,FILL_SHAME,羞耻,,,0
+P033,1,S1,1,semantic,1,lexical,12,FILL_AWE,敬畏,,,0
+P033,1,S1,1,semantic,1,lexical,13,FILL_PRIDE,自豪,,,0
+P033,1,S1,1,semantic,1,lexical,14,FILL_GRATITUDE,感激,,,0
+P033,1,S1,1,semantic,1,lexical,15,JOY,喜悦,,,0
+P033,1,S1,1,semantic,1,lexical,16,FILL_DISGUST,厌恶,,,0
+P033,1,S1,1,semantic,1,lexical,17,FILL_BOREDOM,无聊,,,0
+P033,1,S1,1,semantic,1,lexical,18,FILL_RELIEF,安心,,,0
+P033,1,S1,1,semantic,2,prototype,1,FILL_PRIDE,自豪,,,0
+P033,1,S1,1,semantic,2,prototype,2,FILL_SURPRISE,惊讶,,,0
+P033,1,S1,1,semantic,2,prototype,3,FILL_DISGUST,厌恶,,,0
+P033,1,S1,1,semantic,2,prototype,4,FILL_SHAME,羞耻,,,0
+P033,1,S1,1,semantic,2,prototype,5,ANGER,愤怒,,,0
+P033,1,S1,1,semantic,2,prototype,6,AMUSEMENT,被逗乐,,,0
+P033,1,S1,1,semantic,2,prototype,7,FILL_RELIEF,安心,,,0
+P033,1,S1,1,semantic,2,prototype,8,JOY,喜悦,,,0
+P033,1,S1,1,semantic,2,prototype,9,FEAR,恐惧,,,0
+P033,1,S1,1,semantic,2,prototype,10,SADNESS,悲伤,,,0
+P033,1,S1,1,semantic,2,prototype,11,FILL_AWE,敬畏,,,0
+P033,1,S1,1,semantic,2,prototype,12,FILL_ENVY,嫉妒,,,0
+P033,1,S1,1,semantic,2,prototype,13,FILL_BOREDOM,无聊,,,0
+P033,1,S1,1,semantic,2,prototype,14,FILL_HOPE,希望,,,0
+P033,1,S1,1,semantic,2,prototype,15,FILL_GRATITUDE,感激,,,0
+P033,1,S1,1,semantic,2,prototype,16,FILL_GUILT,内疚,,,0
+P033,1,S1,1,semantic,2,prototype,17,TENDERNESS,温情,,,0
+P033,1,S1,1,semantic,2,prototype,18,FILL_LONELINESS,孤独,,,0
+P033,1,S2,1,induced,1,induced,1,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P033,1,S2,1,induced,1,induced,2,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P033,1,S2,1,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P033,1,S2,1,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P033,1,S2,1,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P033,1,S2,1,induced,1,induced,6,FEAR,恐惧,VID_FEAR_01,Chrysalis,1
+P033,1,S2,1,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P033,1,S2,1,induced,1,induced,8,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P033,1,S2,1,induced,1,induced,9,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P033,1,S2,1,induced,1,induced,10,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P033,1,S2,1,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P033,1,S2,1,induced,1,induced,12,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P034,2,S2,2,semantic,1,lexical,1,FILL_BOREDOM,无聊,,,0
+P034,2,S2,2,semantic,1,lexical,2,FILL_DISGUST,厌恶,,,0
+P034,2,S2,2,semantic,1,lexical,3,FILL_RELIEF,安心,,,0
+P034,2,S2,2,semantic,1,lexical,4,AMUSEMENT,被逗乐,,,0
+P034,2,S2,2,semantic,1,lexical,5,FILL_HOPE,希望,,,0
+P034,2,S2,2,semantic,1,lexical,6,FILL_AWE,敬畏,,,0
+P034,2,S2,2,semantic,1,lexical,7,ANGER,愤怒,,,0
+P034,2,S2,2,semantic,1,lexical,8,SADNESS,悲伤,,,0
+P034,2,S2,2,semantic,1,lexical,9,FILL_ENVY,嫉妒,,,0
+P034,2,S2,2,semantic,1,lexical,10,FILL_GRATITUDE,感激,,,0
+P034,2,S2,2,semantic,1,lexical,11,FEAR,恐惧,,,0
+P034,2,S2,2,semantic,1,lexical,12,FILL_LONELINESS,孤独,,,0
+P034,2,S2,2,semantic,1,lexical,13,FILL_PRIDE,自豪,,,0
+P034,2,S2,2,semantic,1,lexical,14,FILL_GUILT,内疚,,,0
+P034,2,S2,2,semantic,1,lexical,15,FILL_SURPRISE,惊讶,,,0
+P034,2,S2,2,semantic,1,lexical,16,TENDERNESS,温情,,,0
+P034,2,S2,2,semantic,1,lexical,17,JOY,喜悦,,,0
+P034,2,S2,2,semantic,1,lexical,18,FILL_SHAME,羞耻,,,0
+P034,2,S2,2,semantic,2,prototype,1,SADNESS,悲伤,,,0
+P034,2,S2,2,semantic,2,prototype,2,FILL_LONELINESS,孤独,,,0
+P034,2,S2,2,semantic,2,prototype,3,FILL_GUILT,内疚,,,0
+P034,2,S2,2,semantic,2,prototype,4,AMUSEMENT,被逗乐,,,0
+P034,2,S2,2,semantic,2,prototype,5,FILL_GRATITUDE,感激,,,0
+P034,2,S2,2,semantic,2,prototype,6,FILL_RELIEF,安心,,,0
+P034,2,S2,2,semantic,2,prototype,7,FILL_SURPRISE,惊讶,,,0
+P034,2,S2,2,semantic,2,prototype,8,FILL_DISGUST,厌恶,,,0
+P034,2,S2,2,semantic,2,prototype,9,FILL_BOREDOM,无聊,,,0
+P034,2,S2,2,semantic,2,prototype,10,FILL_SHAME,羞耻,,,0
+P034,2,S2,2,semantic,2,prototype,11,FILL_HOPE,希望,,,0
+P034,2,S2,2,semantic,2,prototype,12,FILL_PRIDE,自豪,,,0
+P034,2,S2,2,semantic,2,prototype,13,JOY,喜悦,,,0
+P034,2,S2,2,semantic,2,prototype,14,FILL_AWE,敬畏,,,0
+P034,2,S2,2,semantic,2,prototype,15,ANGER,愤怒,,,0
+P034,2,S2,2,semantic,2,prototype,16,FILL_ENVY,嫉妒,,,0
+P034,2,S2,2,semantic,2,prototype,17,TENDERNESS,温情,,,0
+P034,2,S2,2,semantic,2,prototype,18,FEAR,恐惧,,,0
+P034,2,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P034,2,S1,2,induced,1,induced,2,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P034,2,S1,2,induced,1,induced,3,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P034,2,S1,2,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P034,2,S1,2,induced,1,induced,5,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P034,2,S1,2,induced,1,induced,6,ANGER,愤怒,VID_ANGER_01,YiP Man,1
+P034,2,S1,2,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P034,2,S1,2,induced,1,induced,8,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P034,2,S1,2,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P034,2,S1,2,induced,1,induced,10,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P034,2,S1,2,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P034,2,S1,2,induced,1,induced,12,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P035,3,S1,1,semantic,1,prototype,1,AMUSEMENT,被逗乐,,,0
+P035,3,S1,1,semantic,1,prototype,2,FILL_HOPE,希望,,,0
+P035,3,S1,1,semantic,1,prototype,3,FILL_LONELINESS,孤独,,,0
+P035,3,S1,1,semantic,1,prototype,4,FILL_SURPRISE,惊讶,,,0
+P035,3,S1,1,semantic,1,prototype,5,JOY,喜悦,,,0
+P035,3,S1,1,semantic,1,prototype,6,TENDERNESS,温情,,,0
+P035,3,S1,1,semantic,1,prototype,7,FILL_BOREDOM,无聊,,,0
+P035,3,S1,1,semantic,1,prototype,8,FILL_GUILT,内疚,,,0
+P035,3,S1,1,semantic,1,prototype,9,FILL_GRATITUDE,感激,,,0
+P035,3,S1,1,semantic,1,prototype,10,FILL_ENVY,嫉妒,,,0
+P035,3,S1,1,semantic,1,prototype,11,ANGER,愤怒,,,0
+P035,3,S1,1,semantic,1,prototype,12,FILL_PRIDE,自豪,,,0
+P035,3,S1,1,semantic,1,prototype,13,SADNESS,悲伤,,,0
+P035,3,S1,1,semantic,1,prototype,14,FEAR,恐惧,,,0
+P035,3,S1,1,semantic,1,prototype,15,FILL_DISGUST,厌恶,,,0
+P035,3,S1,1,semantic,1,prototype,16,FILL_RELIEF,安心,,,0
+P035,3,S1,1,semantic,1,prototype,17,FILL_AWE,敬畏,,,0
+P035,3,S1,1,semantic,1,prototype,18,FILL_SHAME,羞耻,,,0
+P035,3,S1,1,semantic,2,lexical,1,TENDERNESS,温情,,,0
+P035,3,S1,1,semantic,2,lexical,2,FILL_SURPRISE,惊讶,,,0
+P035,3,S1,1,semantic,2,lexical,3,FILL_SHAME,羞耻,,,0
+P035,3,S1,1,semantic,2,lexical,4,ANGER,愤怒,,,0
+P035,3,S1,1,semantic,2,lexical,5,FILL_PRIDE,自豪,,,0
+P035,3,S1,1,semantic,2,lexical,6,SADNESS,悲伤,,,0
+P035,3,S1,1,semantic,2,lexical,7,FILL_DISGUST,厌恶,,,0
+P035,3,S1,1,semantic,2,lexical,8,FILL_ENVY,嫉妒,,,0
+P035,3,S1,1,semantic,2,lexical,9,FILL_GUILT,内疚,,,0
+P035,3,S1,1,semantic,2,lexical,10,FILL_BOREDOM,无聊,,,0
+P035,3,S1,1,semantic,2,lexical,11,FILL_RELIEF,安心,,,0
+P035,3,S1,1,semantic,2,lexical,12,FILL_GRATITUDE,感激,,,0
+P035,3,S1,1,semantic,2,lexical,13,FILL_HOPE,希望,,,0
+P035,3,S1,1,semantic,2,lexical,14,FILL_LONELINESS,孤独,,,0
+P035,3,S1,1,semantic,2,lexical,15,AMUSEMENT,被逗乐,,,0
+P035,3,S1,1,semantic,2,lexical,16,FEAR,恐惧,,,0
+P035,3,S1,1,semantic,2,lexical,17,FILL_AWE,敬畏,,,0
+P035,3,S1,1,semantic,2,lexical,18,JOY,喜悦,,,0
+P035,3,S2,1,induced,1,induced,1,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P035,3,S2,1,induced,1,induced,2,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P035,3,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P035,3,S2,1,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P035,3,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P035,3,S2,1,induced,1,induced,6,FEAR,恐惧,VID_FEAR_01,Chrysalis,1
+P035,3,S2,1,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P035,3,S2,1,induced,1,induced,8,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P035,3,S2,1,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P035,3,S2,1,induced,1,induced,10,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P035,3,S2,1,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P035,3,S2,1,induced,1,induced,12,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P036,4,S2,2,semantic,1,prototype,1,FEAR,恐惧,,,0
+P036,4,S2,2,semantic,1,prototype,2,AMUSEMENT,被逗乐,,,0
+P036,4,S2,2,semantic,1,prototype,3,FILL_DISGUST,厌恶,,,0
+P036,4,S2,2,semantic,1,prototype,4,FILL_AWE,敬畏,,,0
+P036,4,S2,2,semantic,1,prototype,5,FILL_GRATITUDE,感激,,,0
+P036,4,S2,2,semantic,1,prototype,6,FILL_HOPE,希望,,,0
+P036,4,S2,2,semantic,1,prototype,7,FILL_RELIEF,安心,,,0
+P036,4,S2,2,semantic,1,prototype,8,FILL_BOREDOM,无聊,,,0
+P036,4,S2,2,semantic,1,prototype,9,SADNESS,悲伤,,,0
+P036,4,S2,2,semantic,1,prototype,10,TENDERNESS,温情,,,0
+P036,4,S2,2,semantic,1,prototype,11,ANGER,愤怒,,,0
+P036,4,S2,2,semantic,1,prototype,12,FILL_LONELINESS,孤独,,,0
+P036,4,S2,2,semantic,1,prototype,13,FILL_SURPRISE,惊讶,,,0
+P036,4,S2,2,semantic,1,prototype,14,FILL_ENVY,嫉妒,,,0
+P036,4,S2,2,semantic,1,prototype,15,FILL_GUILT,内疚,,,0
+P036,4,S2,2,semantic,1,prototype,16,FILL_PRIDE,自豪,,,0
+P036,4,S2,2,semantic,1,prototype,17,JOY,喜悦,,,0
+P036,4,S2,2,semantic,1,prototype,18,FILL_SHAME,羞耻,,,0
+P036,4,S2,2,semantic,2,lexical,1,FILL_DISGUST,厌恶,,,0
+P036,4,S2,2,semantic,2,lexical,2,ANGER,愤怒,,,0
+P036,4,S2,2,semantic,2,lexical,3,FILL_LONELINESS,孤独,,,0
+P036,4,S2,2,semantic,2,lexical,4,FEAR,恐惧,,,0
+P036,4,S2,2,semantic,2,lexical,5,FILL_GRATITUDE,感激,,,0
+P036,4,S2,2,semantic,2,lexical,6,FILL_SURPRISE,惊讶,,,0
+P036,4,S2,2,semantic,2,lexical,7,JOY,喜悦,,,0
+P036,4,S2,2,semantic,2,lexical,8,FILL_PRIDE,自豪,,,0
+P036,4,S2,2,semantic,2,lexical,9,FILL_HOPE,希望,,,0
+P036,4,S2,2,semantic,2,lexical,10,FILL_AWE,敬畏,,,0
+P036,4,S2,2,semantic,2,lexical,11,FILL_BOREDOM,无聊,,,0
+P036,4,S2,2,semantic,2,lexical,12,FILL_ENVY,嫉妒,,,0
+P036,4,S2,2,semantic,2,lexical,13,SADNESS,悲伤,,,0
+P036,4,S2,2,semantic,2,lexical,14,TENDERNESS,温情,,,0
+P036,4,S2,2,semantic,2,lexical,15,FILL_GUILT,内疚,,,0
+P036,4,S2,2,semantic,2,lexical,16,AMUSEMENT,被逗乐,,,0
+P036,4,S2,2,semantic,2,lexical,17,FILL_RELIEF,安心,,,0
+P036,4,S2,2,semantic,2,lexical,18,FILL_SHAME,羞耻,,,0
+P036,4,S1,2,induced,1,induced,1,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P036,4,S1,2,induced,1,induced,2,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P036,4,S1,2,induced,1,induced,3,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P036,4,S1,2,induced,1,induced,4,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P036,4,S1,2,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P036,4,S1,2,induced,1,induced,6,FEAR,恐惧,VID_FEAR_01,Chrysalis,1
+P036,4,S1,2,induced,1,induced,7,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P036,4,S1,2,induced,1,induced,8,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P036,4,S1,2,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P036,4,S1,2,induced,1,induced,10,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P036,4,S1,2,induced,1,induced,11,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P036,4,S1,2,induced,1,induced,12,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P037,5,S1,1,semantic,1,lexical,1,FILL_LONELINESS,孤独,,,0
+P037,5,S1,1,semantic,1,lexical,2,ANGER,愤怒,,,0
+P037,5,S1,1,semantic,1,lexical,3,FILL_PRIDE,自豪,,,0
+P037,5,S1,1,semantic,1,lexical,4,AMUSEMENT,被逗乐,,,0
+P037,5,S1,1,semantic,1,lexical,5,FILL_SHAME,羞耻,,,0
+P037,5,S1,1,semantic,1,lexical,6,FILL_GRATITUDE,感激,,,0
+P037,5,S1,1,semantic,1,lexical,7,FILL_AWE,敬畏,,,0
+P037,5,S1,1,semantic,1,lexical,8,SADNESS,悲伤,,,0
+P037,5,S1,1,semantic,1,lexical,9,FILL_ENVY,嫉妒,,,0
+P037,5,S1,1,semantic,1,lexical,10,TENDERNESS,温情,,,0
+P037,5,S1,1,semantic,1,lexical,11,JOY,喜悦,,,0
+P037,5,S1,1,semantic,1,lexical,12,FILL_BOREDOM,无聊,,,0
+P037,5,S1,1,semantic,1,lexical,13,FILL_HOPE,希望,,,0
+P037,5,S1,1,semantic,1,lexical,14,FILL_RELIEF,安心,,,0
+P037,5,S1,1,semantic,1,lexical,15,FEAR,恐惧,,,0
+P037,5,S1,1,semantic,1,lexical,16,FILL_SURPRISE,惊讶,,,0
+P037,5,S1,1,semantic,1,lexical,17,FILL_DISGUST,厌恶,,,0
+P037,5,S1,1,semantic,1,lexical,18,FILL_GUILT,内疚,,,0
+P037,5,S1,1,semantic,2,prototype,1,FILL_SURPRISE,惊讶,,,0
+P037,5,S1,1,semantic,2,prototype,2,FILL_LONELINESS,孤独,,,0
+P037,5,S1,1,semantic,2,prototype,3,TENDERNESS,温情,,,0
+P037,5,S1,1,semantic,2,prototype,4,FILL_BOREDOM,无聊,,,0
+P037,5,S1,1,semantic,2,prototype,5,FILL_GUILT,内疚,,,0
+P037,5,S1,1,semantic,2,prototype,6,FILL_RELIEF,安心,,,0
+P037,5,S1,1,semantic,2,prototype,7,FILL_AWE,敬畏,,,0
+P037,5,S1,1,semantic,2,prototype,8,FEAR,恐惧,,,0
+P037,5,S1,1,semantic,2,prototype,9,FILL_SHAME,羞耻,,,0
+P037,5,S1,1,semantic,2,prototype,10,FILL_DISGUST,厌恶,,,0
+P037,5,S1,1,semantic,2,prototype,11,ANGER,愤怒,,,0
+P037,5,S1,1,semantic,2,prototype,12,FILL_ENVY,嫉妒,,,0
+P037,5,S1,1,semantic,2,prototype,13,SADNESS,悲伤,,,0
+P037,5,S1,1,semantic,2,prototype,14,AMUSEMENT,被逗乐,,,0
+P037,5,S1,1,semantic,2,prototype,15,FILL_PRIDE,自豪,,,0
+P037,5,S1,1,semantic,2,prototype,16,JOY,喜悦,,,0
+P037,5,S1,1,semantic,2,prototype,17,FILL_HOPE,希望,,,0
+P037,5,S1,1,semantic,2,prototype,18,FILL_GRATITUDE,感激,,,0
+P037,5,S2,1,induced,1,induced,1,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P037,5,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P037,5,S2,1,induced,1,induced,3,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P037,5,S2,1,induced,1,induced,4,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P037,5,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P037,5,S2,1,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,1
+P037,5,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P037,5,S2,1,induced,1,induced,8,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P037,5,S2,1,induced,1,induced,9,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P037,5,S2,1,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P037,5,S2,1,induced,1,induced,11,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P037,5,S2,1,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P038,6,S2,2,semantic,1,lexical,1,FILL_ENVY,嫉妒,,,0
+P038,6,S2,2,semantic,1,lexical,2,FILL_RELIEF,安心,,,0
+P038,6,S2,2,semantic,1,lexical,3,FILL_BOREDOM,无聊,,,0
+P038,6,S2,2,semantic,1,lexical,4,FILL_AWE,敬畏,,,0
+P038,6,S2,2,semantic,1,lexical,5,TENDERNESS,温情,,,0
+P038,6,S2,2,semantic,1,lexical,6,AMUSEMENT,被逗乐,,,0
+P038,6,S2,2,semantic,1,lexical,7,FILL_PRIDE,自豪,,,0
+P038,6,S2,2,semantic,1,lexical,8,FILL_GRATITUDE,感激,,,0
+P038,6,S2,2,semantic,1,lexical,9,FILL_HOPE,希望,,,0
+P038,6,S2,2,semantic,1,lexical,10,FILL_LONELINESS,孤独,,,0
+P038,6,S2,2,semantic,1,lexical,11,SADNESS,悲伤,,,0
+P038,6,S2,2,semantic,1,lexical,12,FILL_SURPRISE,惊讶,,,0
+P038,6,S2,2,semantic,1,lexical,13,FEAR,恐惧,,,0
+P038,6,S2,2,semantic,1,lexical,14,ANGER,愤怒,,,0
+P038,6,S2,2,semantic,1,lexical,15,FILL_SHAME,羞耻,,,0
+P038,6,S2,2,semantic,1,lexical,16,FILL_DISGUST,厌恶,,,0
+P038,6,S2,2,semantic,1,lexical,17,JOY,喜悦,,,0
+P038,6,S2,2,semantic,1,lexical,18,FILL_GUILT,内疚,,,0
+P038,6,S2,2,semantic,2,prototype,1,FILL_LONELINESS,孤独,,,0
+P038,6,S2,2,semantic,2,prototype,2,FILL_RELIEF,安心,,,0
+P038,6,S2,2,semantic,2,prototype,3,FILL_ENVY,嫉妒,,,0
+P038,6,S2,2,semantic,2,prototype,4,FILL_GUILT,内疚,,,0
+P038,6,S2,2,semantic,2,prototype,5,JOY,喜悦,,,0
+P038,6,S2,2,semantic,2,prototype,6,FILL_PRIDE,自豪,,,0
+P038,6,S2,2,semantic,2,prototype,7,SADNESS,悲伤,,,0
+P038,6,S2,2,semantic,2,prototype,8,FILL_AWE,敬畏,,,0
+P038,6,S2,2,semantic,2,prototype,9,ANGER,愤怒,,,0
+P038,6,S2,2,semantic,2,prototype,10,FILL_BOREDOM,无聊,,,0
+P038,6,S2,2,semantic,2,prototype,11,AMUSEMENT,被逗乐,,,0
+P038,6,S2,2,semantic,2,prototype,12,FILL_SURPRISE,惊讶,,,0
+P038,6,S2,2,semantic,2,prototype,13,FILL_SHAME,羞耻,,,0
+P038,6,S2,2,semantic,2,prototype,14,TENDERNESS,温情,,,0
+P038,6,S2,2,semantic,2,prototype,15,FILL_GRATITUDE,感激,,,0
+P038,6,S2,2,semantic,2,prototype,16,FILL_DISGUST,厌恶,,,0
+P038,6,S2,2,semantic,2,prototype,17,FEAR,恐惧,,,0
+P038,6,S2,2,semantic,2,prototype,18,FILL_HOPE,希望,,,0
+P038,6,S1,2,induced,1,induced,1,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P038,6,S1,2,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P038,6,S1,2,induced,1,induced,3,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P038,6,S1,2,induced,1,induced,4,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P038,6,S1,2,induced,1,induced,5,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P038,6,S1,2,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_01,Hear Me,1
+P038,6,S1,2,induced,1,induced,7,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P038,6,S1,2,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P038,6,S1,2,induced,1,induced,9,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P038,6,S1,2,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P038,6,S1,2,induced,1,induced,11,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P038,6,S1,2,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P039,7,S1,1,semantic,1,prototype,1,FILL_GUILT,内疚,,,0
+P039,7,S1,1,semantic,1,prototype,2,FEAR,恐惧,,,0
+P039,7,S1,1,semantic,1,prototype,3,ANGER,愤怒,,,0
+P039,7,S1,1,semantic,1,prototype,4,FILL_DISGUST,厌恶,,,0
+P039,7,S1,1,semantic,1,prototype,5,FILL_GRATITUDE,感激,,,0
+P039,7,S1,1,semantic,1,prototype,6,FILL_ENVY,嫉妒,,,0
+P039,7,S1,1,semantic,1,prototype,7,FILL_PRIDE,自豪,,,0
+P039,7,S1,1,semantic,1,prototype,8,FILL_BOREDOM,无聊,,,0
+P039,7,S1,1,semantic,1,prototype,9,JOY,喜悦,,,0
+P039,7,S1,1,semantic,1,prototype,10,FILL_SURPRISE,惊讶,,,0
+P039,7,S1,1,semantic,1,prototype,11,FILL_SHAME,羞耻,,,0
+P039,7,S1,1,semantic,1,prototype,12,FILL_LONELINESS,孤独,,,0
+P039,7,S1,1,semantic,1,prototype,13,AMUSEMENT,被逗乐,,,0
+P039,7,S1,1,semantic,1,prototype,14,SADNESS,悲伤,,,0
+P039,7,S1,1,semantic,1,prototype,15,FILL_AWE,敬畏,,,0
+P039,7,S1,1,semantic,1,prototype,16,TENDERNESS,温情,,,0
+P039,7,S1,1,semantic,1,prototype,17,FILL_HOPE,希望,,,0
+P039,7,S1,1,semantic,1,prototype,18,FILL_RELIEF,安心,,,0
+P039,7,S1,1,semantic,2,lexical,1,FILL_DISGUST,厌恶,,,0
+P039,7,S1,1,semantic,2,lexical,2,FILL_BOREDOM,无聊,,,0
+P039,7,S1,1,semantic,2,lexical,3,ANGER,愤怒,,,0
+P039,7,S1,1,semantic,2,lexical,4,FILL_SURPRISE,惊讶,,,0
+P039,7,S1,1,semantic,2,lexical,5,TENDERNESS,温情,,,0
+P039,7,S1,1,semantic,2,lexical,6,FILL_SHAME,羞耻,,,0
+P039,7,S1,1,semantic,2,lexical,7,FILL_GUILT,内疚,,,0
+P039,7,S1,1,semantic,2,lexical,8,SADNESS,悲伤,,,0
+P039,7,S1,1,semantic,2,lexical,9,FILL_GRATITUDE,感激,,,0
+P039,7,S1,1,semantic,2,lexical,10,FEAR,恐惧,,,0
+P039,7,S1,1,semantic,2,lexical,11,FILL_LONELINESS,孤独,,,0
+P039,7,S1,1,semantic,2,lexical,12,FILL_AWE,敬畏,,,0
+P039,7,S1,1,semantic,2,lexical,13,AMUSEMENT,被逗乐,,,0
+P039,7,S1,1,semantic,2,lexical,14,FILL_ENVY,嫉妒,,,0
+P039,7,S1,1,semantic,2,lexical,15,JOY,喜悦,,,0
+P039,7,S1,1,semantic,2,lexical,16,FILL_PRIDE,自豪,,,0
+P039,7,S1,1,semantic,2,lexical,17,FILL_HOPE,希望,,,0
+P039,7,S1,1,semantic,2,lexical,18,FILL_RELIEF,安心,,,0
+P039,7,S2,1,induced,1,induced,1,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P039,7,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P039,7,S2,1,induced,1,induced,3,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P039,7,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P039,7,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P039,7,S2,1,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,1
+P039,7,S2,1,induced,1,induced,7,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P039,7,S2,1,induced,1,induced,8,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P039,7,S2,1,induced,1,induced,9,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P039,7,S2,1,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P039,7,S2,1,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P039,7,S2,1,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P040,8,S2,2,semantic,1,prototype,1,AMUSEMENT,被逗乐,,,0
+P040,8,S2,2,semantic,1,prototype,2,FILL_BOREDOM,无聊,,,0
+P040,8,S2,2,semantic,1,prototype,3,FILL_GRATITUDE,感激,,,0
+P040,8,S2,2,semantic,1,prototype,4,FILL_DISGUST,厌恶,,,0
+P040,8,S2,2,semantic,1,prototype,5,TENDERNESS,温情,,,0
+P040,8,S2,2,semantic,1,prototype,6,FILL_PRIDE,自豪,,,0
+P040,8,S2,2,semantic,1,prototype,7,FILL_RELIEF,安心,,,0
+P040,8,S2,2,semantic,1,prototype,8,FEAR,恐惧,,,0
+P040,8,S2,2,semantic,1,prototype,9,FILL_SHAME,羞耻,,,0
+P040,8,S2,2,semantic,1,prototype,10,FILL_HOPE,希望,,,0
+P040,8,S2,2,semantic,1,prototype,11,JOY,喜悦,,,0
+P040,8,S2,2,semantic,1,prototype,12,FILL_SURPRISE,惊讶,,,0
+P040,8,S2,2,semantic,1,prototype,13,FILL_LONELINESS,孤独,,,0
+P040,8,S2,2,semantic,1,prototype,14,FILL_ENVY,嫉妒,,,0
+P040,8,S2,2,semantic,1,prototype,15,ANGER,愤怒,,,0
+P040,8,S2,2,semantic,1,prototype,16,SADNESS,悲伤,,,0
+P040,8,S2,2,semantic,1,prototype,17,FILL_AWE,敬畏,,,0
+P040,8,S2,2,semantic,1,prototype,18,FILL_GUILT,内疚,,,0
+P040,8,S2,2,semantic,2,lexical,1,FILL_PRIDE,自豪,,,0
+P040,8,S2,2,semantic,2,lexical,2,JOY,喜悦,,,0
+P040,8,S2,2,semantic,2,lexical,3,TENDERNESS,温情,,,0
+P040,8,S2,2,semantic,2,lexical,4,FILL_SURPRISE,惊讶,,,0
+P040,8,S2,2,semantic,2,lexical,5,FILL_AWE,敬畏,,,0
+P040,8,S2,2,semantic,2,lexical,6,FILL_BOREDOM,无聊,,,0
+P040,8,S2,2,semantic,2,lexical,7,FILL_HOPE,希望,,,0
+P040,8,S2,2,semantic,2,lexical,8,AMUSEMENT,被逗乐,,,0
+P040,8,S2,2,semantic,2,lexical,9,FILL_GUILT,内疚,,,0
+P040,8,S2,2,semantic,2,lexical,10,FILL_GRATITUDE,感激,,,0
+P040,8,S2,2,semantic,2,lexical,11,ANGER,愤怒,,,0
+P040,8,S2,2,semantic,2,lexical,12,FILL_SHAME,羞耻,,,0
+P040,8,S2,2,semantic,2,lexical,13,FILL_RELIEF,安心,,,0
+P040,8,S2,2,semantic,2,lexical,14,FILL_DISGUST,厌恶,,,0
+P040,8,S2,2,semantic,2,lexical,15,FILL_ENVY,嫉妒,,,0
+P040,8,S2,2,semantic,2,lexical,16,FEAR,恐惧,,,0
+P040,8,S2,2,semantic,2,lexical,17,FILL_LONELINESS,孤独,,,0
+P040,8,S2,2,semantic,2,lexical,18,SADNESS,悲伤,,,0
+P040,8,S1,2,induced,1,induced,1,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P040,8,S1,2,induced,1,induced,2,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P040,8,S1,2,induced,1,induced,3,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P040,8,S1,2,induced,1,induced,4,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P040,8,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P040,8,S1,2,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,1
+P040,8,S1,2,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P040,8,S1,2,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P040,8,S1,2,induced,1,induced,9,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P040,8,S1,2,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P040,8,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P040,8,S1,2,induced,1,induced,12,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P041,1,S1,1,semantic,1,lexical,1,FILL_ENVY,嫉妒,,,0
+P041,1,S1,1,semantic,1,lexical,2,JOY,喜悦,,,0
+P041,1,S1,1,semantic,1,lexical,3,FILL_GRATITUDE,感激,,,0
+P041,1,S1,1,semantic,1,lexical,4,FILL_GUILT,内疚,,,0
+P041,1,S1,1,semantic,1,lexical,5,FILL_RELIEF,安心,,,0
+P041,1,S1,1,semantic,1,lexical,6,FILL_HOPE,希望,,,0
+P041,1,S1,1,semantic,1,lexical,7,FILL_SHAME,羞耻,,,0
+P041,1,S1,1,semantic,1,lexical,8,ANGER,愤怒,,,0
+P041,1,S1,1,semantic,1,lexical,9,FILL_PRIDE,自豪,,,0
+P041,1,S1,1,semantic,1,lexical,10,TENDERNESS,温情,,,0
+P041,1,S1,1,semantic,1,lexical,11,FEAR,恐惧,,,0
+P041,1,S1,1,semantic,1,lexical,12,FILL_SURPRISE,惊讶,,,0
+P041,1,S1,1,semantic,1,lexical,13,SADNESS,悲伤,,,0
+P041,1,S1,1,semantic,1,lexical,14,FILL_DISGUST,厌恶,,,0
+P041,1,S1,1,semantic,1,lexical,15,FILL_BOREDOM,无聊,,,0
+P041,1,S1,1,semantic,1,lexical,16,FILL_AWE,敬畏,,,0
+P041,1,S1,1,semantic,1,lexical,17,FILL_LONELINESS,孤独,,,0
+P041,1,S1,1,semantic,1,lexical,18,AMUSEMENT,被逗乐,,,0
+P041,1,S1,1,semantic,2,prototype,1,FEAR,恐惧,,,0
+P041,1,S1,1,semantic,2,prototype,2,TENDERNESS,温情,,,0
+P041,1,S1,1,semantic,2,prototype,3,FILL_RELIEF,安心,,,0
+P041,1,S1,1,semantic,2,prototype,4,FILL_LONELINESS,孤独,,,0
+P041,1,S1,1,semantic,2,prototype,5,JOY,喜悦,,,0
+P041,1,S1,1,semantic,2,prototype,6,FILL_DISGUST,厌恶,,,0
+P041,1,S1,1,semantic,2,prototype,7,FILL_PRIDE,自豪,,,0
+P041,1,S1,1,semantic,2,prototype,8,ANGER,愤怒,,,0
+P041,1,S1,1,semantic,2,prototype,9,AMUSEMENT,被逗乐,,,0
+P041,1,S1,1,semantic,2,prototype,10,FILL_GUILT,内疚,,,0
+P041,1,S1,1,semantic,2,prototype,11,FILL_GRATITUDE,感激,,,0
+P041,1,S1,1,semantic,2,prototype,12,SADNESS,悲伤,,,0
+P041,1,S1,1,semantic,2,prototype,13,FILL_SHAME,羞耻,,,0
+P041,1,S1,1,semantic,2,prototype,14,FILL_SURPRISE,惊讶,,,0
+P041,1,S1,1,semantic,2,prototype,15,FILL_HOPE,希望,,,0
+P041,1,S1,1,semantic,2,prototype,16,FILL_AWE,敬畏,,,0
+P041,1,S1,1,semantic,2,prototype,17,FILL_ENVY,嫉妒,,,0
+P041,1,S1,1,semantic,2,prototype,18,FILL_BOREDOM,无聊,,,0
+P041,1,S2,1,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P041,1,S2,1,induced,1,induced,2,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P041,1,S2,1,induced,1,induced,3,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P041,1,S2,1,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P041,1,S2,1,induced,1,induced,5,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P041,1,S2,1,induced,1,induced,6,FEAR,恐惧,VID_FEAR_02,Inner Senses,1
+P041,1,S2,1,induced,1,induced,7,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P041,1,S2,1,induced,1,induced,8,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P041,1,S2,1,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P041,1,S2,1,induced,1,induced,10,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P041,1,S2,1,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P041,1,S2,1,induced,1,induced,12,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P042,2,S2,2,semantic,1,lexical,1,SADNESS,悲伤,,,0
+P042,2,S2,2,semantic,1,lexical,2,FILL_DISGUST,厌恶,,,0
+P042,2,S2,2,semantic,1,lexical,3,FILL_BOREDOM,无聊,,,0
+P042,2,S2,2,semantic,1,lexical,4,FILL_LONELINESS,孤独,,,0
+P042,2,S2,2,semantic,1,lexical,5,FILL_GUILT,内疚,,,0
+P042,2,S2,2,semantic,1,lexical,6,JOY,喜悦,,,0
+P042,2,S2,2,semantic,1,lexical,7,FILL_PRIDE,自豪,,,0
+P042,2,S2,2,semantic,1,lexical,8,TENDERNESS,温情,,,0
+P042,2,S2,2,semantic,1,lexical,9,FILL_RELIEF,安心,,,0
+P042,2,S2,2,semantic,1,lexical,10,FILL_SHAME,羞耻,,,0
+P042,2,S2,2,semantic,1,lexical,11,AMUSEMENT,被逗乐,,,0
+P042,2,S2,2,semantic,1,lexical,12,ANGER,愤怒,,,0
+P042,2,S2,2,semantic,1,lexical,13,FILL_AWE,敬畏,,,0
+P042,2,S2,2,semantic,1,lexical,14,FILL_ENVY,嫉妒,,,0
+P042,2,S2,2,semantic,1,lexical,15,FILL_HOPE,希望,,,0
+P042,2,S2,2,semantic,1,lexical,16,FILL_GRATITUDE,感激,,,0
+P042,2,S2,2,semantic,1,lexical,17,FILL_SURPRISE,惊讶,,,0
+P042,2,S2,2,semantic,1,lexical,18,FEAR,恐惧,,,0
+P042,2,S2,2,semantic,2,prototype,1,FILL_SURPRISE,惊讶,,,0
+P042,2,S2,2,semantic,2,prototype,2,FILL_BOREDOM,无聊,,,0
+P042,2,S2,2,semantic,2,prototype,3,AMUSEMENT,被逗乐,,,0
+P042,2,S2,2,semantic,2,prototype,4,JOY,喜悦,,,0
+P042,2,S2,2,semantic,2,prototype,5,FILL_AWE,敬畏,,,0
+P042,2,S2,2,semantic,2,prototype,6,FILL_GRATITUDE,感激,,,0
+P042,2,S2,2,semantic,2,prototype,7,FILL_DISGUST,厌恶,,,0
+P042,2,S2,2,semantic,2,prototype,8,SADNESS,悲伤,,,0
+P042,2,S2,2,semantic,2,prototype,9,FILL_GUILT,内疚,,,0
+P042,2,S2,2,semantic,2,prototype,10,FILL_HOPE,希望,,,0
+P042,2,S2,2,semantic,2,prototype,11,FILL_SHAME,羞耻,,,0
+P042,2,S2,2,semantic,2,prototype,12,FILL_PRIDE,自豪,,,0
+P042,2,S2,2,semantic,2,prototype,13,FILL_ENVY,嫉妒,,,0
+P042,2,S2,2,semantic,2,prototype,14,ANGER,愤怒,,,0
+P042,2,S2,2,semantic,2,prototype,15,FILL_LONELINESS,孤独,,,0
+P042,2,S2,2,semantic,2,prototype,16,TENDERNESS,温情,,,0
+P042,2,S2,2,semantic,2,prototype,17,FEAR,恐惧,,,0
+P042,2,S2,2,semantic,2,prototype,18,FILL_RELIEF,安心,,,0
+P042,2,S1,2,induced,1,induced,1,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P042,2,S1,2,induced,1,induced,2,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P042,2,S1,2,induced,1,induced,3,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P042,2,S1,2,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P042,2,S1,2,induced,1,induced,5,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P042,2,S1,2,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P042,2,S1,2,induced,1,induced,7,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P042,2,S1,2,induced,1,induced,8,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P042,2,S1,2,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P042,2,S1,2,induced,1,induced,10,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P042,2,S1,2,induced,1,induced,11,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P042,2,S1,2,induced,1,induced,12,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P043,3,S1,1,semantic,1,prototype,1,FILL_AWE,敬畏,,,0
+P043,3,S1,1,semantic,1,prototype,2,FILL_SURPRISE,惊讶,,,0
+P043,3,S1,1,semantic,1,prototype,3,FILL_LONELINESS,孤独,,,0
+P043,3,S1,1,semantic,1,prototype,4,AMUSEMENT,被逗乐,,,0
+P043,3,S1,1,semantic,1,prototype,5,FEAR,恐惧,,,0
+P043,3,S1,1,semantic,1,prototype,6,TENDERNESS,温情,,,0
+P043,3,S1,1,semantic,1,prototype,7,FILL_DISGUST,厌恶,,,0
+P043,3,S1,1,semantic,1,prototype,8,FILL_GRATITUDE,感激,,,0
+P043,3,S1,1,semantic,1,prototype,9,FILL_ENVY,嫉妒,,,0
+P043,3,S1,1,semantic,1,prototype,10,FILL_GUILT,内疚,,,0
+P043,3,S1,1,semantic,1,prototype,11,FILL_RELIEF,安心,,,0
+P043,3,S1,1,semantic,1,prototype,12,SADNESS,悲伤,,,0
+P043,3,S1,1,semantic,1,prototype,13,JOY,喜悦,,,0
+P043,3,S1,1,semantic,1,prototype,14,FILL_BOREDOM,无聊,,,0
+P043,3,S1,1,semantic,1,prototype,15,FILL_SHAME,羞耻,,,0
+P043,3,S1,1,semantic,1,prototype,16,ANGER,愤怒,,,0
+P043,3,S1,1,semantic,1,prototype,17,FILL_HOPE,希望,,,0
+P043,3,S1,1,semantic,1,prototype,18,FILL_PRIDE,自豪,,,0
+P043,3,S1,1,semantic,2,lexical,1,FILL_SURPRISE,惊讶,,,0
+P043,3,S1,1,semantic,2,lexical,2,JOY,喜悦,,,0
+P043,3,S1,1,semantic,2,lexical,3,FILL_DISGUST,厌恶,,,0
+P043,3,S1,1,semantic,2,lexical,4,FILL_GUILT,内疚,,,0
+P043,3,S1,1,semantic,2,lexical,5,ANGER,愤怒,,,0
+P043,3,S1,1,semantic,2,lexical,6,TENDERNESS,温情,,,0
+P043,3,S1,1,semantic,2,lexical,7,AMUSEMENT,被逗乐,,,0
+P043,3,S1,1,semantic,2,lexical,8,FILL_AWE,敬畏,,,0
+P043,3,S1,1,semantic,2,lexical,9,FILL_LONELINESS,孤独,,,0
+P043,3,S1,1,semantic,2,lexical,10,FEAR,恐惧,,,0
+P043,3,S1,1,semantic,2,lexical,11,FILL_RELIEF,安心,,,0
+P043,3,S1,1,semantic,2,lexical,12,FILL_HOPE,希望,,,0
+P043,3,S1,1,semantic,2,lexical,13,FILL_GRATITUDE,感激,,,0
+P043,3,S1,1,semantic,2,lexical,14,SADNESS,悲伤,,,0
+P043,3,S1,1,semantic,2,lexical,15,FILL_PRIDE,自豪,,,0
+P043,3,S1,1,semantic,2,lexical,16,FILL_BOREDOM,无聊,,,0
+P043,3,S1,1,semantic,2,lexical,17,FILL_ENVY,嫉妒,,,0
+P043,3,S1,1,semantic,2,lexical,18,FILL_SHAME,羞耻,,,0
+P043,3,S2,1,induced,1,induced,1,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P043,3,S2,1,induced,1,induced,2,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P043,3,S2,1,induced,1,induced,3,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P043,3,S2,1,induced,1,induced,4,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P043,3,S2,1,induced,1,induced,5,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P043,3,S2,1,induced,1,induced,6,FEAR,恐惧,VID_FEAR_01,Chrysalis,1
+P043,3,S2,1,induced,1,induced,7,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P043,3,S2,1,induced,1,induced,8,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P043,3,S2,1,induced,1,induced,9,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P043,3,S2,1,induced,1,induced,10,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P043,3,S2,1,induced,1,induced,11,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P043,3,S2,1,induced,1,induced,12,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P044,4,S2,2,semantic,1,prototype,1,SADNESS,悲伤,,,0
+P044,4,S2,2,semantic,1,prototype,2,FILL_AWE,敬畏,,,0
+P044,4,S2,2,semantic,1,prototype,3,FILL_HOPE,希望,,,0
+P044,4,S2,2,semantic,1,prototype,4,FILL_ENVY,嫉妒,,,0
+P044,4,S2,2,semantic,1,prototype,5,JOY,喜悦,,,0
+P044,4,S2,2,semantic,1,prototype,6,FILL_LONELINESS,孤独,,,0
+P044,4,S2,2,semantic,1,prototype,7,FILL_SHAME,羞耻,,,0
+P044,4,S2,2,semantic,1,prototype,8,FILL_PRIDE,自豪,,,0
+P044,4,S2,2,semantic,1,prototype,9,ANGER,愤怒,,,0
+P044,4,S2,2,semantic,1,prototype,10,FEAR,恐惧,,,0
+P044,4,S2,2,semantic,1,prototype,11,FILL_SURPRISE,惊讶,,,0
+P044,4,S2,2,semantic,1,prototype,12,FILL_DISGUST,厌恶,,,0
+P044,4,S2,2,semantic,1,prototype,13,FILL_GUILT,内疚,,,0
+P044,4,S2,2,semantic,1,prototype,14,FILL_RELIEF,安心,,,0
+P044,4,S2,2,semantic,1,prototype,15,FILL_BOREDOM,无聊,,,0
+P044,4,S2,2,semantic,1,prototype,16,TENDERNESS,温情,,,0
+P044,4,S2,2,semantic,1,prototype,17,AMUSEMENT,被逗乐,,,0
+P044,4,S2,2,semantic,1,prototype,18,FILL_GRATITUDE,感激,,,0
+P044,4,S2,2,semantic,2,lexical,1,FILL_BOREDOM,无聊,,,0
+P044,4,S2,2,semantic,2,lexical,2,FILL_ENVY,嫉妒,,,0
+P044,4,S2,2,semantic,2,lexical,3,FILL_HOPE,希望,,,0
+P044,4,S2,2,semantic,2,lexical,4,JOY,喜悦,,,0
+P044,4,S2,2,semantic,2,lexical,5,SADNESS,悲伤,,,0
+P044,4,S2,2,semantic,2,lexical,6,FEAR,恐惧,,,0
+P044,4,S2,2,semantic,2,lexical,7,FILL_SHAME,羞耻,,,0
+P044,4,S2,2,semantic,2,lexical,8,FILL_GRATITUDE,感激,,,0
+P044,4,S2,2,semantic,2,lexical,9,FILL_SURPRISE,惊讶,,,0
+P044,4,S2,2,semantic,2,lexical,10,FILL_RELIEF,安心,,,0
+P044,4,S2,2,semantic,2,lexical,11,ANGER,愤怒,,,0
+P044,4,S2,2,semantic,2,lexical,12,FILL_LONELINESS,孤独,,,0
+P044,4,S2,2,semantic,2,lexical,13,FILL_AWE,敬畏,,,0
+P044,4,S2,2,semantic,2,lexical,14,FILL_GUILT,内疚,,,0
+P044,4,S2,2,semantic,2,lexical,15,FILL_DISGUST,厌恶,,,0
+P044,4,S2,2,semantic,2,lexical,16,TENDERNESS,温情,,,0
+P044,4,S2,2,semantic,2,lexical,17,AMUSEMENT,被逗乐,,,0
+P044,4,S2,2,semantic,2,lexical,18,FILL_PRIDE,自豪,,,0
+P044,4,S1,2,induced,1,induced,1,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P044,4,S1,2,induced,1,induced,2,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P044,4,S1,2,induced,1,induced,3,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P044,4,S1,2,induced,1,induced,4,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P044,4,S1,2,induced,1,induced,5,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P044,4,S1,2,induced,1,induced,6,SADNESS,悲伤,VID_SAD_01,Aftershock,1
+P044,4,S1,2,induced,1,induced,7,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P044,4,S1,2,induced,1,induced,8,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P044,4,S1,2,induced,1,induced,9,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P044,4,S1,2,induced,1,induced,10,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P044,4,S1,2,induced,1,induced,11,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P044,4,S1,2,induced,1,induced,12,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P045,5,S1,1,semantic,1,lexical,1,FILL_GRATITUDE,感激,,,0
+P045,5,S1,1,semantic,1,lexical,2,SADNESS,悲伤,,,0
+P045,5,S1,1,semantic,1,lexical,3,TENDERNESS,温情,,,0
+P045,5,S1,1,semantic,1,lexical,4,AMUSEMENT,被逗乐,,,0
+P045,5,S1,1,semantic,1,lexical,5,FILL_BOREDOM,无聊,,,0
+P045,5,S1,1,semantic,1,lexical,6,FILL_SURPRISE,惊讶,,,0
+P045,5,S1,1,semantic,1,lexical,7,FILL_RELIEF,安心,,,0
+P045,5,S1,1,semantic,1,lexical,8,FILL_GUILT,内疚,,,0
+P045,5,S1,1,semantic,1,lexical,9,FILL_DISGUST,厌恶,,,0
+P045,5,S1,1,semantic,1,lexical,10,FILL_HOPE,希望,,,0
+P045,5,S1,1,semantic,1,lexical,11,FILL_AWE,敬畏,,,0
+P045,5,S1,1,semantic,1,lexical,12,JOY,喜悦,,,0
+P045,5,S1,1,semantic,1,lexical,13,FILL_SHAME,羞耻,,,0
+P045,5,S1,1,semantic,1,lexical,14,FILL_LONELINESS,孤独,,,0
+P045,5,S1,1,semantic,1,lexical,15,ANGER,愤怒,,,0
+P045,5,S1,1,semantic,1,lexical,16,FEAR,恐惧,,,0
+P045,5,S1,1,semantic,1,lexical,17,FILL_ENVY,嫉妒,,,0
+P045,5,S1,1,semantic,1,lexical,18,FILL_PRIDE,自豪,,,0
+P045,5,S1,1,semantic,2,prototype,1,FILL_LONELINESS,孤独,,,0
+P045,5,S1,1,semantic,2,prototype,2,FILL_RELIEF,安心,,,0
+P045,5,S1,1,semantic,2,prototype,3,FILL_GUILT,内疚,,,0
+P045,5,S1,1,semantic,2,prototype,4,FILL_SHAME,羞耻,,,0
+P045,5,S1,1,semantic,2,prototype,5,ANGER,愤怒,,,0
+P045,5,S1,1,semantic,2,prototype,6,JOY,喜悦,,,0
+P045,5,S1,1,semantic,2,prototype,7,FILL_AWE,敬畏,,,0
+P045,5,S1,1,semantic,2,prototype,8,FEAR,恐惧,,,0
+P045,5,S1,1,semantic,2,prototype,9,AMUSEMENT,被逗乐,,,0
+P045,5,S1,1,semantic,2,prototype,10,FILL_BOREDOM,无聊,,,0
+P045,5,S1,1,semantic,2,prototype,11,FILL_DISGUST,厌恶,,,0
+P045,5,S1,1,semantic,2,prototype,12,SADNESS,悲伤,,,0
+P045,5,S1,1,semantic,2,prototype,13,TENDERNESS,温情,,,0
+P045,5,S1,1,semantic,2,prototype,14,FILL_SURPRISE,惊讶,,,0
+P045,5,S1,1,semantic,2,prototype,15,FILL_HOPE,希望,,,0
+P045,5,S1,1,semantic,2,prototype,16,FILL_ENVY,嫉妒,,,0
+P045,5,S1,1,semantic,2,prototype,17,FILL_GRATITUDE,感激,,,0
+P045,5,S1,1,semantic,2,prototype,18,FILL_PRIDE,自豪,,,0
+P045,5,S2,1,induced,1,induced,1,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P045,5,S2,1,induced,1,induced,2,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P045,5,S2,1,induced,1,induced,3,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P045,5,S2,1,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P045,5,S2,1,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P045,5,S2,1,induced,1,induced,6,TENDERNESS,温情,VID_TENDER_02,A Simple Life,1
+P045,5,S2,1,induced,1,induced,7,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P045,5,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P045,5,S2,1,induced,1,induced,9,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P045,5,S2,1,induced,1,induced,10,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P045,5,S2,1,induced,1,induced,11,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P045,5,S2,1,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P046,6,S2,2,semantic,1,lexical,1,FILL_PRIDE,自豪,,,0
+P046,6,S2,2,semantic,1,lexical,2,FILL_ENVY,嫉妒,,,0
+P046,6,S2,2,semantic,1,lexical,3,FILL_SURPRISE,惊讶,,,0
+P046,6,S2,2,semantic,1,lexical,4,ANGER,愤怒,,,0
+P046,6,S2,2,semantic,1,lexical,5,FILL_GRATITUDE,感激,,,0
+P046,6,S2,2,semantic,1,lexical,6,JOY,喜悦,,,0
+P046,6,S2,2,semantic,1,lexical,7,FILL_AWE,敬畏,,,0
+P046,6,S2,2,semantic,1,lexical,8,FILL_RELIEF,安心,,,0
+P046,6,S2,2,semantic,1,lexical,9,FILL_GUILT,内疚,,,0
+P046,6,S2,2,semantic,1,lexical,10,TENDERNESS,温情,,,0
+P046,6,S2,2,semantic,1,lexical,11,FILL_LONELINESS,孤独,,,0
+P046,6,S2,2,semantic,1,lexical,12,FEAR,恐惧,,,0
+P046,6,S2,2,semantic,1,lexical,13,FILL_BOREDOM,无聊,,,0
+P046,6,S2,2,semantic,1,lexical,14,FILL_DISGUST,厌恶,,,0
+P046,6,S2,2,semantic,1,lexical,15,FILL_SHAME,羞耻,,,0
+P046,6,S2,2,semantic,1,lexical,16,FILL_HOPE,希望,,,0
+P046,6,S2,2,semantic,1,lexical,17,AMUSEMENT,被逗乐,,,0
+P046,6,S2,2,semantic,1,lexical,18,SADNESS,悲伤,,,0
+P046,6,S2,2,semantic,2,prototype,1,FILL_DISGUST,厌恶,,,0
+P046,6,S2,2,semantic,2,prototype,2,ANGER,愤怒,,,0
+P046,6,S2,2,semantic,2,prototype,3,FILL_AWE,敬畏,,,0
+P046,6,S2,2,semantic,2,prototype,4,FILL_SURPRISE,惊讶,,,0
+P046,6,S2,2,semantic,2,prototype,5,FILL_GUILT,内疚,,,0
+P046,6,S2,2,semantic,2,prototype,6,TENDERNESS,温情,,,0
+P046,6,S2,2,semantic,2,prototype,7,FEAR,恐惧,,,0
+P046,6,S2,2,semantic,2,prototype,8,SADNESS,悲伤,,,0
+P046,6,S2,2,semantic,2,prototype,9,AMUSEMENT,被逗乐,,,0
+P046,6,S2,2,semantic,2,prototype,10,FILL_RELIEF,安心,,,0
+P046,6,S2,2,semantic,2,prototype,11,FILL_ENVY,嫉妒,,,0
+P046,6,S2,2,semantic,2,prototype,12,JOY,喜悦,,,0
+P046,6,S2,2,semantic,2,prototype,13,FILL_SHAME,羞耻,,,0
+P046,6,S2,2,semantic,2,prototype,14,FILL_LONELINESS,孤独,,,0
+P046,6,S2,2,semantic,2,prototype,15,FILL_GRATITUDE,感激,,,0
+P046,6,S2,2,semantic,2,prototype,16,FILL_BOREDOM,无聊,,,0
+P046,6,S2,2,semantic,2,prototype,17,FILL_HOPE,希望,,,0
+P046,6,S2,2,semantic,2,prototype,18,FILL_PRIDE,自豪,,,0
+P046,6,S1,2,induced,1,induced,1,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P046,6,S1,2,induced,1,induced,2,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P046,6,S1,2,induced,1,induced,3,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P046,6,S1,2,induced,1,induced,4,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P046,6,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P046,6,S1,2,induced,1,induced,6,JOY,喜悦,VID_JOY_02,Better And Better Part I,1
+P046,6,S1,2,induced,1,induced,7,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P046,6,S1,2,induced,1,induced,8,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P046,6,S1,2,induced,1,induced,9,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P046,6,S1,2,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P046,6,S1,2,induced,1,induced,11,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P046,6,S1,2,induced,1,induced,12,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P047,7,S1,1,semantic,1,prototype,1,FILL_SHAME,羞耻,,,0
+P047,7,S1,1,semantic,1,prototype,2,FILL_PRIDE,自豪,,,0
+P047,7,S1,1,semantic,1,prototype,3,FEAR,恐惧,,,0
+P047,7,S1,1,semantic,1,prototype,4,FILL_HOPE,希望,,,0
+P047,7,S1,1,semantic,1,prototype,5,FILL_LONELINESS,孤独,,,0
+P047,7,S1,1,semantic,1,prototype,6,FILL_GUILT,内疚,,,0
+P047,7,S1,1,semantic,1,prototype,7,FILL_ENVY,嫉妒,,,0
+P047,7,S1,1,semantic,1,prototype,8,FILL_RELIEF,安心,,,0
+P047,7,S1,1,semantic,1,prototype,9,JOY,喜悦,,,0
+P047,7,S1,1,semantic,1,prototype,10,AMUSEMENT,被逗乐,,,0
+P047,7,S1,1,semantic,1,prototype,11,SADNESS,悲伤,,,0
+P047,7,S1,1,semantic,1,prototype,12,FILL_GRATITUDE,感激,,,0
+P047,7,S1,1,semantic,1,prototype,13,TENDERNESS,温情,,,0
+P047,7,S1,1,semantic,1,prototype,14,FILL_BOREDOM,无聊,,,0
+P047,7,S1,1,semantic,1,prototype,15,FILL_DISGUST,厌恶,,,0
+P047,7,S1,1,semantic,1,prototype,16,FILL_SURPRISE,惊讶,,,0
+P047,7,S1,1,semantic,1,prototype,17,FILL_AWE,敬畏,,,0
+P047,7,S1,1,semantic,1,prototype,18,ANGER,愤怒,,,0
+P047,7,S1,1,semantic,2,lexical,1,FILL_PRIDE,自豪,,,0
+P047,7,S1,1,semantic,2,lexical,2,FILL_DISGUST,厌恶,,,0
+P047,7,S1,1,semantic,2,lexical,3,FILL_LONELINESS,孤独,,,0
+P047,7,S1,1,semantic,2,lexical,4,FILL_AWE,敬畏,,,0
+P047,7,S1,1,semantic,2,lexical,5,AMUSEMENT,被逗乐,,,0
+P047,7,S1,1,semantic,2,lexical,6,ANGER,愤怒,,,0
+P047,7,S1,1,semantic,2,lexical,7,TENDERNESS,温情,,,0
+P047,7,S1,1,semantic,2,lexical,8,FILL_SURPRISE,惊讶,,,0
+P047,7,S1,1,semantic,2,lexical,9,JOY,喜悦,,,0
+P047,7,S1,1,semantic,2,lexical,10,FILL_RELIEF,安心,,,0
+P047,7,S1,1,semantic,2,lexical,11,FILL_GUILT,内疚,,,0
+P047,7,S1,1,semantic,2,lexical,12,FILL_GRATITUDE,感激,,,0
+P047,7,S1,1,semantic,2,lexical,13,SADNESS,悲伤,,,0
+P047,7,S1,1,semantic,2,lexical,14,FEAR,恐惧,,,0
+P047,7,S1,1,semantic,2,lexical,15,FILL_HOPE,希望,,,0
+P047,7,S1,1,semantic,2,lexical,16,FILL_ENVY,嫉妒,,,0
+P047,7,S1,1,semantic,2,lexical,17,FILL_SHAME,羞耻,,,0
+P047,7,S1,1,semantic,2,lexical,18,FILL_BOREDOM,无聊,,,0
+P047,7,S2,1,induced,1,induced,1,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P047,7,S2,1,induced,1,induced,2,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P047,7,S2,1,induced,1,induced,3,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P047,7,S2,1,induced,1,induced,4,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P047,7,S2,1,induced,1,induced,5,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P047,7,S2,1,induced,1,induced,6,JOY,喜悦,VID_JOY_01,Singing When We Are Young,1
+P047,7,S2,1,induced,1,induced,7,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P047,7,S2,1,induced,1,induced,8,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,0
+P047,7,S2,1,induced,1,induced,9,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P047,7,S2,1,induced,1,induced,10,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P047,7,S2,1,induced,1,induced,11,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P047,7,S2,1,induced,1,induced,12,JOY,喜悦,VID_JOY_02,Better And Better Part I,0
+P048,8,S2,2,semantic,1,prototype,1,FILL_HOPE,希望,,,0
+P048,8,S2,2,semantic,1,prototype,2,FILL_DISGUST,厌恶,,,0
+P048,8,S2,2,semantic,1,prototype,3,FILL_GUILT,内疚,,,0
+P048,8,S2,2,semantic,1,prototype,4,FILL_GRATITUDE,感激,,,0
+P048,8,S2,2,semantic,1,prototype,5,FILL_RELIEF,安心,,,0
+P048,8,S2,2,semantic,1,prototype,6,AMUSEMENT,被逗乐,,,0
+P048,8,S2,2,semantic,1,prototype,7,FEAR,恐惧,,,0
+P048,8,S2,2,semantic,1,prototype,8,FILL_SHAME,羞耻,,,0
+P048,8,S2,2,semantic,1,prototype,9,ANGER,愤怒,,,0
+P048,8,S2,2,semantic,1,prototype,10,TENDERNESS,温情,,,0
+P048,8,S2,2,semantic,1,prototype,11,FILL_ENVY,嫉妒,,,0
+P048,8,S2,2,semantic,1,prototype,12,FILL_AWE,敬畏,,,0
+P048,8,S2,2,semantic,1,prototype,13,JOY,喜悦,,,0
+P048,8,S2,2,semantic,1,prototype,14,FILL_LONELINESS,孤独,,,0
+P048,8,S2,2,semantic,1,prototype,15,FILL_SURPRISE,惊讶,,,0
+P048,8,S2,2,semantic,1,prototype,16,FILL_PRIDE,自豪,,,0
+P048,8,S2,2,semantic,1,prototype,17,SADNESS,悲伤,,,0
+P048,8,S2,2,semantic,1,prototype,18,FILL_BOREDOM,无聊,,,0
+P048,8,S2,2,semantic,2,lexical,1,FILL_RELIEF,安心,,,0
+P048,8,S2,2,semantic,2,lexical,2,FILL_LONELINESS,孤独,,,0
+P048,8,S2,2,semantic,2,lexical,3,FILL_SURPRISE,惊讶,,,0
+P048,8,S2,2,semantic,2,lexical,4,FILL_BOREDOM,无聊,,,0
+P048,8,S2,2,semantic,2,lexical,5,FILL_DISGUST,厌恶,,,0
+P048,8,S2,2,semantic,2,lexical,6,TENDERNESS,温情,,,0
+P048,8,S2,2,semantic,2,lexical,7,FILL_PRIDE,自豪,,,0
+P048,8,S2,2,semantic,2,lexical,8,SADNESS,悲伤,,,0
+P048,8,S2,2,semantic,2,lexical,9,FILL_AWE,敬畏,,,0
+P048,8,S2,2,semantic,2,lexical,10,JOY,喜悦,,,0
+P048,8,S2,2,semantic,2,lexical,11,FILL_GUILT,内疚,,,0
+P048,8,S2,2,semantic,2,lexical,12,ANGER,愤怒,,,0
+P048,8,S2,2,semantic,2,lexical,13,FILL_GRATITUDE,感激,,,0
+P048,8,S2,2,semantic,2,lexical,14,FILL_HOPE,希望,,,0
+P048,8,S2,2,semantic,2,lexical,15,AMUSEMENT,被逗乐,,,0
+P048,8,S2,2,semantic,2,lexical,16,FILL_ENVY,嫉妒,,,0
+P048,8,S2,2,semantic,2,lexical,17,FILL_SHAME,羞耻,,,0
+P048,8,S2,2,semantic,2,lexical,18,FEAR,恐惧,,,0
+P048,8,S1,2,induced,1,induced,1,FEAR,恐惧,VID_FEAR_02,Inner Senses,0
+P048,8,S1,2,induced,1,induced,2,TENDERNESS,温情,VID_TENDER_02,A Simple Life,0
+P048,8,S1,2,induced,1,induced,3,FEAR,恐惧,VID_FEAR_01,Chrysalis,0
+P048,8,S1,2,induced,1,induced,4,TENDERNESS,温情,VID_TENDER_01,Hear Me,0
+P048,8,S1,2,induced,1,induced,5,SADNESS,悲伤,VID_SAD_01,Aftershock,0
+P048,8,S1,2,induced,1,induced,6,AMUSEMENT,被逗乐,VID_AMUSE_01,Just Another Pandora's Box,1
+P048,8,S1,2,induced,1,induced,7,ANGER,愤怒,VID_ANGER_01,YiP Man,0
+P048,8,S1,2,induced,1,induced,8,JOY,喜悦,VID_JOY_01,Singing When We Are Young,0
+P048,8,S1,2,induced,1,induced,9,ANGER,愤怒,VID_ANGER_02,City of Life and Death,0
+P048,8,S1,2,induced,1,induced,10,AMUSEMENT,被逗乐,VID_AMUSE_02,Love on Delivery,0
+P048,8,S1,2,induced,1,induced,11,SADNESS,悲伤,VID_SAD_02,I Want to Be You,0
+P048,8,S1,2,induced,1,induced,12,JOY,喜悦,VID_JOY_02,Better And Better Part I,0

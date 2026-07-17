@@ -1,0 +1,11 @@
+{
+  "dreamer_version": "1.0.2",
+  "participants": 23,
+  "films": 18,
+  "emotions": 9,
+  "trials": 414,
+  "eeg_sampling_rate": 128,
+  "ecg_sampling_rate": 256,
+  "random_seed": 20260715,
+  "scale_transform": "(score - 3) / 2"
+}

@@ -1,0 +1,13 @@
+concept_id,concept_zh,analysis_inclusion,purpose
+FILL_RELIEF,安心,no,reduce_target_repetition_salience
+FILL_AWE,敬畏,no,reduce_target_repetition_salience
+FILL_SHAME,羞耻,no,reduce_target_repetition_salience
+FILL_GUILT,内疚,no,reduce_target_repetition_salience
+FILL_ENVY,嫉妒,no,reduce_target_repetition_salience
+FILL_HOPE,希望,no,reduce_target_repetition_salience
+FILL_BOREDOM,无聊,no,reduce_target_repetition_salience
+FILL_SURPRISE,惊讶,no,reduce_target_repetition_salience
+FILL_PRIDE,自豪,no,reduce_target_repetition_salience
+FILL_GRATITUDE,感激,no,reduce_target_repetition_salience
+FILL_LONELINESS,孤独,no,reduce_target_repetition_salience
+FILL_DISGUST,厌恶,no,reduce_target_repetition_salience

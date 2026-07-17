@@ -1,0 +1,7 @@
+concept_id,concept_zh,expected_valence,expected_arousal,expected_dominance,selection_basis,status
+JOY,喜悦,positive,medium_high,medium_high,Ge_et_al_2019_Chinese_film_norms,candidate
+AMUSEMENT,被逗乐,positive,high,medium,Ge_et_al_2019_Chinese_film_norms,candidate_wording_check
+TENDERNESS,温情,positive,medium,medium,Ge_et_al_2019_Chinese_film_norms,candidate
+ANGER,愤怒,negative,high,contextual,Ge_et_al_2019_Chinese_film_norms,candidate_purity_risk
+SADNESS,悲伤,negative,medium_high,medium,Ge_et_al_2019_Chinese_film_norms,candidate
+FEAR,恐惧,negative,high,low,Ge_et_al_2019_Chinese_film_norms,candidate

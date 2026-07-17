@@ -1,0 +1,8 @@
+amigos_label,nrc_primary_term,nrc_sensitivity_term,role,status,note
+neutral,neutral,neutrality,main,pending_data_verification,主分析使用与AMIGOS标签同形词
+happiness,happiness,happy,main,pending_data_verification,形容词仅作敏感性分析
+sadness,sadness,sad,main,pending_data_verification,形容词仅作敏感性分析
+surprise,surprise,surprised,main,pending_data_verification,形容词仅作敏感性分析
+fear,fear,afraid,main,pending_data_verification,近义词仅作敏感性分析
+anger,anger,angry,main,pending_data_verification,形容词仅作敏感性分析
+disgust,disgust,disgusted,main,pending_data_verification,形容词仅作敏感性分析

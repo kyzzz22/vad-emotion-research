@@ -1,0 +1,10 @@
+{
+  "case_root": "E:\\dolylab\\研究方向相关\\public_data\\case_pilot\\case_dataset",
+  "nrc_file": "E:\\dolylab\\研究方向相关\\public_data\\case_pilot\\nrc_vad\\extracted\\NRC-VAD-Lexicon-v2.1\\Unigrams\\unigrams-NRC-VAD-Lexicon-v2.1.txt",
+  "random_seed": 20260714,
+  "annotation_subjects": 30,
+  "emotional_trials": 240,
+  "physiology_subjects": 3,
+  "primary_window": "last_60s",
+  "case_to_nrc_transform": "(CASE - 5) / 4.5"
+}

@@ -1,0 +1,33 @@
+id,year,theme,title,source_or_doi,relevance,direct_use
+L01,1980,theory,A circumplex model of affect,https://doi.org/10.1037/h0077714,8,VA二维组织的奠基依据
+L02,1994,measurement,Measuring emotion: The Self-Assessment Manikin and the Semantic Differential,https://doi.org/10.1016/0005-7916(94)90063-9,9,SAM及VAD刺激反应评分
+L03,2004,semantic_experience,Feelings or Words? Understanding the Content in Self-Report Ratings of Experienced Emotion,https://doi.org/10.1037/0022-3514.87.2.266,10,直接连接情绪词语义结构与经验报告
+L04,2007,theory,The World of Emotions Is Not Two-Dimensional,https://doi.org/10.1111/j.1467-9280.2007.02024.x,9,支持控制/效能等超出VA的维度
+L05,2009,measurement,Measures of emotion: A review,https://pmc.ncbi.nlm.nih.gov/articles/PMC2756702/,9,区分主观体验与外周生理测量
+L06,2011,emotion_concepts,Conceptualizing Emotions Along the Dimensions of Valence Arousal and Communicative Frequency,https://pmc.ncbi.nlm.nih.gov/articles/PMC3196197/,8,说明相近VA并不等于语义相同
+L07,2013,word_norms,Norms of valence arousal and dominance for 13915 English lemmas,https://doi.org/10.3758/s13428-012-0314-x,8,词汇VAD常模方法和外部参照
+L08,2013,cross_domain,Emotional Picture and Word Processing: An fMRI Study on Effects of Stimulus Complexity,https://doi.org/10.1371/journal.pone.0055619,9,同义内容跨模态比较及复杂度混淆
+L09,2014,cross_domain,Event-related brain responses to emotional words pictures and faces,https://doi.org/10.3389/fpsyg.2014.01106,9,跨刺激域V/A差异与共同加工
+L10,2014,dominance,The neural correlates of the dominance dimension of emotion,https://pubmed.ncbi.nlm.nih.gov/24359970/,9,将D定义为影响环境和控制局面的感受
+L11,2014,language,Emotion and language: Valence and arousal affect word recognition,https://pmc.ncbi.nlm.nih.gov/articles/PMC4038659/,7,词汇属性会影响加工且需控制心理语言变量
+L12,2016,language,Vivid: How valence and arousal influence word processing under different task demands,https://pubmed.ncbi.nlm.nih.gov/26833048/,8,任务要求会改变词汇情绪效应
+L13,2017,chinese_stimuli,A New Standardized Emotional Film Database for Asian Culture,https://doi.org/10.3389/fpsyg.2017.01941,9,亚洲影片VAD与HR/RR规范数据
+L14,2017,chinese_words,Norms of valence arousal concreteness familiarity imageability and context availability for 1100 Chinese words,https://pubmed.ncbi.nlm.nih.gov/27553483/,8,中文选词和词汇协变量控制
+L15,2018,physiology,Emotion Fingerprints or Emotion Populations? A Meta-Analytic Investigation of Autonomic Features,https://doi.org/10.1037/bul0000128,10,反对情绪类别与自主神经一一映射
+L16,2018,word_norms,Obtaining Reliable Human Ratings of Valence Arousal and Dominance for 20000 English Words,https://doi.org/10.18653/v1/P18-1017,8,VAD标注可靠性与BWS方法
+L17,2019,chinese_stimuli,A standardised database of Chinese emotional film clips,https://doi.org/10.1080/02699931.2018.1530197,9,中文情绪诱发视频的选择依据
+L18,2019,physiology,A dataset of continuous affect annotations and physiological signals for emotion analysis,https://doi.org/10.1038/s41597-019-0209-0,10,主观VA与同步生理的正确证据关系
+L19,2020,cross_domain,From Abstract Symbols to Emotional (In-)Sights,https://doi.org/10.3389/fpsyg.2020.00905,9,共享语义内容的文字图片被试内比较
+L20,2020,individual_differences,Investigating roles of age sex depression and anxiety for valence and arousal ratings of words,https://doi.org/10.1186/s40359-020-00485-3,7,词汇评分受个体变量影响
+L21,2021,chinese_words,Age-Related Differences in Affective Norms for Chinese Words,https://doi.org/10.3389/fpsyg.2021.585666,8,中文VAD的年龄差异和跨语言差异
+L22,2022,chinese_words,Valence and arousal ratings for 11310 simplified Chinese words,https://doi.org/10.3758/s13428-021-01607-4,9,大规模简体中文VA常模
+L23,2022,dataset,Emognition dataset: self-reports facial expressions and physiology using wearables,https://pubmed.ncbi.nlm.nih.gov/35393434/,8,诱发后离散情绪和维度评分配对生理
+L24,2022,chinese_words,ANCW: Affective norms for 4030 Chinese words,https://doi.org/10.3758/s13428-021-01621-6,9,中文VAD常模和维度间关系
+L25,2023,chinese_stimuli,A standardized database of Chinese emotional short videos based on age and gender differences,https://pmc.ncbi.nlm.nih.gov/articles/PMC10062648/,9,中文短视频VAD和生理验证
+L26,2023,physiology,Predicting Emotion with Biosignals: Classification and Regression for Valence and Arousal,https://pmc.ncbi.nlm.nih.gov/articles/PMC9920941/,8,说明生理模型标签仍来自主观评分
+L27,2024,physiology,Detection of arousal and valence from facial expressions and physiological responses evoked by stressors,https://pubmed.ncbi.nlm.nih.gov/38559665/,8,生理对A通常优于V且依赖情境
+L28,2024,physiology,Emotional arousal pattern: A database for momentary subjective and psychophysiological responding,https://doi.org/10.1111/psyp.14446,8,时变主观唤醒与多模态生理配对
+L29,2024,chinese_words,Not perceptually equivalent in semantic emotion across visual and auditory modalities,https://www.researchgate.net/publication/376398357,8,中文情绪标签词的呈现模态会影响VAD
+L30,2026,chinese_words,Affective norms for Chinese words in ten discrete emotion categories,https://doi.org/10.3758/s13428-026-03010-3,9,中文词的维度属性和离散情绪纯度
+L31,2002,semantic_experience,Belief and feeling: Evidence for an accessibility model of emotional self-report,https://doi.org/10.1037/0033-2909.128.6.934,10,直接区分即时体验信息与一般情绪信念对自我报告的贡献
+L32,2007,semantic_experience,The experience of emotion,https://doi.org/10.1146/annurev.psych.58.110405.085709,10,说明想象或回忆评分常调用语义知识且与实时体验关系不确定

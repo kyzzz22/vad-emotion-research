@@ -1,0 +1,3 @@
+subject,physiology_start_s,physiology_end_s,annotation_start_s,annotation_end_s,ecg_finite_fraction,r_peak_count,rr_valid_fraction,median_hr_bpm,rr_median_s,rr_p01_s,rr_p99_s
+1,1e-05,2451.59901,0.001,2451.417127,1.0,3083,0.999675535366645,75.28230865746549,0.797,0.5788,0.9871999999999999
+2,0.00101,2451.60001,0.001,2451.535129,1.0,2659,1.0,64.58557588805166,0.929,0.72514,1.0574299999999999
