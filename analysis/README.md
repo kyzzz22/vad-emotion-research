@@ -79,3 +79,13 @@ python analysis/run_analysis.py --ratings data/processed/ratings_long.csv --outp
 .\.venv\Scripts\python.exe analysis\prepare_ratings.py --raw data\simulated\ratings_long.csv --output data\simulated\ratings_prepared.csv
 .\.venv\Scripts\python.exe analysis\run_analysis.py --ratings data\simulated\ratings_prepared.csv --output results\simulated
 ```
+
+## DREAMER × NRC-VAD 稳健性复核
+
+该阶段从冻结的414试次对齐表开始，不需要重新分发DREAMER或NRC原始文件：
+
+```powershell
+.\.venv\Scripts\python.exe analysis\dreamer_nrc_robustness.py --bootstrap 5000
+```
+
+输出位于 `results/dreamer_nrc_robustness/`，包括全部 `9!` 精确类别置换、Holm校正、参与者与影片双层bootstrap、逐类删除、仿射映射、LOEO残差及四张论文图。`run_manifest.json`记录输入SHA-256、随机种子和重抽单位。

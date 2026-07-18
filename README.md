@@ -22,6 +22,8 @@
 - **距离解释**：原始三维距离混合了整体尺度压缩与情绪特异性偏离，因此同时报告留一情绪校准残差。
 - **生理信号**：当前粗粒度 EEG/ECG 特征尚未稳定解释 VAD 对齐距离，该结果仅属于探索性空结果。
 
+稳健性复核进一步完成了全部 `9! = 362,880` 种类别置换、5,000 次参与者与影片双层 bootstrap 和逐类删除分析。Holm 校正后 Valence 与 Arousal 的 Pearson 对应仍显著，Dominance 不显著；但 Arousal 的秩相关和类别影响不稳定。
+
 完整报告见：[研究进展报告](paper/研究进展报告_DREAMER_NRC.md)。
 
 ## 仓库结构
@@ -47,6 +49,9 @@
 - [论文数据前稿](paper/A2_论文数据前稿.md)
 - [论文详细提纲](paper/A2_论文详细提纲.md)
 - [审稿人视角评估](paper/A2_审稿人视角评估.md)
+- [DREAMER × NRC-VAD 研究概要书](paper/DREAMER_NRC_研究概要书.md)
+- [论文核心文本草稿](paper/DREAMER_NRC_论文核心文本草稿.md)
+- [稳健性分析报告](results/dreamer_nrc_robustness/robustness_report_zh.md)
 - [后续路线图](ROADMAP.md)
 
 ### 启动 3D VAD 模型

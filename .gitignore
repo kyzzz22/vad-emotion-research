@@ -14,9 +14,12 @@ Thumbs.db
 /data/interim/
 /data/processed/
 
-# Simulated and generated results are reproducible from scripts.
+# Simulated and generated results are reproducible from scripts. The aggregate
+# DREAMER-NRC robustness package is retained for cross-platform paper work.
 /data/simulated/
-/results/
+/results/*
+!/results/dreamer_nrc_robustness/
+!/results/dreamer_nrc_robustness/**
 
 # Licensed/restricted public datasets: keep acquisition notes, not source files.
 /DREAMER.mat

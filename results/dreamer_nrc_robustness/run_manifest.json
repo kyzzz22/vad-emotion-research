@@ -1,0 +1,13 @@
+{
+  "analysis": "DREAMER x NRC-VAD category-level robustness",
+  "input": "E:\\dolylab\\研究方向相关\\vad-emotion-research\\public_data\\dreamer_pilot\\results\\dreamer_trial_alignment_all_sensitivities.csv",
+  "input_sha256": "313ae9a565346573fe9157ba77f70da2f7fb0561f89e0f8f5a92b77acd2964a7",
+  "participants": 23,
+  "films": 18,
+  "emotions": 9,
+  "trials": 414,
+  "exact_permutations": 362880,
+  "hierarchical_bootstrap_draws": 5000,
+  "random_seed": 20260718,
+  "bootstrap_units": "participants and films nested within emotion"
+}

@@ -17,12 +17,23 @@ import matplotlib.pyplot as plt
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DREAMER_FILE = ROOT / "DREAMER.mat"
-NRC_FILE = (
-    ROOT / "public_data" / "case_pilot" / "nrc_vad" / "extracted"
+
+
+def first_existing(*paths: Path) -> Path:
+    return next((path for path in paths if path.exists()), paths[0])
+
+
+DREAMER_FILE = first_existing(
+    ROOT / "public_data" / "licensed" / "dreamer" / "DREAMER.mat",
+    ROOT / "DREAMER.mat",
+    ROOT.parent / "DREAMER.mat",
+)
+NRC_RELATIVE = (
+    Path("public_data") / "case_pilot" / "nrc_vad" / "extracted"
     / "NRC-VAD-Lexicon-v2.1" / "Unigrams"
     / "unigrams-NRC-VAD-Lexicon-v2.1.txt"
 )
+NRC_FILE = first_existing(ROOT / NRC_RELATIVE, ROOT.parent / NRC_RELATIVE)
 OUTPUT = ROOT / "public_data" / "dreamer_pilot" / "results"
 
 FILMS = [

@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DREAMER × NRC-VAD 研究概要书</title>
+<style>
+  :root { --ink:#17212b; --muted:#5d6873; --blue:#1261a0; --orange:#c85616; --green:#087f5b; --line:#d8dee5; --wash:#f4f7f9; }
+  @page { size: A4; margin: 17mm 17mm 18mm; }
+  * { box-sizing: border-box; }
+  html { background:#e9edf0; }
+  body { max-width:210mm; margin:20px auto; padding:18mm 17mm; background:white; color:var(--ink); font-family:"Noto Sans CJK SC","Microsoft YaHei","PingFang SC",Arial,sans-serif; font-size:10.5pt; line-height:1.72; }
+  h1 { margin:0 0 14mm; padding:24mm 0 12mm; border-bottom:4px solid var(--blue); font-size:27pt; line-height:1.22; letter-spacing:0; }
+  h1::before { content:"RESEARCH BRIEF  •  2026.07"; display:block; margin-bottom:8mm; color:var(--orange); font-size:9pt; font-weight:700; letter-spacing:1.2px; }
+  h2 { margin:9mm 0 3mm; padding-bottom:2mm; border-bottom:1px solid var(--line); color:var(--blue); font-size:16pt; line-height:1.3; page-break-after:avoid; }
+  h3 { margin:6mm 0 2mm; color:var(--green); font-size:12.5pt; page-break-after:avoid; }
+  p { margin:0 0 3.2mm; orphans:3; widows:3; }
+  blockquote { margin:5mm 0; padding:4mm 5mm; border-left:4px solid var(--orange); background:var(--wash); color:#24313d; }
+  ul, ol { margin:2mm 0 4mm; padding-left:7mm; }
+  li { margin:1.1mm 0; }
+  table { width:100%; margin:4mm 0 6mm; border-collapse:collapse; font-size:9.2pt; page-break-inside:avoid; }
+  th { padding:2.4mm; background:#263746; color:white; text-align:left; }
+  td { padding:2.2mm 2.4mm; border-bottom:1px solid var(--line); vertical-align:top; }
+  tbody tr:nth-child(even) { background:#f7f9fa; }
+  code { padding:0.2mm 1mm; border-radius:2px; background:#eef2f5; font-family:Consolas,monospace; font-size:9.2pt; }
+  a { color:var(--blue); text-decoration:none; word-break:break-word; }
+  .figures { margin-top:8mm; }
+  figure { margin:6mm 0 10mm; page-break-inside:avoid; }
+  figure img { display:block; width:100%; max-height:155mm; object-fit:contain; border:1px solid var(--line); }
+  figcaption { margin-top:2mm; color:var(--muted); font-size:9pt; text-align:center; }
+  .footer-note { margin-top:12mm; padding-top:3mm; border-top:1px solid var(--line); color:var(--muted); font-size:8.5pt; }
+  @media print {
+    html, body { background:white; }
+    body { max-width:none; margin:0; padding:0; }
+    h1 { break-before:avoid; }
+    a { color:inherit; }
+    -webkit-print-color-adjust:exact; print-color-adjust:exact;
+  }
+</style>
+</head>
+<body>
+<h1>研究概要书</h1>
+<h2>研究题目</h2>
+<p><strong>词汇情感常模能否迁移至诱发情绪体验：NRC-VAD与DREAMER的跨情境对齐研究</strong></p>
+<p>英文题目：<em>Are Lexical VAD Norms Transportable to Elicited Emotion? A Cross-Context Alignment Study of NRC-VAD and DREAMER</em></p>
+<h2>一句话概要</h2>
+<p>本研究不预设“情绪词的VAD坐标”和“观看影片后的VAD体验”可以互换，而是检验二者在多大程度上共享结构，并区分整体量尺差异与特定情绪的额外偏离。</p>
+<h2>研究出发点与必要性</h2>
+<p>Valence、Arousal和Dominance（VAD）同时存在于词汇情感常模、情绪诱发实验和情感计算数据库中，因此常被当作一种跨任务的共同坐标。然而，坐标名称相同不代表测量对象相同。NRC-VAD描述词语通常具有的情感意义；DREAMER的SAM评分描述参与者观看特定影片后报告的即时状态。前者更接近共享的语义知识，后者同时受到刺激内容、个体状态、情境和量表使用方式影响。</p>
+<p>如果不检验这种跨情境可迁移性，研究者可能把词汇标签、刺激常模和体验评分直接合并，却不知道差异来自情绪本身，还是来自任务、量尺和样本。这不是简单的“两个数据库做相关”，而是一个测量边界问题：<strong>语言中的情绪坐标能否作为体验坐标的代理，若只能部分代理，其失效发生在哪些维度和类别？</strong></p>
+<p>Barrett（2004）指出，经验性情绪自评既包含当下体验信息，也会受到情绪词语义结构影响；Robinson和Clore（2002）进一步区分了即时体验信息与一般情绪信念。Bradley和Lang（1994）的SAM测量刺激后的愉悦、唤醒和控制体验，而Mohammad（2018）的NRC-VAD测量词义的VAD属性。现有理论因此支持“相关但不等价”的预期，却仍需要可量化的跨数据检验。</p>
+<h2>研究目的</h2>
+<ol>
+<li>检验九类情绪的词汇VAD与影片诱发VAD在各维度上的结构对应。</li>
+<li>估计DREAMER相对NRC是否存在整体平移或压缩，避免把全局量尺差异误认为某一情绪的特殊差异。</li>
+<li>在去除整体线性映射后，识别仍具有较大残差的情绪类别，作为后续直接实验的优先对象。</li>
+<li>评估上述结论对单一情绪、词形选择和Dominance计分方向是否敏感。</li>
+<li>探索粗粒度EEG/ECG特征是否解释同一影片内个体VAD偏差，但不将生理信号视为VAD真值。</li>
+</ol>
+<h2>研究问题</h2>
+<ul>
+<li><strong>RQ1</strong>：词汇常模与诱发体验在V、A、D三个维度上的类别结构是否对应？</li>
+<li><strong>RQ2</strong>：两套坐标的偏差有多少表现为全局量尺压缩，有多少是类别特异残差？</li>
+<li><strong>RQ3</strong>：哪些情绪在校准后仍值得优先复核？该排序的不确定性有多大？</li>
+<li><strong>RQ4（探索性）</strong>：EEG/ECG基线变化是否与个体层面对齐距离相关？</li>
+</ul>
+<h2>数据与设计</h2>
+<ul>
+<li>DREAMER v1.0.2：23名参与者、18段影片、414个完整试次。</li>
+<li>九类目标情绪：amusement、anger、calmness、disgust、excitement、fear、happiness、sadness、surprise。</li>
+<li>每类情绪由两段影片表示，参与者在每段影片后使用1-5分SAM报告VAD。</li>
+<li>DREAMER评分按 <code>(score - 3) / 2</code> 映射至[-1, 1]。</li>
+<li>NRC-VAD v2.1提供对应英文情绪名词的词汇坐标；名词为主分析，状态形容词为敏感性分析。</li>
+<li>核心统计推断单位是九个情绪类别。414个试次用于估计DREAMER类别质心和不确定性，不用于虚增跨数据库检验样本量。</li>
+</ul>
+<h2>分析策略</h2>
+<ol>
+<li>分别计算V、A、D的Pearson和Spearman相关。</li>
+<li>枚举全部 <code>9! = 362,880</code> 种类别标签排列，获得精确p值，并对三维检验做Holm校正。</li>
+<li>同时重抽参与者与每类中的影片，执行5,000次双层bootstrap。</li>
+<li>以保持V/A/D轴含义的标准化构型一致性检验整体三维结构，不允许通过旋转交换维度含义。</li>
+<li>拟合NRC到DREAMER的逐维仿射映射，描述整体压缩与平移。</li>
+<li>对每类情绪执行leave-one-emotion-out校准，用其他八类预测被留出的类别，计算VA和VAD残差。</li>
+<li>逐一删除情绪类别，检查相关结论是否由单一类别驱动。</li>
+<li>报告名词/形容词和Dominance反向编码敏感性。</li>
+</ol>
+<h2>已获得的主要结果</h2>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th align="right">Pearson r</th>
+<th align="right">精确p</th>
+<th align="right">Holm p</th>
+<th>双层bootstrap 95% CI</th>
+<th>结论</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Valence</td>
+<td align="right">.875</td>
+<td align="right">.0061</td>
+<td align="right">.0184</td>
+<td>[.762, .920]</td>
+<td>强且稳定的跨情境结构对应</td>
+</tr>
+<tr>
+<td>Arousal</td>
+<td align="right">.832</td>
+<td align="right">.0169</td>
+<td align="right">.0339</td>
+<td>[.370, .913]</td>
+<td>存在线性对应，但排序和类别影响较不稳定</td>
+</tr>
+<tr>
+<td>Dominance</td>
+<td align="right">-.121</td>
+<td align="right">.7923</td>
+<td align="right">.7923</td>
+<td>[-.432, .280]</td>
+<td>未发现跨情境对应</td>
+</tr>
+</tbody></table>
+<p>保持维度轴不旋转的整体构型一致性为 <code>C=.529</code>，单侧精确置换 <code>p=.0058</code>，双层bootstrap 95% CI为 <code>[.299, .651]</code>。这说明三维空间总体并非随机对应，但一致性主要由V和A贡献，不能用整体显著掩盖D的失配。</p>
+<p>NRC到DREAMER的斜率分别为V <code>.520</code>、A <code>.341</code>、D <code>-.055</code>。V和A明显低于1，说明DREAMER类别均值相对词汇常模更集中。该压缩可能来自多名参与者和两段影片的平均、刺激强度、任务参照及量尺差异，不能归因于单一机制。</p>
+<p>校准后的VAD残差从小到大为excitement、fear、anger、amusement、sadness、disgust、happiness、surprise、calmness。calmness点估计最大（<code>.759</code>，95% CI <code>[.538, 1.036]</code>），但多数类别区间广泛重叠，因此只能将其称为优先复核对象，不能建立确定的普遍排行榜。</p>
+<p>逐类删除后，Valence相关保持在<code>.848-.922</code>，显示结论稳定；Arousal为<code>.482-.898</code>，更依赖类别构成；Dominance为<code>-.574-.049</code>，始终没有稳定正对应。名词和形容词分析给出相同的维度模式。Dominance反向仅改变相关符号，不改变其不显著性。</p>
+<p>七项粗粒度EEG/ECG特征在控制影片固定效应、按参与者聚类标准误并做Holm校正后均不显著。其含义是当前特征未解释同一影片内的个体对齐偏差，而不是“生理与情绪无关”。</p>
+<h2>预期贡献</h2>
+<h3>理论贡献</h3>
+<p>将“词义理解和诱发体验是否可比”的争论转化为可检验的跨情境迁移问题。结果支持二者相关但不等价，并显示这种关系具有维度特异性。</p>
+<h3>方法贡献</h3>
+<p>提出一套区分结构相关、绝对坐标距离、全局尺度映射和类别特异残差的分析流程。它比单独报告相关或欧氏距离更能避免错误解释。</p>
+<h3>应用贡献</h3>
+<p>为使用词汇VAD标注刺激、训练情感模型或连接异质情绪数据库提供边界证据：Valence可能较适合作为跨情境桥梁；Arousal需要校准；Dominance不应在未核对参照对象和计分方向时直接迁移。</p>
+<h2>研究限制</h2>
+<ol>
+<li>核心检验只有九个类别，不能推广到全部复杂情绪。</li>
+<li>每类只有两段影片，刺激与类别部分混淆，影片总体误差估计不足。</li>
+<li>NRC与DREAMER来自不同参与者、任务和时间，不支持个体内预测或因果归因。</li>
+<li>词典坐标被视为固定值，当前数据无法传播NRC原始评分者层面的测量误差。</li>
+<li>Dominance的具体解释仍依赖DREAMER原始SAM界面方向和题干核验。</li>
+<li>情绪特异残差为探索性结果，其排序需要外部数据库或新实验复现。</li>
+</ol>
+<h2>当前论文定位</h2>
+<p>本研究适合定位为<strong>探索性二手数据研究、方法短文或预印本</strong>，核心表述为cross-context alignment或transportability，而不是validation或measurement invariance。当前证据足以形成边界清楚的论文，但不足以证明语义VAD和体验VAD可以互换。</p>
+<h2>后续直接验证</h2>
+<p>下一阶段最强的设计是在同一参与者内，对同一情绪概念获得词汇联想、典型体验和影片诱发后的VAD评分，并统一量尺、题干和Dominance参照对象。当前结果可用于选择重点类别、估计效应范围并预注册分析，而不是替代该直接实验。</p>
+<h2>核心参考文献</h2>
+<ul>
+<li>Barrett, L. F. (2004). Feelings or words? <em>Journal of Personality and Social Psychology, 87</em>(2), 266-281. <a href="https://doi.org/10.1037/0022-3514.87.2.266">https://doi.org/10.1037/0022-3514.87.2.266</a></li>
+<li>Bradley, M. M., &amp; Lang, P. J. (1994). Measuring emotion: The Self-Assessment Manikin and the Semantic Differential. <em>Journal of Behavior Therapy and Experimental Psychiatry, 25</em>(1), 49-59. <a href="https://doi.org/10.1016/0005-7916(94)90063-9">https://doi.org/10.1016/0005-7916(94)90063-9</a></li>
+<li>Katsigiannis, S., &amp; Ramzan, N. (2018). DREAMER. <em>IEEE Journal of Biomedical and Health Informatics, 22</em>(1), 98-107. <a href="https://doi.org/10.1109/JBHI.2017.2688239">https://doi.org/10.1109/JBHI.2017.2688239</a></li>
+<li>Mohammad, S. M. (2018). Obtaining reliable human ratings of valence, arousal, and dominance for 20,000 English words. <em>ACL 2018</em>, 174-184. <a href="https://doi.org/10.18653/v1/P18-1017">https://doi.org/10.18653/v1/P18-1017</a></li>
+<li>Robinson, M. D., &amp; Clore, G. L. (2002). Belief and feeling. <em>Psychological Bulletin, 128</em>(6), 934-960. <a href="https://doi.org/10.1037/0033-2909.128.6.934">https://doi.org/10.1037/0033-2909.128.6.934</a></li>
+</ul>
+
+<section class="figures">
+  <h2>核心可视化</h2>
+  
+    <figure>
+      <img src="file:///E:/dolylab/%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E7%9B%B8%E5%85%B3/vad-emotion-research/results/dreamer_nrc_robustness/figure_1_dimension_alignment.png" alt="图1. V、A、D三个维度的跨情境对应">
+      <figcaption>图1. V、A、D三个维度的跨情境对应</figcaption>
+    </figure>
+
+    <figure>
+      <img src="file:///E:/dolylab/%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E7%9B%B8%E5%85%B3/vad-emotion-research/results/dreamer_nrc_robustness/figure_2_scale_compression.png" alt="图2. NRC到DREAMER的量尺映射斜率">
+      <figcaption>图2. NRC到DREAMER的量尺映射斜率</figcaption>
+    </figure>
+
+    <figure>
+      <img src="file:///E:/dolylab/%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E7%9B%B8%E5%85%B3/vad-emotion-research/results/dreamer_nrc_robustness/figure_3_influence_diagnostics.png" alt="图3. 逐一删除情绪类别后的相关稳定性">
+      <figcaption>图3. 逐一删除情绪类别后的相关稳定性</figcaption>
+    </figure>
+
+    <figure>
+      <img src="file:///E:/dolylab/%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E7%9B%B8%E5%85%B3/vad-emotion-research/results/dreamer_nrc_robustness/figure_4_calibrated_discrepancy.png" alt="图4. 仿射校准后的情绪类别残差及双层bootstrap区间">
+      <figcaption>图4. 仿射校准后的情绪类别残差及双层bootstrap区间</figcaption>
+    </figure>
+</section>
+<p class="footer-note">分析输入、精确置换结果、bootstrap区间和图表均由项目可复现脚本生成。原始许可数据不随文档分发。</p>
+</body>
+</html>
