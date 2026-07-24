@@ -159,20 +159,28 @@ def configure_document(doc: Document) -> None:
 def add_cover(doc: Document) -> None:
     p = doc.add_paragraph()
     p.paragraph_format.space_after = Pt(68)
-    run = p.add_run("研究进展报告  ·  2026.07.15")
+    run = p.add_run("研究进展报告  ·  2026.07.24")
     set_font(run, size=10, bold=True, color=RED)
 
     title = doc.add_paragraph(style="Title")
     title.paragraph_format.space_after = Pt(10)
-    set_font(title.add_run("从情绪词到诱发体验"), size=29, bold=True, color=INK)
+    set_font(title.add_run("研究进展报告"), size=29, bold=True, color=INK)
 
     subtitle = doc.add_paragraph()
     subtitle.paragraph_format.space_after = Pt(30)
-    set_font(subtitle.add_run("NRC-VAD 与 DREAMER 三维情绪空间对齐研究"), size=16, bold=True, color=TEAL)
+    set_font(
+        subtitle.add_run(
+            "感情語に対する意味的評価と映像によって喚起された情動体験との"
+            "VAD次元別対応関係の検討"
+        ),
+        size=15,
+        bold=True,
+        color=TEAL,
+    )
 
     line = doc.add_paragraph()
     line.paragraph_format.space_after = Pt(24)
-    set_font(line.add_run("公共数据探索性研究完成  |  论文数据稿形成"), size=11, color=MUTED)
+    set_font(line.add_run("研究题目确定  |  主分析与稳健性复核完成"), size=11, color=MUTED)
 
     table = doc.add_table(rows=3, cols=2)
     table.alignment = WD_TABLE_ALIGNMENT.LEFT
@@ -239,6 +247,8 @@ def add_markdown_table(doc: Document, rows: list[str]) -> None:
 
 
 def add_figure(doc: Document, path: Path, caption: str, width: float) -> None:
+    if not path.exists():
+        return
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.keep_together = True
@@ -318,7 +328,7 @@ def main() -> None:
     render_body(doc, SOURCE.read_text(encoding="utf-8"))
 
     core = doc.core_properties
-    core.title = "从情绪词到诱发体验：NRC-VAD 与 DREAMER 三维情绪空间对齐研究进展报告"
+    core.title = "感情语意义评价与影片诱发情动体验的VAD次元别对应关系研究进展报告"
     core.subject = "DREAMER 与 NRC-VAD 跨语境对齐研究"
     core.author = "研究项目组"
     core.keywords = "VAD, DREAMER, NRC-VAD, 情绪诱发, 词义理解"

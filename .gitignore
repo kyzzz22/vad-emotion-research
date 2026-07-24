@@ -31,3 +31,4 @@ Thumbs.db
 # Generated document previews and portable archives can be rebuilt locally.
 /paper/report_verification/
 /visualization/*.zip
+.codex_tmp/
