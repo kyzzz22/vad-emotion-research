@@ -2,7 +2,7 @@
 
 ## DREAMER × NRC-VAD 完全分析報告書
 
-**報告日：2026年7月29日**
+**報告日：2026年7月30日**
 
 **研究段階：探索的二次データ分析・論文化準備**
 **英語題目案：** *From Emotion Words to Elicited Experience: Dimension-Specific Cross-Context Alignment Between NRC-VAD and DREAMER*

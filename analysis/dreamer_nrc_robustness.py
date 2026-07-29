@@ -32,7 +32,24 @@ DEFAULT_INPUT = (
 DEFAULT_OUTPUT = ROOT / "results" / "dreamer_nrc_robustness"
 DIMS = ("valence", "arousal", "dominance")
 DIM_LABELS = {"valence": "Valence", "arousal": "Arousal", "dominance": "Dominance"}
-COLORS = {"valence": "#0072B2", "arousal": "#D55E00", "dominance": "#009E73"}
+DIM_LABELS_JA = {
+    "valence": "快―不快（Valence）",
+    "arousal": "覚醒度（Arousal）",
+    "dominance": "支配性（Dominance）",
+}
+EMOTION_LABELS_JA = {
+    "happiness": "幸福",
+    "excitement": "興奮",
+    "anger": "怒り",
+    "calmness": "平静",
+    "amusement": "愉快",
+    "fear": "恐怖",
+    "surprise": "驚き",
+    "disgust": "嫌悪",
+    "sadness": "悲しみ",
+}
+COLORS = {"valence": "#000000", "arousal": "#000000", "dominance": "#000000"}
+MARKERS = {"valence": "o", "arousal": "s", "dominance": "^"}
 LABEL_OFFSETS = {
     "valence": {
         "calmness": (-4, 14), "excitement": (6, -18), "happiness": (6, 10),
@@ -336,7 +353,10 @@ def hierarchical_bootstrap(
 
 def save_figure(fig: plt.Figure, output: Path, stem: str) -> None:
     fig.savefig(output / f"{stem}.png", dpi=300, bbox_inches="tight", facecolor="white")
-    fig.savefig(output / f"{stem}.svg", bbox_inches="tight", facecolor="white")
+    svg_path = output / f"{stem}.svg"
+    fig.savefig(svg_path, bbox_inches="tight", facecolor="white")
+    svg = "\n".join(line.rstrip() for line in svg_path.read_text(encoding="utf-8").splitlines())
+    svg_path.write_text(f"{svg}\n", encoding="utf-8")
     plt.close(fig)
 
 
@@ -350,12 +370,36 @@ def make_figures(
 ) -> None:
     plt.rcParams.update(
         {
-            "font.family": "DejaVu Sans",
-            "font.size": 10,
+            "font.family": "sans-serif",
+            "font.sans-serif": [
+                "Meiryo",
+                "Yu Gothic",
+                "Hiragino Sans",
+                "Noto Sans JP",
+                "DejaVu Sans",
+            ],
+            "font.weight": "normal",
+            "font.size": 10.5,
+            "text.color": "#000000",
+            "axes.labelcolor": "#000000",
+            "axes.titlecolor": "#000000",
+            "axes.titlesize": 12.5,
+            "axes.titleweight": "bold",
+            "axes.labelsize": 10.5,
+            "xtick.color": "#000000",
+            "ytick.color": "#000000",
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
             "axes.spines.top": False,
             "axes.spines.right": False,
+            "axes.spines.left": True,
+            "axes.spines.bottom": True,
+            "axes.edgecolor": "#000000",
+            "axes.linewidth": 0.8,
             "axes.grid": False,
             "figure.dpi": 120,
+            "legend.fontsize": 9.5,
+            "svg.fonttype": "none",
         }
     )
 
@@ -370,27 +414,44 @@ def make_figures(
         ax.axline((-1, -1), (1, 1), color="#B8B8B8", linewidth=1, linestyle="--")
         slope, intercept = np.polyfit(x, y, 1)
         grid = np.linspace(-1, 1, 100)
-        ax.plot(grid, intercept + slope * grid, color=COLORS[dim], linewidth=2)
-        ax.scatter(x, y, color=COLORS[dim], edgecolor="white", linewidth=0.7, s=62, zorder=3)
+        ax.plot(grid, intercept + slope * grid, color="#000000", linewidth=2)
+        ax.scatter(
+            x,
+            y,
+            color="#000000",
+            marker=MARKERS[dim],
+            edgecolor="white",
+            linewidth=0.7,
+            s=62,
+            zorder=3,
+        )
         for _, row in categories.iterrows():
             offset = LABEL_OFFSETS.get(dim, {}).get(row["emotion"], (4, 4))
             ax.annotate(
-                row["emotion"],
+                EMOTION_LABELS_JA[row["emotion"]],
                 (row[f"{dim}_nrc"], row[f"{dim}_elicited"]),
                 xytext=offset,
                 textcoords="offset points",
-                fontsize=7.5,
+                fontsize=8.5,
+                color="#000000",
             )
         test = main_exact.loc[dim]
         ax.set_title(
-            f"{DIM_LABELS[dim]}\nr = {test['pearson_r']:.2f}, exact p = {test['pearson_exact_p']:.3f}"
+            f"{DIM_LABELS_JA[dim]}\n"
+            f"r = {test['pearson_r']:.2f}、正確 p = {test['pearson_exact_p']:.3f}"
         )
-        ax.set_xlabel("NRC lexical norm")
+        ax.set_xlabel("NRC語彙規範値")
         ax.set_xlim(-1.05, 1.05)
         ax.set_ylim(-1.05, 1.05)
         ax.set_aspect("equal", adjustable="box")
-    axes[0].set_ylabel("DREAMER elicited mean")
-    fig.suptitle("Dimension-specific cross-context alignment", y=1.02, fontsize=13)
+    axes[0].set_ylabel("DREAMER誘発評定平均")
+    fig.suptitle(
+        "次元別のクロスコンテクスト整合性",
+        y=1.02,
+        fontsize=14,
+        fontweight="bold",
+        color="#000000",
+    )
     fig.tight_layout()
     save_figure(fig, output, "figure_1_dimension_alignment")
 
@@ -404,17 +465,17 @@ def make_figures(
             index,
             xerr=[[row["slope"] - row["slope_ci_low"]], [row["slope_ci_high"] - row["slope"]]],
             fmt="o",
-            color=color,
-            ecolor=color,
+            color="#000000",
+            ecolor="#000000",
             capsize=4,
             markersize=7,
         )
-    ax.axvline(1, color="#666666", linestyle="--", linewidth=1, label="Identity slope")
+    ax.axvline(1, color="#666666", linestyle="--", linewidth=1, label="同一尺度（傾き = 1）")
     ax.axvline(0, color="#C8C8C8", linewidth=1)
-    ax.set_yticks(y, [DIM_LABELS[value] for value in slopes["dimension"]])
-    ax.set_xlabel("DREAMER on NRC slope (hierarchical bootstrap 95% CI)")
-    ax.set_title("Cross-context scale compression")
-    ax.legend(frameon=False, loc="lower right")
+    ax.set_yticks(y, [DIM_LABELS_JA[value] for value in slopes["dimension"]])
+    ax.set_xlabel("NRCからDREAMERへの回帰係数（階層ブートストラップ95% CI）")
+    ax.set_title("クロスコンテクストの尺度圧縮")
+    ax.legend(frameon=False, loc="upper right")
     fig.tight_layout()
     save_figure(fig, output, "figure_2_scale_compression")
 
@@ -428,11 +489,18 @@ def make_figures(
     offsets = np.linspace(-0.22, 0.22, len(DIMS))
     for offset, dim in zip(offsets, DIMS):
         frame = main_influence[main_influence["dimension"] == dim].set_index("omitted_emotion").loc[emotions]
-        ax.scatter(x + offset, frame["pearson_r"], label=DIM_LABELS[dim], color=COLORS[dim], s=45)
+        ax.scatter(
+            x + offset,
+            frame["pearson_r"],
+            label=DIM_LABELS_JA[dim],
+            color="#000000",
+            marker=MARKERS[dim],
+            s=45,
+        )
     ax.axhline(0, color="#A8A8A8", linewidth=1)
-    ax.set_xticks(x, emotions, rotation=35, ha="right")
-    ax.set_ylabel("Pearson r after omitting one emotion")
-    ax.set_title("Leave-one-emotion-out influence analysis")
+    ax.set_xticks(x, [EMOTION_LABELS_JA[value] for value in emotions], rotation=25, ha="right")
+    ax.set_ylabel("1感情除外後の Pearson r")
+    ax.set_title("1感情除外による影響分析")
     ax.legend(frameon=False, ncol=3)
     fig.tight_layout()
     save_figure(fig, output, "figure_3_influence_diagnostics")
@@ -451,14 +519,14 @@ def make_figures(
         y,
         xerr=xerr,
         fmt="o",
-        color="#CC79A7",
-        ecolor="#8E8E8E",
+        color="#000000",
+        ecolor="#000000",
         capsize=3,
         markersize=7,
     )
-    ax.set_yticks(y, ordered["emotion"])
-    ax.set_xlabel("LOEO calibrated VAD residual (hierarchical bootstrap 95% CI)")
-    ax.set_title("Emotion-specific discrepancy after affine calibration")
+    ax.set_yticks(y, [EMOTION_LABELS_JA[value] for value in ordered["emotion"]])
+    ax.set_xlabel("LOEO校正VAD残差（階層ブートストラップ95% CI）")
+    ax.set_title("アフィン校正後の感情別乖離")
     fig.tight_layout()
     save_figure(fig, output, "figure_4_calibrated_discrepancy")
 

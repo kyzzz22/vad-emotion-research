@@ -86,16 +86,16 @@ async function main() {
 <title>DREAMER × NRC-VAD 完全分析報告書</title>
 <style>
   :root {
-    --ink:#18232d;
-    --muted:#586674;
-    --blue:#0b5f8a;
-    --teal:#087f6b;
-    --orange:#c75b18;
-    --line:#d6dde3;
-    --wash:#f3f7f9;
-    --dark:#263845;
+    --ink:#000000;
+    --muted:#333333;
+    --blue:#000000;
+    --line:#b8b8b8;
+    --wash:#f2f2f2;
+    --dark:#000000;
+    --heading-font:"Noto Sans JP","Yu Gothic","Hiragino Sans","Meiryo",sans-serif;
+    --body-font:"Noto Serif JP","Yu Mincho","Hiragino Mincho ProN","MS PMincho",serif;
   }
-  @page { size:A4; margin:15mm 16mm 17mm; }
+  @page { size:A4; margin:16mm 17mm 17mm; }
   * { box-sizing:border-box; }
   html { background:#e8ecef; }
   body {
@@ -103,77 +103,88 @@ async function main() {
     margin:20px auto;
     padding:18mm 17mm;
     background:white;
-    color:var(--ink);
-    font-family:"Noto Sans CJK JP","Yu Gothic","Hiragino Kaku Gothic ProN","Meiryo",Arial,sans-serif;
-    font-size:10.2pt;
-    line-height:1.72;
+    color:#000000;
+    font-family:var(--body-font);
+    font-size:10.5pt;
+    line-height:1.68;
+    letter-spacing:0;
   }
   body > h1:first-of-type {
     margin:0 0 10mm;
     padding:25mm 0 12mm;
-    border-bottom:5px solid var(--blue);
-    font-size:27pt;
-    line-height:1.28;
-    color:var(--ink);
+    border-bottom:4px solid var(--blue);
+    font-family:var(--heading-font);
+    font-size:24pt;
+    line-height:1.38;
+    color:#000000;
   }
   body > h1:first-of-type::before {
-    content:"FULL ANALYSIS REPORT  •  2026.07.29";
+    content:"研究分析報告書　2026年7月30日";
     display:block;
     margin-bottom:9mm;
-    color:var(--orange);
-    font-size:9pt;
+    color:#000000;
+    font-family:var(--heading-font);
+    font-size:9.5pt;
     font-weight:700;
-    letter-spacing:1.2px;
+    letter-spacing:0;
   }
   h1 {
-    margin:12mm 0 5mm;
+    margin:10mm 0 4.5mm;
     padding-bottom:3mm;
-    border-bottom:3px solid var(--blue);
-    color:var(--blue);
-    font-size:20pt;
+    border-bottom:2px solid var(--blue);
+    color:#000000;
+    font-family:var(--heading-font);
+    font-size:18pt;
+    font-weight:700;
     line-height:1.35;
     break-before:page;
     break-after:avoid;
+    break-inside:avoid;
   }
   body > h1:first-of-type { break-before:avoid; }
   h2 {
-    margin:8mm 0 3mm;
+    margin:6.5mm 0 2.5mm;
     padding-bottom:1.5mm;
     border-bottom:1px solid var(--line);
-    color:var(--teal);
-    font-size:14.5pt;
+    color:#000000;
+    font-family:var(--heading-font);
+    font-size:14pt;
+    font-weight:700;
     line-height:1.4;
     break-after:avoid;
   }
   h3 {
-    margin:6mm 0 2mm;
-    color:var(--dark);
+    margin:5mm 0 1.8mm;
+    color:#000000;
+    font-family:var(--heading-font);
     font-size:11.5pt;
+    font-weight:700;
     break-after:avoid;
   }
-  p { margin:0 0 3.2mm; orphans:3; widows:3; }
-  strong { color:#101820; }
+  p { margin:0 0 2.8mm; orphans:3; widows:3; }
+  strong { color:#000000; }
   blockquote {
     margin:5mm 0;
     padding:4mm 5mm;
-    border-left:4px solid var(--orange);
+    border-left:3px solid var(--blue);
     background:var(--wash);
-    color:#20303d;
-    font-size:10.7pt;
+    color:#000000;
+    font-size:10.5pt;
   }
-  ul, ol { margin:2mm 0 4mm; padding-left:7mm; }
-  li { margin:1.1mm 0; }
+  ul, ol { margin:1.8mm 0 3.2mm; padding-left:7mm; }
+  li { margin:.8mm 0; }
   table {
     width:100%;
     margin:4mm 0 6mm;
     border-collapse:collapse;
-    font-size:8.6pt;
+    font-family:var(--heading-font);
+    font-size:9pt;
     break-inside:avoid;
   }
   th {
     padding:2.2mm;
-    background:var(--dark);
-    color:white;
+    background:#e6e6e6;
+    color:#000000;
     text-align:left;
     font-weight:600;
   }
@@ -188,18 +199,18 @@ async function main() {
     border-radius:2px;
     background:#edf2f5;
     font-family:Consolas,"SFMono-Regular",monospace;
-    font-size:9pt;
+    font-size:8.8pt;
   }
   pre {
     margin:4mm 0 5mm;
     padding:3mm 4mm;
-    border-left:3px solid var(--teal);
+    border-left:3px solid var(--blue);
     background:#eef3f5;
     white-space:pre-wrap;
     break-inside:avoid;
   }
   pre code { padding:0; background:transparent; }
-  a { color:var(--blue); text-decoration:none; word-break:break-all; }
+  a { color:#000000; text-decoration:underline; word-break:break-all; }
   img {
     display:block;
     width:100%;
