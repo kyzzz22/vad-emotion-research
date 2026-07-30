@@ -1,0 +1,11 @@
+{
+  "analysis": "DEAP independent replication of DREAMER VAD alignment findings",
+  "database": "DEAP (Koelstra et al., 2012)",
+  "participants": 32,
+  "videos": 40,
+  "trials": 1280,
+  "lexical_reference": "Warriner et al. (2013)",
+  "bootstrap_iterations": 3000,
+  "random_seed": 20260724,
+  "scale_transform": "(score - 5) / 4 for both DEAP and Warriner (1-9 → [-1,1])"
+}

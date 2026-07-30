@@ -20,13 +20,20 @@ Thumbs.db
 /results/*
 !/results/dreamer_nrc_robustness/
 !/results/dreamer_nrc_robustness/**
+!/results/cross_lexicon/
+!/results/cross_lexicon/**
+!/results/deap_validation/
+!/results/deap_validation/**
 
 # Licensed/restricted public datasets: keep acquisition notes, not source files.
 /DREAMER.mat
 /public_data/case_pilot/case_dataset/
 /public_data/case_pilot/nrc_vad/
+/public_data/nrc_vad/
 /public_data/licensed/dreamer/*
 !/public_data/licensed/dreamer/README.md
+/public_data/licensed/deap/
+/public_data/Ratings_Warriner_et_al.csv
 
 # Generated document previews and portable archives can be rebuilt locally.
 /paper/report_verification/

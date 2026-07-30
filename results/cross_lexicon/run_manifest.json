@@ -1,0 +1,11 @@
+{
+  "analysis": "Cross-lexicon validation: NRC-VAD v2 vs Warriner (2013)",
+  "databases": [
+    "NRC-VAD v2.1",
+    "Warriner et al. (2013)",
+    "DREAMER v1.0.2"
+  ],
+  "emotions": 9,
+  "lexicons_compared": 3,
+  "random_seed": 20260724
+}

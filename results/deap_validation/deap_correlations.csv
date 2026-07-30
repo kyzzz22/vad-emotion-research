@@ -1,0 +1,7 @@
+lexicon,dimension,n,pearson_r,pearson_p,spearman_rho,spearman_p
+Warriner,valence,40,0.125,0.4421,0.1552,0.3388
+Warriner,arousal,40,-0.3425,0.0305,-0.4108,0.0085
+Warriner,dominance,40,0.1937,0.2311,0.1001,0.539
+NRC,valence,40,0.2273,0.1583,0.2049,0.2047
+NRC,arousal,40,-0.3046,0.056,-0.425,0.0063
+NRC,dominance,40,0.3653,0.0205,0.41,0.0086

@@ -1,0 +1,7 @@
+lexicon,dimension,slope,intercept
+Warriner,valence,0.0428,3.1682
+Warriner,arousal,-0.1985,4.7383
+Warriner,dominance,0.1549,4.3794
+NRC,valence,0.2867,3.2919
+NRC,arousal,-0.5196,3.8356
+NRC,dominance,0.7272,5.2896
