@@ -39,3 +39,17 @@ Thumbs.db
 /paper/report_verification/
 /visualization/*.zip
 .codex_tmp/
+
+# AI/assistant scratch working directories — intermediate renders, node_modules,
+# licensed bundled fonts, and other users' reference templates. Never for commit.
+.codex_labrefs/
+.codex_poster_relayout/
+.docx_qa/
+.docx_template/
+.tmp_poster_content_augmented/
+.tmp_poster_layout_balanced/
+.tmp_poster_senior_layout/
+.tmp_poster_two_col_review/
+
+# Presentation/XML inspection dumps.
+*.inspect.ndjson

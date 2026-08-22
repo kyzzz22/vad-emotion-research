@@ -11,10 +11,7 @@ async function main() {
   const markdown = fs.readFileSync(source, "utf8");
   const body = marked.parse(markdown, { gfm: true });
   const figures = [
-    ["figure_1_dimension_alignment.png", "图1. V、A、D三个维度的跨情境对应"],
-    ["figure_2_scale_compression.png", "图2. NRC到DREAMER的量尺映射斜率"],
-    ["figure_3_influence_diagnostics.png", "图3. 逐一删除情绪类别后的相关稳定性"],
-    ["figure_4_calibrated_discrepancy.png", "图4. 仿射校准后的情绪类别残差及双层bootstrap区间"],
+    ["figure_overview_main.png", "图1. 感情词意义评价与影片诱发情动的VAD次元别对应"],
   ];
   const figureDir = path.join(root, "results", "dreamer_nrc_robustness");
   const figureHtml = figures.map(([name, caption]) => `

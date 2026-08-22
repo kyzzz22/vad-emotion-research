@@ -1,11 +1,11 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DREAMER × NRC VAD 三维对照</title>
+  <title>DREAMER × NRC VAD 3次元対照</title>
   <link rel="icon" href="data:,">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=guided-ja-20260822-4">
   <script type="importmap">
     {
       "imports": {
@@ -19,10 +19,15 @@
   <main id="app">
     <header class="topbar">
       <div>
-        <h1>词义坐标与诱发体验</h1>
-        <p>NRC × DREAMER · VAD 三维偏移</p>
+        <h1>語意座標と誘発体験</h1>
+        <p>NRC × DREAMER · VAD 3次元偏移</p>
       </div>
       <div class="top-actions">
+        <div class="mode-switch" role="group" aria-label="演示模式">
+          <button id="tour-mode" class="mode-button active" type="button">ガイド</button>
+          <button id="explore-mode" class="mode-button" type="button">自由探索</button>
+        </div>
+        <button id="language-toggle" class="language-button" type="button" aria-label="言語切替">中</button>
         <button id="reset-camera" class="icon-button" type="button" title="重置视角" aria-label="重置视角">↺</button>
         <button id="toggle-panel" class="icon-button panel-toggle" type="button" title="显示或隐藏数据面板" aria-label="显示或隐藏数据面板">☰</button>
       </div>
@@ -33,20 +38,46 @@
       <div id="labels" aria-hidden="true"></div>
       <div id="tooltip" role="status"></div>
       <div class="scene-legend">
-        <span><i class="legend-cube"></i>NRC 词义</span>
-        <span><i class="legend-sphere"></i>DREAMER 体验</span>
+        <span><i class="legend-cube"></i>NRC 語意</span>
+        <span><i class="legend-sphere"></i>DREAMER 体験</span>
         <span><i class="legend-line"></i>偏移方向</span>
       </div>
       <div class="axis-key" aria-hidden="true">
-        <span class="axis-v">V 愉悦度</span>
-        <span class="axis-a">A 唤醒度</span>
-        <span class="axis-d">D 控制感</span>
+        <span class="axis-v">V 快—不快</span>
+        <span class="axis-a">A 覚醒度</span>
+        <span class="axis-d">D 制御感</span>
       </div>
+      <div id="kpi-strip" class="kpi-strip" aria-label="三个维度的对应结果">
+        <button type="button" data-projection="v"><span>V</span><strong>r=.875</strong><em>安定 ✓</em></button>
+        <button type="button" data-projection="a"><span>A</span><strong>r=.832</strong><em>圧縮 △</em></button>
+        <button type="button" data-projection="d"><span>D</span><strong>r=−.121</strong><em>対応なし ×</em></button>
+      </div>
+      <div id="projection-controls" class="projection-controls" role="group" aria-label="投影视图">
+        <button class="active" type="button" data-projection="3d">3D</button>
+        <button type="button" data-projection="v">V</button>
+        <button type="button" data-projection="a">A</button>
+        <button type="button" data-projection="d">D</button>
+      </div>
+    </section>
+
+    <section id="tour-panel" class="tour-panel" aria-live="polite">
+      <div class="tour-progress"><span id="chapter-count">01 / 07</span><i><b id="chapter-progress"></b></i></div>
+      <p id="chapter-kicker" class="chapter-kicker">序章 · VADモデル</p>
+      <h2 id="chapter-title">感情は空間上の一点として表せる</h2>
+      <p id="chapter-body" class="chapter-body"></p>
+      <div id="chapter-stat" class="chapter-stat"><strong>V · A · D</strong><span>3つの連続次元で感情を表現</span></div>
+      <div id="chapter-extra" class="chapter-extra"></div>
+      <div class="tour-nav">
+        <button id="chapter-prev" type="button" aria-label="上一章">←</button>
+        <div id="chapter-dots" class="chapter-dots" aria-label="章节导航"></div>
+        <button id="chapter-next" type="button" aria-label="下一章">→</button>
+      </div>
+      <p class="tour-hint">← → 章を移動 · Space で回転停止</p>
     </section>
 
     <aside id="panel" class="data-panel">
       <div class="panel-section selector-section">
-        <label for="emotion-select">查看情绪</label>
+        <label for="emotion-select">感情を選択</label>
         <select id="emotion-select"></select>
       </div>
 
@@ -56,6 +87,11 @@
         <label><input id="show-vectors" type="checkbox" checked>偏移箭头</label>
         <label><input id="show-labels" type="checkbox" checked>情绪标签</label>
         <label><input id="auto-rotate" type="checkbox">自动旋转</label>
+      </div>
+
+      <div class="panel-section residual-section">
+        <div class="residual-head"><h3>校正後残差ランキング</h3><span>長い = より特異</span></div>
+        <div id="residual-chart" class="residual-chart"></div>
       </div>
 
       <div class="panel-section emotion-heading">
@@ -91,6 +127,6 @@
       </div>
     </aside>
   </main>
-  <script type="module" src="./app.js"></script>
+  <script type="module" src="./app.js?v=guided-ja-20260822-4"></script>
 </body>
 </html>

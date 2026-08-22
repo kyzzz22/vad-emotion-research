@@ -8,7 +8,7 @@ while lsof -nP -iTCP:"$PORT" -sTCP:LISTEN >/dev/null 2>&1; do
   PORT=$((PORT + 1))
 done
 
-URL="http://127.0.0.1:${PORT}/"
+URL="http://127.0.0.1:${PORT}/?v=guided-ja-20260822-4"
 SERVER_PID=""
 
 cleanup() {
@@ -53,4 +53,3 @@ echo ""
 
 open "$URL"
 wait "$SERVER_PID"
-
