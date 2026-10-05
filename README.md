@@ -42,6 +42,8 @@
 - [材料审阅与访谈执行卡](protocol/A2_材料审阅与访谈执行卡.md)：下一步的人员、步骤和决策规则。
 - [两条件技术演练原型](experiment/control-pilot/README.md)：尚未实现表现匹配，评分不是SAM，不用于正式采集。
 
+- [Google Forms日语表单完整搭建稿](materials/cognitive-interview/GoogleForms_日语访谈设计_v0.1.md)与[假设结果解读](materials/cognitive-interview/假设结果与决策示例.md)：模拟示例与实际数据严格分开。
+
 ## 已备好的下一步材料
 
 - [评分指令审计（含待核实项）](literature/A2_评分指令审计.md)
